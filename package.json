@@ -1,0 +1,15 @@
+{
+  "name": "fysrevy2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fysikrevy/av-helpers": "^1.0.0",
+    "@fysikrevy/av-main": "^1.3.3"
+  }
+}

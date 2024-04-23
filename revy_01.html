@@ -1,0 +1,876 @@
+<!doctype html>
+<html>
+    <head>
+	<title>Fysikrevy™ Demo</title>
+	<meta charset="utf-8" >
+	<script type="text/javascript" src="AV-script.js"></script>
+        <style type="text/css" >
+         body {
+             background: black;
+             overflow:hidden;
+         }
+         
+         body:not(.loaded) > * {
+             display: none;
+         }
+        </style>
+    </head>
+    <body>
+	<section class="slides layout-regular" >
+	    <article>
+            </article>
+
+            <article class="build" id="bandintro" >
+                <video preload="none" >
+                    <source src="fisk/Bandvideo3.mp4" type="video/mp4" >
+                    <track src="fisk/Bandintro.vtt" 
+			   kind="subtitles" 
+			   srclang="da-DK" default>
+                </video>
+            </article>
+
+            <article id="Sang" class="build lyr">
+                <p>Tekster...</p>
+            </article>
+
+	    <article class="build lyr" id ="TermoTermoTermo">
+	      <p>En Gaskonstant, det' store R, </p>
+	      <p>for uden den så bliver det svært </p>
+	      <p>8.3</p>
+	      <p>din energi er hel ekstrem, equipartition teorem</p>
+	      <p>(Formel) 1.23</p>
+	      <p>Der er kun en, Termos første </p>
+	      <p>Hovedsætning, den er den største</p>
+	      <p>for du skal huske $\Delta U $, kan skrives W + Q</p>
+	      <p>Termo, Termo, Termo</p>
+	      <p>Du skal lære nu</p>
+	      <p>PV = NkT</p>
+	      <p>Termo, Termo, Termo</p>
+	      <p>Du skal ku' bru'</p>
+	      <P>Multiplicitet</P>
+	      <P>Aha</P>
+	      <p>Al' de ting du skal ku'</p>
+	      <p>Er i denne sang om Termo</p>
+	      <p>(Det) let at læse op</p>
+	      <p>(Nu det) let at læse op</p>
+	      <p>Ved isobar er konstant P</p>
+	      <p>og isokor har konstant V</p>
+	      <p>Helt stabilt</p>
+	      <p>2 isotermer, T konstant</p>
+	      <p>og overgang Adiabat </p>
+	      <P>Hyperbolsk </P>
+	      <p>$\gamma = (f+2)/f$ kan du tro </p>
+	      <p>Frihedsgrad afhænger af: x, y, og z, og rotation </p>
+	      <p>(og nog-le, gang-e vib-ra-ti-on) (synges dybt af en bas)</p>
+	      <p>Termo, Termo, Termo</p>
+	      <p>Du skal lære nu</p>
+	      <p>H er enthalpi</p>
+	      <p>Termo, Termo, Termo</p>
+	      <p>Du skal ku' bru'</p>
+	      <p>Gibbs fri energi (G)</p>
+	      <P>Aha</P>
+	      <p>Al' de ting du skal ku'</p>
+	      <p>For at kunne regne Termo</p>
+	      <p>du skal ik brug $\pi$</p>
+	      <p>Entropien bliver større </p>
+	      <p>der er ikke noget at gøre </p>
+	      <p>Anden lov!</p>
+	      <p>Og ændrigen i entropi</p>
+	      <p>den regnes med Q over T  </p>
+	      <P>Kvasistatisk</P>
+	      <p>(Mul)tiplicitet ska du forstå</p>
+	      <p>Tag logaritmen og gang med k </p>
+	      <p>Så har du fået entropi</p>
+	      <p>Den vil altid stig' og stige</p>
+	      <p>Termo, Termo, Termo</p>
+	      <p>Du skal lære nu</p>
+	      <P>Makrotilstande</P>
+	      <p>Termo, Termo, Termo</p>
+	      <p>Du skal ku' bru'</p>
+	      <p>Stirling-tilnærml'se</p>
+	      <P>Aha</P>
+	      <p>Al' de ting du skal ku'</p>
+	      <p>Er i denne sang om Termo</p>
+	      <p>(Det) let at læse op</p>
+	      <p>(Nu det) let at læse op</p>
+	      <p>Termo, Termo, Termo</p>
+	      <p>Du skal lære nu</p>
+	      <P>Makrotilstande</P>
+	      <p>Termo, Termo, Termo</p>
+	      <p>Du skal ku' bru'</p>
+	      <p>Stirling-tilnærml'se</p>
+	      <P>Aha</P>
+	      <p>Al' de ting du skal ku'</p>
+	      <p>Er i denne sang om Termo</p>
+	      <p>(Det) let at læse op</p>
+	      <p>(Nu det) let at læse op</p>
+	    </article>
+
+<article class="build lyr" id ="JegVilIkForskeMer">
+  <p>Når jeg nu engang er færdig</p>
+  <p>Og har forsvaret specialet</p>
+  <p>Og verden ude foran kalder</p>
+  <p>Så skal jeg ikke på uni læng're</p>
+  <p class="nej">Kom og vær en forsker</p>
+  <p class>Kom og skriv en phd hos</p>
+  <p class>Mogens eller Paaske</p>
+  <p class>Emnerne de står helt åbne</p>
+  <p class="nej">Vi ved godt du brænder</p>
+  <p>For at lære nye ting</p>
+  <p class="nej">Og du kan ikke sig nej</p>
+  <p>Nej ik for mig</p>
+  <p>Jeg går ikke den vej</p>
+  <p class="nej">Kom nu, kom her</p>
+  <p>du vil gerne lær' mer'</p>
+  <p>Den løn, for lav</p>
+  <p class="nej">Jeg får ingen pension</p>
+  <p>Selvom forholdne er slemme</p>
+  <p>Så kan jeg iiikke gleeemme</p>
+  <p class="nej">At forske brænder i mit hjerte</p>
+  <p>Men jeg vil ha' gode arbejdsforhold</p>
+  <p class="nej">Det er ikke så slemt</p>
+  <p>Masser af prestige får du</p>
+  <p class="nej">To gange om året</p>
+  <p>Har du også feriedage</p>
+  <p class="nej">Hvad skal du med penge</p>
+  <p>Du får nemlig ingen fritid</p>
+  <p class="nej">Til at bruge dem</p>
+  <p>Høj løn, hos Mærsk</p>
+  <p>Er det det der er værst?</p>
+  <p>Det er jo sandt</p>
+  <p>Kom og lav noget kvant</p>
+  <p>Det' ik' så nemt</p>
+  <p>Som fysikkonsulent </p>
+  <p>Du er for klog</p>
+  <p>Skriv en bog</p>
+  <p>Bliv forsker</p>
+  <P>Forskningsprojekt</P>
+  <p>Jeg vil ha' det</p>
+  <P>En PHD</P>
+  <p>Jeg vil ha' det</p>
+  <p>Nu skal du søg'</p>
+  <p>Det er svært, held og lyk'</p>
+  <p>Jeg bliver her</p>
+  <p>Søger en PHD</p>
+</article>
+
+<article class="build lyr" id ="DiddysRapsody">
+  <p>(Ho ho ho) \highlight[cyan]{At gør' mig umag' kan jeg ik' lov'}</p>
+  <p>Snart begynder et helt nyt kursus</p>
+  <p>Velkommen her til mit hus</p>
+  <p>Jeg er slet ikke doven</p>
+  <p>Eller grum</p>
+  <p>Jeg har bar' en ufattelig lyst </p>
+  <p>Til at alle dumper pensum</p>
+  <p>I er fuckin' DUM</p>
+  <p>Måske hvis jeg nu læste op på pensum før RØ</p>
+  <p>Kunne I måske lær' at få sne til at optø</p>
+  <p>Nyt forsøg</p>
+  <p>Men det hårdt</p>
+  <p>Ik' en sport</p>
+  <p>KU-kort</p>
+  <p>Slår rekord</p>
+  <p>Bygger fort</p>
+  <p>Bliver lord</p>
+  <p>Jeg er slet ikke doven</p>
+  <p>Eller dum</p>
+  <p>Jeg har bar' en ufattelig lyst </p>
+  <p>Til at alle dumper pensum</p>
+  <p>Måske hvis du nu læste op på pensum før RØ</p>
+  <p>Kunne I måske lær' at få sne til at optø</p>
+  <p>Dit forsøg</p>
+  <p>Det er så godt som umuligt at tænke,</p>
+  <p>Når ens forskning blir rost og ens hjerne helt most</p>
+</article>
+
+<article class="build lyr" id ="storslemSkadeligStudietid">
+  <p>Studieliv, stærkt forringet!</p>
+  <p>Svært kandidatkursus...</p>
+  <p>Nja...</p>
+  <p>Dræbereksamen of DOOM</p>
+  <P>Javist</P>
+  <p>Fuld tid, tom mave</p>
+  <P>Klassisk!</P>
+  <p>Helvedesblok, dobbeltnormeret</p>
+  <p>Åh...!</p>
+  <p>Storslem, skadelig studietid!</p>
+  <p>Ja! Ja! </p>
+  <p>*ond latter*</p>
+  <p>En student skal vær' normer't,</p>
+  <p>Aldrig lave nog't forkert,</p>
+  <p>Skønt jeg selv fik 11 år,</p>
+  <p>Er kun 5 hvad de nu får.</p>
+  <p>...Ahr, jeg tror 4 er nok.</p>
+  <p>Reeksamen den skal dø,</p>
+  <p>Nu får de kun ét forsøg,</p>
+  <p>Og vi fjerner mellemug'</p>
+  <p>Giv et ekstra år SU?</p>
+  <P>NEJ!</P>
+  <p>Åh, nå</p>
+  <p>SU'n den skal slås ihjel,</p>
+  <p>De må s'gu betale selv,</p>
+  <p>Disciplin skal bygges op:</p>
+  <p>tving dem til et studiejob...</p>
+  <p>...Ahr, jeg tror de skal ha' tre!</p>
+  <p>Døgnet har jo timer nok,</p>
+  <p>Læs fra morg'n til de står op,</p>
+  <p>Klar' den kun hvis man er klog,</p>
+  <p>Sænk så pris på læsebog?</p>
+  <P>Neeej Jakob!</P>
+  <p>Åh, nå.</p>
+  <p>Ved du hvad?! Ud med dig!!!</p>
+  <p>Men Mette, hvad gør vi uden Venstre. Så har vi jo ikke flertal?</p>
+  <p>Bare rolig. Det har jeg styr på. Troels!</p>
+  <P>Ja</P>
+  <P>Musik!</P>
+  <p>Stud-i-e-introduktion,</p>
+  <p>Den er ikke go' for nog'n,</p>
+  <p>Russerne skal spises af,</p>
+  <p>Med tre usle campusdag',</p>
+  <p>...Ahr, jeg tror én er nok.</p>
+  <p>Og til slut FysikRevy&trade;'n,</p>
+  <p>Sikke da et hæsligt syn,</p>
+  <p>Ud med den for den er dum,</p>
+  <p>Skal vi også lukke RUM?</p>
+  <p>Neee-JO Troels!!!</p>
+  <p>åh, jeg tænkte nok at det var godt.</p>
+  <p>Og når de har angst og stress,</p>
+  <p>Så gør konsekvenser nas,</p>
+  <p>Når dispensation får NÆH,</p>
+  <p>Jubler vi når dette fæ,</p>
+  <P>SMI-DES UUUUUD</P>
+</article>
+
+<article class="build lyr" id ="Hjælpmigforfaan">
+  <p>Det er ikke let, det er faktisk svært</p>
+  <p>Når jeg prøver at løs' opgaven</p>
+  <p>Selvom jeg er TA, og det er uge 1</p>
+  <p>Du vil ik' hjælpe:  "det er hvad du har ansat mig til"</p>
+  <p>At løse de fucking opgaver</p>
+  <p>Som du sikkert ikke selv kan</p>
+  <p>Jeg prøved' at integrer, og pertuber'</p>
+  <p>prøved' at bruge Euklid</p>
+  <p>Tegnede kraftdiagram, approksimerede c</p>
+  <p>Så jeg googled', men selv hestenettet vidste det ik'</p>
+  <p>Hvad vil du ha' jeg skal gør'</p>
+  <p>Jeg underviser jo i morg'n</p>
+  <p>Hjælp mig for fa'n Marianne!</p>
+  <p>Giv mig et løsningsforslag</p>
+  <p>På andet år som, MekRel instruktor</p>
+  <p>Jeg stadig intet</p>
+  <p>Af det her fatter</p>
+  <p>Aben vil have, dens bananer,</p>
+  <p>Og så er der jo en snor,</p>
+  <p>Den er inertiløs, holdt af en elefant.</p>
+  <p>Måske er svaret, $\hbar \cdot \theta^{\pi}$</p>
+  <p>Hvis bare jeg kendte svaret</p>
+  <p>Så kunne jeg gætte en løsning</p>
+  <p>Hjælp mig for fa'n Marianne!</p>
+  <p>Hjælp mig for fa'n Marianne!</p>
+  <p>Giv mig et løsningsforslag</p>
+  <p>På femte år som, MekRel instruktor</p>
+  <p>Jeg stadig intet</p>
+  <p>Af det her fatter</p>
+  <p>Hvad skal jeg gøre?</p>
+  <p>Nu skal jeg undervise russer i det shit</p>
+  <p>Tro mig, hvis jeg kendte løsningen ville jeg</p>
+  <p>Give dig et forslag!</p>
+</article>
+
+<article class="build lyr" id ="Asbest_i_lungerne">
+  <p>Oh yeah, kom så</p>
+  <p>Du bli'r forkælet så godt (u-u-uh)</p>
+  <p>HCØ, NBB, de var dyre</p>
+  <p>Ja, vi forstår slet ikke al jeres brok</p>
+  <p>så nyd lokalerne, vi elsker at styre</p>
+  <p>du sy's det slemt fordi her er lidt koldt </p>
+  <p>tag dig sammen din naaaaar</p>
+  <p>Du får asbest i lungerne (lungerne)</p>
+  <p>I må ik' ha det sjov'</p>
+  <p>før I har fået lov</p>
+  <p>I får asbest i lungerne</p>
+  <p>send os bar' en klage, tag en kiks fordi vi ejer jer's show!</p>
+  <p>Vi ejer jeres show!</p>
+  <p>Okay så fik I en "pris" (u-u-uh)</p>
+  <p>ej hvor flot, ej hvor fint, vi gi'r kage!</p>
+  <p>men tro nu ikke det er her I skal spis'</p>
+  <p>max én øl eller vand må I smage!</p>
+  <p>du sy's det slemt fordi du hoster liiidt</p>
+  <p>tag en kiks og tag dig sammen din naaaaar</p>
+  <p>Du får asbest i lungerne (lungerne)</p>
+  <p>I må ik' ha det sjov'</p>
+  <p>før I har fået lov</p>
+  <p>I får asbest i lungerne</p>
+  <p>spis nu jeres kage, send en klage for vi ejer jer's -</p>
+  <p>fordi vi ejer jeres show!</p>
+  <p>Vi sender dig en mail</p>
+  <p>for dit sociale liv ska' fucking dø</p>
+  <p>vi vil ha' tomme lokaler</p>
+  <p>og helst ikke noget studiemiljø</p>
+  <p>(as-best) Yeah, I skal ha' asbest!</p>
+  <p>(as-best) Yeah, we are the best!</p>
+  <p>(as-best) Kom nu, vi har en fest????</p>
+  <p>Du sy's det er slemt fordi du kan få kræft</p>
+  <p>en død studer'ne klager iiiiik'</p>
+  <p>Du får asbest i lungerne (lungerne)</p>
+  <p>I må ik' ha det sjov'</p>
+  <p>før I har fået lov</p>
+  <p>I får asbest i lungerne</p>
+  <p>spis nu jeres kage, send en klage for vi ejer din --</p>
+  <p>- asbest i lungerne</p>
+  <p>jeres studimieljø</p>
+  <p>det ka' bar' fucking dø</p>
+  <p>vi gi'r asbest til ungerne</p>
+  <p>kan vores mail udenad, åh yeah</p>
+  <p>Vi' SÅ ligeglad'</p>
+  <p>fordi vi ved I ved vi ejer jer's liv!</p>
+</article>
+
+<article class="build" id="PAUSE 1">
+  <div class="pagediv">
+    <p style="font-size:50px;margin-top:50px;">PAUSE</p>
+    <p style="margin-top:5px;">Revyen&trade; fortsætter</p>
+    <p style="margin-top:2px;">om 20 minutter</p>
+  </div>
+</article>
+
+<article class="build lyr" id ="Følgefejl">
+  <P>Heey</P>
+  <p>Hva så der?</p>
+  <p>Hva fik du, i opgav 9?</p>
+  <p>Åhhh jeg dør</p>
+  <p>Deadline er i morgen!</p>
+  <p>Christoffer, please hjælp mig med at løs’ det her</p>
+  <p>Du er nået lige så langt som mig</p>
+  <p>Jeg får nog’t andet end dig</p>
+  <p>Chrizzer, hvad skrev du i opgave 6? jeg får ik det samme</p>
+  <p>Omg min hastighed</p>
+  <p>Er jo bare mega stor</p>
+  <p>Orden $10^{12}$ størr’ end lyset</p>
+  <p>For der er: følgefejl</p>
+  <p>Du kan da se det var i linje et</p>
+  <p>Hvor du fik, følgefejl</p>
+  <p>Din ligning er jo helt fallit </p>
+  <p>Christoffer, det var E-feltet den var gal med</p>
+  <p>Jeg kan se det nu, jeg integrere rho</p>
+  <p>Så volumet bliver $\pi^3$</p>
+  <p>Det er noget fucking pis</p>
+  <p>2 gange 2 giver jo ikke 6 </p>
+  <p>Åhh hvor er jeg dum</p>
+  <p>Holy shit #forstår det ik’  #lille fejl #dumperEM1</p>
+  <p>#tænk at jeg troede på det </p>
+  <p>Åhåhåh følgefejl</p>
+  <p>10 timers spilt arbejd’</p>
+  <p>For der er følgefejl</p>
+  <p>Du kan jo bar’ kopier mig?</p>
+  <p>Din regnelærer</p>
+  <p>Hun må følge din fejl</p>
+  <P>NU SKAL I KLAPPE MED</P>
+  <p>Hun må bare sætte </p>
+  <p>c ind, frem for h-streg</p>
+  <p>Det må da gi’ point</p>
+  <p>For metoden er klar</p>
+  <p>Jeg/Du er bar’ kommet til at skriv’</p>
+  <p>“Spin kvarte par” uuuhhh yeah</p>
+  <p>En ekstra faktor 2</p>
+  <p>Der står kvadratrod 7</p>
+  <p>Åhåhåh følgefejl</p>
+  <p>Det' ikke engang svært det her(Oh my god, det er ikke engang svært)</p>
+  <p>Det er bare en følgefejl (følgefejl)</p>
+  <p>Du har også skrevet dit navn forkert</p>
+  <p>Har jeg også skrevet mit navn forkert?!</p>
+  <p>Nej jeg har ikk</p>
+  <p>jo du har</p>
+  <p>Hold nu op med det der</p>
+  <p>Og der er jo</p>
+  <p>Nej der ik</p>
+  <p>Jo der er</p>
+  <p>Der er også fortegnsfejl</p>
+  <p>*lys ned*</p>
+  <P>NEEEEEEEEJ!</P>
+</article>
+
+<article class="build lyr" id ="Analmek Regnetime">
+  <p>Jeg ska ku regne på kvanter</p>
+  <p>For at være fysiker</p>
+  <p>Løse systemer som</p>
+  <p>skal brug' en analytiker</p>
+  <p>Dynamisk og termisk</p>
+  <p>Skal løses kvasistatisk</p>
+  <p>Approximer og så forkorte</p>
+  <p>Det blir' så flot</p>
+  <p>f(x) den er jo bedst</p>
+  <p>Hvis udtryk man kan test'</p>
+  <p>Med blyant på papir</p>
+  <p>Det' en regne tim'</p>
+  <p>Analytisk, mekanik</p>
+  <p>Lagrangen, løser kinetik</p>
+  <p>Hvor newtons love ik var nemt</p>
+  <p>lidt slemt</p>
+  <p>Værktøjskasse for dit fag</p>
+  <p>En teori som jeg vil ha'</p>
+  <p>Det' en hjælp</p>
+  <p>Jeg finder variabler</p>
+  <p>jeg håber er kanoniske</p>
+  <P>Transformationer</P>
+  <p>testes med Poisson brackets</p>
+  <p>Kædereglen formår</p>
+  <p>At L den ikke forgår</p>
+  <p>I differention til q dot</p>
+  <p>Så Euleren er flot</p>
+  <p>Et bedre udgangpunkt er givet</p>
+  <p>Ved vor Hamiltonian</p>
+  <p>Udregner energi</p>
+  <p>Til en regne tim'</p>
+  <p>Analytisk, mekanik</p>
+  <p>variation, med matematik</p>
+  <p>legendre transformation</p>
+  <p>det' kanon</p>
+  <p>Leder os fra, formulering af</p>
+  <p>Klassisk mekanik i dag</p>
+  <p>til reformulering direkte til</p>
+  <p>formulering af dat og dit</p>
+  <p>til fluid og kvante mekanik, nik</p>
+  <p>En ekstra øver</p>
+  <p>Til en regne tim'</p>
+  <p>Analytisk, mekanik</p>
+  <p>vi løser alt, der er fysik</p>
+  <p>Garanti for brugbarhed</p>
+  <P>Nårsomhelst</P>
+  <p>Anbefalet på år 3</p>
+  <p>Det er bar det bedste fag</p>
+  <p>Du ska tag</p>
+  <p>Du ska ha'</p>
+</article>
+
+<article class="build lyr" id ="Kald det k og l">
+  <p>{Og I må kalde indekserne lige hvad I vil!!}</p>
+  <p>{Kald det $k$ og $l$</p>
+  <p>Kald det liiiiige hvad du vil</p>
+  <p>$\mu$ og $\nu$ og måske $\pi$</p>
+  <p>Lov mig dog du ik' bruger $\xi$</p>
+  <p>Du burde lytte til min sang</p>
+  <p>Hvis du syn's dine summer er for lang'</p>
+  <p>Store sigma, åh, det giver mig en trang</p>
+  <p>Til at skyde mig selv ud af en kanon</p>
+  <p>Der må da vær' en bedre notation }</p>
+  <p>{Kald det $k$ og $l$</p>
+  <p>Kald det liiiiige hvad du vil</p>
+  <p>$\mu$ og $\nu$ og måske $\pi$</p>
+  <p>Lov mig dog du ik' bruger $\xi$}</p>
+  <p>{Fortæl mig om Einstein notation}</p>
+  <p>{Fortæl om Christoffel og om summation}</p>
+  <p>{Giv mig frit fald}</p>
+  <p>{Og giv mig en geodæt at følg'}</p>
+  <p>{Giv mig en håndskrift der ikke er for let}</p>
+  <p>{For $\mu$, $\nu$ og i anden kan komme ud på ét}</p>
+  <p>{Kald det $k$ og $l$</p>
+  <p>Kald det liiiiige hvad du vil</p>
+  <p>$\mu$ og $\nu$ og måske $\pi$</p>
+  <p>Lov mig dog du ik' bruger $\xi$}</p>
+  <p>{Ka' du sig' mig hvad $\chi_{\pi}$  er lig'?}</p>
+  <p>{Det er $\Phi_\pi^\xi$ ganget med $\zeta_\xi$}</p>
+  <p>{Jeg' syns' det' svært!} </p>
+  <p>{Det er da nemmer' end end at sig'</p>
+  <p>At $\chi_{\pi}$ er lig med summen over $\xi$</p>
+  <p>For produktet af $\Phi_\pi^\xi$ med $\zeta_\xi$}</p>
+  <p>{Kald det $k$ og $l$</p>
+  <p>Kald det liiiiige hvad du vil</p>
+  <p>$\mu$ og $\nu$ og måske $\pi$</p>
+  <p>Lov mig dog du ik' bruger $\xi$</p>
+  <p>Kald det $k$ og $l$</p>
+  <p>Kald det liiiiige hvad du vil</p>
+  <p>$\mu$ og $\nu$ og måske $\pi$</p>
+  <p>Lov mig dog du ik' bruger $\xi$}</p>
+</article>
+
+<article class="build lyr" id ="Frit Valg">
+  <p>Vi hjalp hinanden meget, </p>
+  <p>prøver, opgaver,</p>
+  <p>Studiet, studiet, bestå</p>
+  <p>Vores kurser er ovre</p>
+  <p>Eksamerne er slut</p>
+  <p>Men vi ses igen til næste år</p>
+  <p>Nu er vi på tredje år </p>
+  <p>Og hvad skal der mon ske</p>
+  <p>Vil vi se hinanden</p>
+  <p>Når din’ kurser er valgfri</p>
+  <p>Vi har fulgtes indtil nu med alle</p>
+  <p>Os fra mekanik</p>
+  <p>Frit valg, dit valg, vælg selv</p>
+  <p>Studieåret startede </p>
+  <p>Da jeg trådt ind i aud A</p>
+  <p>Ååh de nye ansigter </p>
+  <p>De ser på mig så fremmede </p>
+  <p>Jeg ved slet ik hvor jeg skal sidde</p>
+  <p>ville ønske du var her</p>
+  <p>Vi har kastet os ud i det ny(e)</p>
+  <p>Vi er gået hvert til sit.</p>
+  <p>Frit valg, mit valg, nyt sted</p>
+  <p>Dette bliver tiden, hvor jeg finder vejen frem</p>
+  <p>Et lille valg af kurser, med en kæmpe konsekvens</p>
+  <p>Og du skiller dig jo fra, flokken som vi har</p>
+  <p>Finder din faglige identitet</p>
+  <p>Ses vi mon igen?</p>
+  <p>Måske du aldrig kommer hjem</p>
+  <p>Du møder nok så mange mennesker</p>
+  <p>på udveksling</p>
+  <p>Vi havde det jo så godt, glem nu ikke mig</p>
+  <p>Nyt sprog, nyt land, langt væk</p>
+  <p>De første år er gået </p>
+  <p>Mange timer fra HCØ</p>
+  <p>Ååh hvor minderne gør ondt </p>
+  <p>Savner fællesskaberne</p>
+  <p>Ses vi ved højbordene?</p>
+  <p>Eller bachelor-oplæg?</p>
+  <p>Vi er fælles om at frygte alt</p>
+  <p>Som kommer mod os nu</p>
+  <p>Dit valg, mit valg, det tid</p>
+  <p>Vi skal, vi kan, fremtid</p>
+</article>
+
+<article class="build lyr" id ="DiscountRegering">
+  <p>{Kommer ind på min post</p>
+  <p>og jeg gør det SÅ FINT</p>
+  <p>budgetterne skal ned</p>
+  <p>kan ik' betal for alt</p>
+  <p>her er en ny finanslov</p>
+  <p>men hvad skal der i den?}</p>
+  <p>{Ku' du sænke min skat?}</p>
+  <p>{Jeg kan sænke din skat!!</p>
+  <p>Skal ha' penge et sted</p>
+  <p>til at sænke hans skat</p>
+  <p>men hva' ka' jeg skære ned?</p>
+  <p>Hvad med din kandidat?!</p>
+  <p>Du har haft det for godt</p>
+  <p>det går ik' hurtigt nok</p>
+  <p>tag og få dig et job</p>
+  <p>Bliv nu færdig på K U</p>
+  <p>Tar sku snart din S U</p>
+  <p>så forsvind</p>
+  <p>Jeg vil ik ha' flere studerende</p>
+  <p>Dræn på vort samfund</p>
+  <p>Dovenskab, 5 år kan kun vær' et tab</p>
+  <p>Skattetryk det letter vi</p>
+  <p>Uddannelser for de rig'</p>
+  <p>Fuck den tid du tror det tar'</p>
+  <p>Tre år til hver bachelor??</p>
+  <p>Spildt på helt uduelig ting</p>
+  <P>Discount Regering}</P>
+  <p>{Starter på kandidaten</p>
+  <p>og jeg har det SÅ! FINT!</p>
+  <p>var på halvtid en del</p>
+  <p>fordi jeg troed' jeg ku'</p>
+  <p>I starten havde jeg nok</p>
+  <p>nu har jeg lig' pluds'lig ik!?</p>
+  <p>Tilbagevirk'ne effekt</p>
+  <p>TILBAGEVIRK'NE EFFEKT (versefødderne passer, jeg sværger)</p>
+  <p>De sku "ha' penge et sted"</p>
+  <p>Men det har jeg jo ik?</p>
+  <p>At bryde ungdommmen ned,</p>
+  <p>er det jeres politik?</p>
+  <p>Min husleje går op</p>
+  <p>Det går for hurtigt! Stop!</p>
+  <p>Jeg må ta' et til job'</p>
+  <p>Blir' ik færdig på K U</p>
+  <p>Ik' råd uden S U</p>
+  <p>må forsvind'</p>
+  <p>Jeg kan ik være studerende</p>
+  <p>Dræn på min konto</p>
+  <p>Slid og slæb. Ingen tid til fælledskab</p>
+  <p>Under presset knækker vi</p>
+  <p>Udannelser for de rig'</p>
+  <p>Lad mig bløde blot jeg tar'</p>
+  <p>halvtid på min bachelor</p>
+  <p>Kør ungdommen rundt i ring</p>
+  <P>Discount Regering}</P>
+  <p>{Dovenskab, 5 år kan kun vær' et tab (Slid og slæb. Ingen tid til fælledskab)</p>
+  <p>Skattetryk det letter vi (Under presset knækker vi)</p>
+  <p>Uddannelser for de rig' (Udannelser for de rig')</p>
+  <p>Fuck den tid du tror det tar' (Lad mig bløde blot jeg tar')</p>
+  <p>Tre år til hver bachelor?? (halvtid på min bachelor)</p>
+  <p>Spildt på helt uduelig ting (Kør ungdommen rundt i ring)</p>
+  <p>Discount Regering (Discount Regering)</p>
+  <p>}</p>
+</article>
+
+<article class="build" id="PAUSE 2">
+  <div class="pagediv">
+    <p style="font-size:50px;margin-top:50px;">PAUSE</p>
+    <p style="margin-top:5px;">Revyen&trade; fortsætter</p>
+    <p style="margin-top:2px;">om 20 minutter</p>
+  </div>
+</article>
+
+<article class="build lyr" id ="KogteLinser">
+  <p>Mm-noom-ba-deh</p>
+  <p>Doom-boom-ba-beh</p>
+  <p>Doo-boo-boom-ba-beh-beh</p>
+  <p>linser</p>
+  <p>med tomater i</p>
+  <p>og lidt krydderi</p>
+  <p>det er en sovs</p>
+  <p>kogte linser!</p>
+  <p>det er protein</p>
+  <p>spidskommen gør den go'</p>
+  <p>så er der mad</p>
+  <p>Mm-ba-ba-beh, mm-ba-ba-beh</p>
+  <p>Dee-day-da, ee-day-da</p>
+  <p>That's okay</p>
+  <p>It's the terror of knowing</p>
+  <p>What this opskrift is about</p>
+  <p>ser mine venner skrige:</p>
+  <p>"vi laver dahl!"</p>
+  <p>koriander gør den bedre</p>
+  <p>der skal salt i-i</p>
+  <p>der skal salt i</p>
+  <p>Da-da-da, mm-mm</p>
+  <p>Da-da-da-ba-bum</p>
+  <P>Okay</P>
+  <p>smager det tiil</p>
+  <p>der skal mer' salt i</p>
+  <p>nu' det for salt</p>
+  <p>der skal peber i</p>
+  <p>Ee-doh-ba-buh, ee-da-ba-ba-bop</p>
+  <p>Mm-bo-bop, beh-lup</p>
+  <p>Den er fin nu, </p>
+  <p>ee-da-dee-da-day</p>
+  <p>Den fin nu</p>
+  <p>ee-da-dee-da-dee-da-dee-da</p>
+  <p>It's the terror of knowing</p>
+  <p>What this opskrift is about</p>
+  <p>ser mine venner skrige:</p>
+  <p>"vi laver dahl!"</p>
+  <p>garammasala</p>
+  <p>gør den maje' bedre</p>
+  <p>der skal salt i-i</p>
+  <p>der skal salt i</p>
+  <p>Jeg giver op, den er skod, smager dårligt</p>
+  <p>tro det ej, den er god, du er kræsen</p>
+  <p>mad kan ikke laves uden kærlighed, som du ved</p>
+  <p>Why - why - why (...not?)</p>
+  <p>DAHL (dahl, dahl, dahl (sådan med reverb))</p>
+  <p>Aftensmad'n klar, nu er risene kogt</p>
+  <p>Vi har også hjemmebagt naan</p>
+  <p>Du kan få et styk hjemmebagt naan</p>
+  <p>Til din |: gode dahl :| x8</p>
+  <p>For dahl er en ret vi har lavet</p>
+  <p>med linser og sovs og</p>
+  <p>tzatziki hvis man vil have det på</p>
+  <p>men det smag'r godt ligemeg't hvordan du har lavet det</p>
+  <p>mer' eller mindre</p>
+  <p>mer' eller mindre</p>
+  <p>nu har vi smagt</p>
+  <p>kogte linser</p>
+  <p>kogte linser</p>
+  <p>linser</p>
+</article>
+
+<article class="build lyr" id ="kogtelinser2">
+  <p>Kog - te - lin - ser </p>
+</article>
+
+<article class="build lyr" id ="Regnemaskine">
+  <p>Passion, får dig ingen vejne</p>
+  <p>du vil gerne forstå</p>
+  <p>Hvordan kvant fungerer</p>
+  <p>Nej, det skal bare virke</p>
+  <p>Ku' bruge en fysiker som dig</p>
+  <p>en der kan regne på kvantefysik</p>
+  <p>uden at stille spørgsmål</p>
+  <p>og du skal bare regn</p>
+  <p>og du skal ik' tænk</p>
+  <p>og du skal bare regn</p>
+  <p>En regnemaskine!</p>
+  <p>En regnemaskine!</p>
+  <p>En regnemaskine!</p>
+  <p>og du vil blindt adlyde mig</p>
+  <p>virker spin?</p>
+  <p>Ja sir!</p>
+  <p>virker sandsynligheds fordelinger?</p>
+  <p>Ja sir!</p>
+  <p>Så er der ikke mere at forstå, forstår du det?</p>
+  <p>Ja sir!</p>
+  <p>Du tror på intuitionen</p>
+  <p>Men drop det bare</p>
+  <p>Det' rent spild af tid</p>
+  <p>Jeg kan give dig noget bedre</p>
+  <p>bli' lommeregner af  førsteklasse (førsteklasse)</p>
+  <p>og du vil regne min kvantefysik</p>
+  <p>og alt det andet pjat det dropper vi</p>
+  <p>og du skal bare regn</p>
+  <p>og du skal ik' tænk</p>
+  <p>og du skal bare regn</p>
+  <p>En regnemaskine</p>
+  <p>En regnemaskine</p>
+  <p>haha, en regnemaskine</p>
+  <p>du vil bukke under for pres</p>
+  <p>Virker kvant? Sig at "kvant virker"!</p>
+  <p>Kvant virker!</p>
+  <p>Skrig det!</p>
+  <p>Kvant virker!</p>
+  <p>Du mener det ikke!</p>
+  <P>AHHHH!</P>
+  <p>Tag dig sammen forhelvedet, du ved, at du ikke mener det!</p>
+  <P>AHHHHHH!</P>
+  <p>og du skal bare regn</p>
+  <p>og du skal ik' tænk</p>
+  <p>og du skal bare regn</p>
+  <p>En regnemaskine</p>
+  <p>En regnemaskine</p>
+  <p>haha, en regnemaskine</p>
+  <p>du vil bukke under for pres</p>
+  <p>jeg vil knække dig, forstår du?</p>
+  <p>jeg vil knække dig, forstår du?</p>
+  <p>jeg vil knække dig, forstår du?</p>
+  <p>jeg vil knække dig, forstår du?</p>
+  <p>Ja sir</p>
+  <p>En regnemaskine</p>
+  <p>du vil bukke under</p>
+  <p>og du vil blindt adlyde mig</p>
+</article>
+
+<article class="build lyr" id ="Onlyfans">
+  <p>Du du du du, du du du duuu du x4</p>
+  <p>Jeg sidder her og er liderlig</p>
+  <p>Håber på at finde noget som jeg kan onanere til</p>
+  <p>Du du du du, du du du duuu du</p>
+  <p>Jeg tænder for, computer og min skærm</p>
+  <p>Og klikker på et inkognitovindue, op til søgefelt</p>
+  <p>Du du du du, du du du duuu du</p>
+  <p>Min ven han sagde jeg sku' søge på</p>
+  <p>Mia Khalifa nu er hun på OnlyFans&trade; og det er godt</p>
+  <p>Du du du du, du du du duuu du</p>
+  <p>For nu har hun hel selv kontrol</p>
+  <p>Over hendes indtægt og hends' krop</p>
+  <p>Men hvorfor skulle jeg dog købe en OnlyFans&trade;?</p>
+  <p>Så meget gratis porno kun $\frac{1}{3}$ er scams</p>
+  <p>Jeg går jo bar' på XVIDEOES&trade; !</p>
+  <p>Kommer bar' til at tag' tid at finde noget, der' godt</p>
+  <p>Du du du du, du du du duuu du</p>
+  <p>Porno må da være godt for nog'n?</p>
+  <p>Det er blot endnu en arm for kapital udnyttelse</p>
+  <p>Du du du du, du du du duuu du</p>
+  <p>Vi kan ik' ha revolution</p>
+  <p>Uden sexarbejder rettigheder og beskyttelse</p>
+  <p>Du du du du, du du du duuu du</p>
+  <p>Det verdens ældste profession</p>
+  <p>Proletariat i union!</p>
+  <p>Vær kommunist; betal for OnlyFans&trade;</p>
+  <p>Læg dig ej under for kapitalisme scams</p>
+  <p>Jeg læser Marxistisk teori</p>
+  <p>En væbnet klassekamp er måden vi bli'r fri!</p>
+  <p>Du du du du, du du du duuu du</p>
+  <p>Kun samtykke kan lægge dig i bånd</p>
+  <p>Åh partisaner, kom og bol med mig</p>
+  <p>Tag min hånd og lad vor kroppe vise vej</p>
+  <p>Jeg vil ha et paradigme skift</p>
+  <p>Vi redder verdenen med solidaritet</p>
+  <p>Åh partisaner, kom og bol med mig</p>
+  <p>Tag min hånd og lad vor kroppe vise vej</p>
+  <p>Jeg vil ha et paradigme skift</p>
+  <p>Jeg vil ha et paradigme skift (Jeg vil ha seeeeeex!)</p>
+  <p>Jeg vil ha et paradigme skift (Jeeeeeeeeg vil ha sex!)</p>
+  <p>Jeg vil ha et paradigme skift</p>
+  <p>Jeg vil ha et paradigme skift (Soooooooolidaritet!)</p>
+  <p>Vi redder verdenen med solidaritet</p>
+</article>
+
+<article class="build lyr" id ="Menstruation">
+  <p>Av jeg har, Av jeg har, Av jeg har, kramper</p>
+  <p>Av jeg har, Av jeg har, Av jeg har, kramper</p>
+  <p>Av jeg har, Av jeg har, Av jeg har, kramper</p>
+  <p>Fuuuuuck menstruationer</p>
+</article>
+
+<article class="build lyr" id ="Når jeg får fri">
+  <p>Sidder her i vandrehall´n</p>
+  <p>Sveden pibler frem</p>
+  <p>For jeg “løser” et eksamenssæt</p>
+  <p>Opgaven er ikke nem</p>
+  <p>Dagen nærmer sig i flyvende fart</p>
+  <p>og så blir’ stressen slem</p>
+  <p>For jeg er så træt af </p>
+  <p>oplæsning</p>
+  <p>Til skriftlig og mundtlig</p>
+  <p>afhøring</p>
+  <p>Både taske og hoved er fyldt</p>
+  <p>Men jeg læser mere</p>
+  <p>For når jeg så får fri</p>
+  <p>Så skal jeg ud, og jeg skal stå på ski</p>
+  <p>Slappe af og drikke shots </p>
+  <p>de' med mintuu i</p>
+  <p>og vi kør’ i bussen hjem</p>
+  <p>Uden søvn, hele dagen</p>
+  <p>For nu har jeg fået’ </p>
+  <p>Tid til at game</p>
+  <p>Og at se en film</p>
+  <p>Gå i biffen med min mutter</p>
+  <p>Spiser laks med dild</p>
+  <p>Spiller ludo med min far </p>
+  <p>Og min bror er her også fordi</p>
+  <p>nu har vi virk’lig fri</p>
+  <p>ikke glemt at melde sig til den der reeksamen”}</p>
+  <p>Når jeg så igen får travlt</p>
+  <p>Med det ny’ og svære pensum </p>
+  <p>Får jeg langsomt ondt i ryggen og</p>
+  <p>Migrænen er jævnt dum</p>
+  <p>Og for hver opgave jeg løser</p>
+  <p>Får jeg bare færre point </p>
+  <p>For jeg er så træt af</p>
+  <p>oplæsning</p>
+  <p>Til skriftlig og mundtlig</p>
+  <p>afhøring</p>
+  <p>Både taske og hoved er fyldt</p>
+  <p>Men jeg læser mere</p>
+  <p>For når jeg så får fri</p>
+  <p>Vil jeg spille kaoskroket med dig</p>
+  <p>Vær’ i boksen, hæve Harboe, Husk at sætte en streg!</p>
+  <p>Og vi spiller ud på natten, </p>
+  <p>og vi skal ikke i seeeeeeng</p>
+  <p>For nu har vi tændt bål, </p>
+  <p>hvor vi brænder vores eksamenssæt</p>
+  <p>Sylle \emph{er} i busken, og vi spiller</p>
+  <p>tegn og gæt</p>
+  <p>Og vi sidder ude på græsset og ser solopgang kl. fem </p>
+  <p>nu har vi virk’lig fri</p>
+  <p>Åh, åh, åh</p>
+  <p>Vi er sammen om (JA!)</p>
+  <p>At vi stresser over det</p>
+  <p>(uhhh, fuck ja!)</p>
+  <p>Jers’ eksamen er ik’ min (slet ik!)</p>
+  <p>Men vi har det begge ens!</p>
+  <p>(det det sam’)</p>
+  <p>Og hvis du trøster mig når jeg græder i dag</p>
+  <p>Har jeg dig og din ryg i morgen (Deal!)</p>
+  <p>For vi er så træt’ af</p>
+  <p>oplæsning</p>
+  <p>Til skriftlig og mundtlig</p>
+  <p>afhøring</p>
+  <p>Både taske og hoved er fyldt</p>
+  <p>Men jeg læser mere</p>
+  <p>Og selvom vi har fri </p>
+  <p>Og nogn’ de er ude og rejs’</p>
+  <p>Mødes vi i venneflokken og er sammen med dig</p>
+  <p>Uanset dit behov vil vi gøre det, vil gøre det godt</p>
+  <p>For du er ik alene</p>
+  <p>Om at stresse om du passer ind her</p>
+  <p>Selvfølig’ gør du det, du er den du skal vær’</p>
+  <p>Mellemugen den var god, men mest alt vil vi tilbage</p>
+  <p>Tilbage til fysik!</p>
+  <p>Og selvom nogn' er ude og rejs’</p>
+  <p>Mødes vi i venneflokken og er sammen med dig</p>
+  <p>Uanset dit behov vil vi gøre det, vil gøre det godt</p>
+  <p>For du er ik alene</p>
+  <p>Om at stresse om du passer ind her</p>
+  <p>Selvfølig’ gør du det, du er den du skal vær’</p>
+  <p>Mellemugen den var god, men mest alt vil vi tilbage</p>
+  <p>Tilbage til fysik!</p>
+</article>
+
+
+	    
+	</section>
+	
+    </body>
+</html>
