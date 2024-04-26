@@ -23,6 +23,10 @@
              /* margin-right: .5em; */
              color: blue;
          }
+         .left {
+          padding-top:17px !important;
+          height: calc( 2.6em - 17px ) !important;
+         }
  </style>
     </head>
     <body>
@@ -77,6 +81,7 @@
       <article class="build" id="TexFisk">
         <video preload="none">
           <source src="vids/TeXFisk.mp4" type="video/mp4" />
+          <track kind="subtitles" src="vids/undertekster teXfisk.vtt" srclang="da-DK" default />
         </video>
       </article>
 
@@ -189,12 +194,19 @@
   <p class="build right">Kom og vær en forsker</p>
   <p class="build right">Kom og skriv en phd hos<span><BR/>Mogens eller Paaske</span></p>
   <p class="build right">Emnerne de står helt åbne</p>
-  <p class="build right">Vi ved godt du brænder <span><BR/>For at lære nye ting</span></p>
+
+  <p class = "left" dur="0"> <i>Åh nej</i></p>
+    <p class="build right auto">Vi ved godt du brænder <span><BR/>For at lære nye ting</span></p>
+
+  <p class = "left"></p>
   <p class="build right"> Og du kan ikke sig nej</p>
-  <p class="build right"></p>
+  <p class="left kor">Nej!</p>
 
   <p class="build left">Nej ik for mig <span><BR/>Jeg går ikke den vej </span></p>
+  <p class = "left"> </p>
+
   <p class="build right">Kom nu, kom her <span><BR/>du vil gerne lær' mer'</span></p>
+  <p class = "left"></p>
   <p class="build left">Den løn, for lav <span><BR/>Jeg får ingen pension!</span></p>
   <p class="build right"></span></p>
   <p class="build left"></span></p>
@@ -203,21 +215,30 @@
   <p class="build left">At forske brænder i mit hjerte<span><BR/>Men jeg vil ha' gode arbejdsforhold</span></p>
   <p class="left"></p>
 
-  <p class="build right">Det er ikke så slemt <span><BR/>Masser af prestige får du</span></p>
+  <p class = "left" dur="0"> <i>Åh neej</i></p>
+  <p class="build right auto">Det er ikke så slemt <span><BR/>Masser af prestige får du</span></p>
+  <p class="left"></p>
   <p class="build right">To gange om året <span><BR/>Har du også feriedage</span></p>
-  <p class="build right">Hvad skal du med penge <span><BR/>Du får nemlig ingen fritid</span></p>
+  <p class = "left" dur="0"> <i>Åh neej</i></p>
+  <p class="build right auto">Hvad skal du med penge <span><BR/>Du får nemlig ingen fritid</span></p>
+  <p class="build left"></span></p>
   <p class="build right">Til at bruge dem</p>
-  <p class="build right"></p>
 
+  <p class="build right"></p>
+  <p class = "left"> <i>Uhhh</i></p>
   <p class="build left">Høj løn, hos Mærsk <span><BR/>Er det det der er værst?</span></p>
+
   <p class="build right">Det er jo sandt<span><BR/>Kom og lav noget kvant</span></p>
+  <p class="build left"></span></p>
   <p class="build left">Det' ik' så nemt <span><BR/>Som fysikkonsulent</span></p>
   <p class="build right">Du er for klog <span><BR/>Skriv en bog</span></p>
   <p class="build right">Bliv forsker</p>
   <p class="build left">Forskningsprojekt<span><BR/>Jeg vil ha' det</span></P>
   <p class="build left">En PHD<span><BR/>Jeg vil ha' det</span></P>
   <p class="build right">Nu skal du søg' <span><BR/>Det er svært, held og lyk'</span></p>
+  <p class = "left"> <i>Oohhh</i></p>
   <p class="build left">Jeg bliver her <span><BR/>Søger en PHD</span></p>
+  <p class="build left"></span></p>
 
 </div>
 </article>
@@ -275,7 +296,7 @@
   <p>Bygger fort</p>
   <p>Bliver lord</p>
 
-  <p class="build nej">Jeg er slet ikke doven <span><br>Eller dum</span></p>
+  <p class="build">Jeg er slet ikke doven <span><br>Eller dum</span></p>
   <p class="build">Jeg har bar' en ufattelig lyst <span><br>Til at alle</span> <span>dum</span><span>per</span> <span>pen</span><span>sum</span></p>
 
   <p>Måske hvis du nu læste op på pensum før RØ</p>
@@ -296,10 +317,6 @@
 </article>
 
 <article class="build" id="gyserhistorie_i_RUM">
-    <!-- <div class="build nej"> -->
-	<!-- <audio preload="none" class="rununder auto" >
-	    <source src="lyd/5%20Minutes%20of%20Rain%20and%20Thunderstorm%20Sounds%20For%20Focus%20Relaxing%20and%20Sleep%20⛈️%20Epidemic%20ASMR.mp3" type="audio/mp3" >
-	</audio> -->
 	<audio preload="none" >
 	    <source src="lyd/Thunder%20%20%20Sound%20effect.mp3" type="audio/mp3" >
 	</audio>
@@ -310,10 +327,6 @@
     <audio preload="none" >
 	    <source src="lyd/Thunder%20%20%20Sound%20effect.mp3" type="audio/mp3" >
 	</audio>
-  <!-- <div class="build" >
-    <audio preload="none" class="rununder auto" >
-        <source src="lyd/5%20Minutes%20of%20Rain%20and%20Thunderstorm%20Sounds%20For%20Focus%20Relaxing%20and%20Sleep%20⛈️%20Epidemic%20ASMR.mp3" type="audio/mp3" >
-    </audio> -->
     <audio preload="none" >
         <source src="lyd/Thunder%20%20%20Sound%20effect.mp3" type="audio/mp3" >
     </audio>
@@ -383,9 +396,9 @@
 
   <p class="build">Og til slut FysikRevy&trade;'n,<span><br>Sikke da et hæsligt syn</span></p>
   <p>Ud med den for den er dum,</p>
-  <p class="build">Skal vi også lukke RUM? <span><br>Neee-JO Troels!!!</span></p>
+  <p class="build">Skal vi også lukke RUM? <span><br>NEEEEEJJJ</span><span>JOOOOOO! Troels!!!</span> </p>
 
-  <p class="build nej">Og når de har angst og stress,<span><br>Så gør konsekvenser nas</span></p><!-- I? -->
+  <p class="build">Og når de har angst og stress,<span><br>Så gør konsekvenser nas</span></p>
   <p>Når dispensation får NÆH,<span><br>Jubler vi når dette fæ...</span></p>
   <p class="build"><span class="pop" dur="5">SMI</span><span class="pop" dur="5">-DES</span> <span class="pop" dur="10">U</span><span class="auto pop" dur="10">U</span><span class="auto pop" dur="10">U</span><span class="auto pop" dur="10">U</span><span class="auto pop" dur="10">U</span><span class="auto pop" dur="10">U</span><span class="auto pop" dur="10">U</span><span class="auto pop" dur="10">U</span><span class="auto pop" dur="10">U</span><span class="auto pop" dur="10">D</span></p>
 </article>
@@ -396,15 +409,16 @@
 <article class="build" id="Enøl">
   <video preload="none">
     <source src="vids/EnØl.mov" />
+    <track kind="subtitles" src="vids/ÉnØlUndertekster.vtt" srclang="da-DK" default />
   </video>
 </article>
 
 
 <article class="build lyr" id ="Hjælpmigforfaan">
   <p>Det er ikke let, det er faktisk svært</p>
-  <p class="nej">Når jeg prøver at løse opgaven</p>
+  <p>Når jeg prøver at løse opgaven</p>
   <p>Selvom jeg er TA, og det er uge 1</p>
-  <p class="nej">Du vil ik' hjælpe:<br>"det er hvad du har ansat mig til"</p>
+  <p>Du vil ik' hjælpe:<br>"det er hvad du har ansat mig til"</p>
   <p class="build">At løse de fucking opgaver <span><br>Som du sikkert ikke kan selv</span></p>
 
   <p class="build">Jeg prøved' at integrer, og pertuber'<span><br>prøved' at bruge Euklid</span></p>
@@ -472,9 +486,9 @@
   <p>vi vil ha' tomme lokaler</p>
   <p>og helst ikke noget studiemiljø</p>
 
-  <p class="build">A<span>spest!</span> <span><br>Yeah, I skal ha' asbest!</span></p>
-  <p class="build">A<span>spest!</span> <span><br>Yeah, we are the best</span></p>
-  <p class="build">A<span>spest!</span> <span><br> Kom nu, vi har en fest???</span></p>
+  <p class="build">A<span>sbest!</span> <span><br>Yeah, I skal ha' asbest!</span></p>
+  <p class="build">A<span>sbest!</span> <span><br>Yeah, we are the best</span></p>
+  <p class="build">A<span>sbest!</span> <span><br> Kom nu, vi har en fest???</span></p>
 
   <p>Du sy's det er slemt fordi du kan få kræft</p>
   <p>En død studer'ne klager iiiiik'</p>
@@ -482,8 +496,8 @@
   <p>Du får asbest i lungerne!</p>
   <p class="build">I må ik' ha det sjov' <span><br>før I har fået lov</span></p>
   <p>I får asbest i lungerne!</p>
-  <p>spis nu jeres kage,<br>send en klage<br>fordi vi ejer jer's show</p>
-  <p>Vi ejer jeres show!</p>
+  <p>spis nu jeres kage,<br>send en klage<br>fordi vi ejer jer's</p>
+  <p>Asbest i lungerne!</p>
 
   <p class="build">Jeres studiemiljø <span><br>Det ka' bar' fucking dø!</span></p>
   <p>Vi gi'r asbest til ungerne!</p>
@@ -572,75 +586,76 @@
 </article>
 
 <article class = "build lyr", id="Bandsang2">
-  <span>Vil du</span>
-  <span>Vil du ha’ en lille talje</span>
-  <span>og også gerne ha’ en god røv</span>
-  <span>så lyt med for det er det her du skal brug’</span>
 
-  <span>Squat dybt, </span>
-  <span>Squat dybt og mærk det i quadriceps</span>
-  <span>strækket i muskler føles intenst</span>
-  <span>Ja, det er nemlig sådan at din røv blir god’</span>
+  <p>Vil du</p>
+  <p>Vil du ha’ en lille talje</p>
+  <p>og også gerne ha’ en god røv</p>
+  <p>så lyt med for det er det her du skal brug’</p>
 
-  <span>lyder det som noget’ der for dig</span>
-  <span>følg nu med og</span>
+  <p>Squat dybt, </p>
+  <p>Squat dybt og mærk det i quadriceps</p>
+  <p>strækket i muskler føles intenst</p>
+  <p>Ja, det er nemlig sådan at din røv blir god’</p>
 
-  <span>Se på os hvordan vi gør, smid den skjorte hvis du tør</span>
-  <span>Neon spandex om de lår, svedbånd holder pandehår</span>
-  <span>Smid din hofte rundt, lige indtil det gør ondt</span>
-  <span>og gør det det så endnu en gang, du er nemlig kun halvvejs</span>
+  <p>lyder det som noget’ der for dig</p>
+  <p>følg nu med og</p>
 
-  <span>Synes du ikke og’s det er vildt sjov  </span>
-  <span>det må du gerne tænk du har lov</span>
-  <span>der ingen årsag til at vær flov</span>
-  <span>for jazzercise er vildt fedt</span>
-  <span>vildt fedt x n</span>
+  <p>Se på os hvordan vi gør, smid den skjorte hvis du tør</p>
+  <p>Neon spandex om de lår, svedbånd holder pandehår</p>
+  <p>Smid din hofte rundt, lige indtil det gør ondt</p>
+  <p>og gør det det så endnu en gang, du er nemlig kun halvvejs</p>
 
-  <span>Et skridt ud - en hånd på hoften, anden arm frem</span>
-  <span>Roterer kroppen, så et knæløft</span>
-  <span>Vi skruer tempo op til 180 bpm</span>
-  <span>\scene Ku måske danse det?</span>
+  <p>Synes du ikke og’s det er vildt sjov  </p>
+  <p>det må du gerne tænk du har lov</p>
+  <p>der ingen årsag til at vær flov</p>
+  <p>for jazzercise er vildt fedt</p>
+  <p>vildt fedt x n</p>
 
-  <span>Det er (et fællesskab) ud’n mage</span>
-  <span>(Bevæger os så) synkront</span>
-  <span>(kan glemme virkelig)heden </span>
-  <span>og hverdagen</span>
+  <p>Et skridt ud - en hånd på hoften, anden arm frem</p>
+  <p>Roterer kroppen, så et knæløft</p>
+  <p>Vi skruer tempo op til 180 bpm</p>
+  <p>Ku måske danse det?</p>
 
-  <span>Så, se på os hvordan vi gør, smid den skjorte hvis du tør</span>
-  <span>Neon spandex om de lår, svedbånd holder pandehår</span>
-  <span>Smid din hofte rundt, lige indtil det gør ondt</span>
-  <span>og gør det det så endnu en gang, du er nemlig kun halvvejs</span>
+  <p>Det er (et fællesskab) ud’n mage</p>
+  <p>(Bevæger os så) synkront</p>
+  <p>(kan glemme virkelig)heden </p>
+  <p>og hverdagen</p>
 
-  <span>Synes du ikke og’s det er vildt sjov  </span>
-  <span>det må du gerne tænk du har lov</span>
-  <span>der ingen årsag til at vær flov</span>
-  <span>for jazzercise er vildt fedt</span>
+  <p>Så, se på os hvordan vi gør, smid den skjorte hvis du tør</p>
+  <p>Neon spandex om de lår, svedbånd holder pandehår</p>
+  <p>Smid din hofte rundt, lige indtil det gør ondt</p>
+  <p>og gør det det så endnu en gang, du er nemlig kun halvvejs</p>
 
-  <span>Vi stopper ik</span>
-  <span>Vi træner lår</span>
-  <span>Mælkesyre i al dit blod</span>
-  <span>Hovedet let</span>
-  <span>Besvimer på floor - ring 112 og løft hans hoved</span>
+  <p>Synes du ikke og’s det er vildt sjov  </p>
+  <p>det må du gerne tænk du har lov</p>
+  <p>der ingen årsag til at vær flov</p>
+  <p>for jazzercise er vildt fedt</p>
 
-  <span>Ahhhhhhhh </span>
+  <p>Vi stopper ik</p>
+  <p>Vi træner lår</p>
+  <p>Mælkesyre i al dit blod</p>
+  <p>Hovedet let</p>
+  <p>Besvimer på floor - ring 112 og løft hans hoved</p>
 
-  <span>Kan du mon klare det x2</span>
+  <p>Ahhhhhhhh </p>
 
-  <span>Se på os hvordan vi gør, smid den skjorte hvis du tør</span>
-  <span>Neon spandex om de lår, svedbånd holder pandehår</span>
-  <span>Smid din hofte rundt, lige indtil det gør ondt</span>
-  <span>og gør det det så endnu en gang, du er nemlig kun-</span>
-  <span>Se på os hvordan vi gør, smid den skjorte hvis du tør</span>
-  <span>Neon spandex om de lår, svedbånd holder pandehår</span>
-  <span>Smid din hofte rundt, lige indtil det gør ondt</span>
-  <span>og gør det det så endnu en gang, du er nemlig kun halvvejs</span>
+  <p>Kan du mon klare det x2</p>
 
-  <span>Synes du ikke og’s det er vildt sjov  </span>
-  <span>det må du gerne tænk du har lov</span>
-  <span>der ingen årsag til at vær flov</span>
-  <span>for jazzercise er vildt fedt</span>
+  <p>Se på os hvordan vi gør, smid den skjorte hvis du tør</p>
+  <p>Neon spandex om de lår, svedbånd holder pandehår</p>
+  <p>Smid din hofte rundt, lige indtil det gør ondt</p>
+  <p>og gør det det så endnu en gang, du er nemlig kun-</p>
+  <p>Se på os hvordan vi gør, smid den skjorte hvis du tør</p>
+  <p>Neon spandex om de lår, svedbånd holder pandehår</p>
+  <p>Smid din hofte rundt, lige indtil det gør ondt</p>
+  <p>og gør det det så endnu en gang, du er nemlig kun halvvejs</p>
 
-  <span>Jazzercise er vildt fedt (x N)</span>
+  <p>Synes du ikke og’s det er vildt sjov  </p>
+  <p>det må du gerne tænk du har lov</p>
+  <p>der ingen årsag til at vær flov</p>
+  <p>for jazzercise er vildt fedt</p>
+
+  <p>Jazzercise er vildt fedt (x N)</p>
 </article>
 
 <article class="build  kill lyr" id ="Følgefejl">
@@ -669,12 +684,11 @@
   <p class="build">For der er <span><br/>Følgefejl</span></p>
   <p>Du kan jo bar’ kopier mig?</p>
   <p>Din regnelærer<br/>Hun må følge din fejl</p>
-  <P>NU SKAL I KLAPPE MED</P>
   <p>Hun må bare sætte <br/><i>c</i> ind, frem for <i>ħ</i></p>
   <p>Det må da gi’ point<br/>For metoden er klar</p>
   <p class="build">[Jeg/du] er bar’ kommet til at skrive<span><br/>“Spin kvarte par”</span><span><br/>Uuuhhh, yeah</span></p>
   <p>En ekstra faktor 2<br/>Der står kvadratrod 7</p>
-  <p class="nej">Åhåhåh<br/>Følgefejl</p>
+  <p class="build">Åhåhåh<br/>Der var følgefejl</p>
   <div class="build lyr pagediv" dur="0" >
    <p class="left auto">Det' ikke engang svært det her</p>
    <p class="right" >Oh my god, det er ikke engang svært</p>
@@ -735,7 +749,7 @@
   <p>Leder os fra formulering af<br/>Klassisk mekanik i dag</p>
   <p>Til reformulering direkte til<br/>Formulering af dat og dit</p>
   <p>Til fluid og kvante mekanik, nik</p>
-  <p>En ekstra øver<br/>Til en regnetime</p>
+  <p>Til en regnetime</p>
   <p>Analytisk Mekanik<br/>Vi løser alt, der er fysik</p>
   <p>Garanti for brugbarhed<br/>Nårsomhelst</P>
   <p>Anbefalet på år 3<br/>Det er bar’ det bedste fag</p>
@@ -767,19 +781,17 @@
 
 <article class="build lyr" id ="Kald det k og l">
 
-  <p> Og I må kalde indekserne lige hvad I vil!!</p>
-
   <p>Kald det <i>k</i> og <i>l</i></p>
   <p>Kald det liiiiige hvad du vil</p>
   <p><i>Æ, ø, ååååååå</i> og <i>m</i> og <i>j</i> og <i>i</i></p>
   <p> <i>&mu;</i> og <i>&nu;</i> og måske <i>&pi;</i></p>
   <p>Lov mig dog du ik’ bruger <i>&xi;</i></p>
 
-  <p>Du burde lytte til min sang</p><!-- Du sku’ ta’ og lytte til min sang ? -->
-  <p>Hvis du syn’s dine summer er for lange</p>
+  <p>Du burde ta' og lytte til min sang</p>
+  <p>Hvis du syn’s dine summer er for lang'</p>
   <p>Store &Sigma;, åh, det giver mig en trang</p>
-  <p class>Til at skyde mig selv ud af en kanon</p>
-  <p class>Der må da være en bedre notation</p>
+  <p>Til at skyde mig selv ud af en kanon</p>
+  <p>Der må da være en bedre notation</p>
 
   <p>Kald det <i>k</i> og <i>l</i></p>
   <p>Kald det liiiiige hvad du vil</p>
@@ -802,7 +814,7 @@
   <p>Lov mig dog du ik’ bruger <i>&xi;</i></p>
 
 
-  <p class="nej">Ka’ du sig’ mig hvad <i>&chi;<sub>&pi;</sub></i>  er lig?</p>
+  <p>Ka’ du fortælle mig hvad <i>&chi;<sub>&pi;</sub></i> er lig?</p>
   <p>Det er &Phi;<i><sub>&pi;</sub><sup>&xi;</sup></i> ganget med  <i>&zeta;<sub>&xi;</sub></i> </p>
   <p>Jeg syn’s det’ svært! </p>
   <p>Det er da nemmer’ end end at sig’</p>
@@ -840,11 +852,11 @@
 
   <p class = "build">De ser på mig så fremmede<span><BR/>Jeg ved slet ik hvor jeg skal sidde</span> <span><BR/>ville ønske du var her</span></p>
 
-  <p class = "build nej">Vi har kastet os ud i det ny(e)<span><BR/>Vi er gået hvert til sit.</span> <span><BR/>Frit valg, mit valg, nyt sted</span></p>
+  <p class = "build nej">Vi har kastet os ud i det ny'<span><BR/>Vi er gået hvert til sit.</span> <span><BR/>Frit valg, mit valg, nyt sted</span></p>
 
   <p class = "build">Dette bliver tiden, <span>hvor jeg finder vejen frem</span></p>
 
-  <p class = "build">Et lille valg af kurser, <span>med en kæmpe konsekvens</span></p>
+  <p class = "build">Et lille valg af kurser, <span><BR>med en kæmpe konsekvens</span></p>
 
   <p class = "build">Og du skiller dig jo fra, <span>flokken som vi har</span></p>
   <p>Finder din faglige identitet</p>
@@ -866,7 +878,7 @@
 
 
 <article class="build lyr" id ="Elektrontrilogi2">
-  <p>I’m so exited!</p>
+  <p>I’m so excited!</p>
 </article>
 
 <article class="build" id ="TotaltMeta">
@@ -881,10 +893,10 @@
   <p class = "build">Kommer ind på min post <span><BR/>og jeg gør det SÅ FINT
   </span><span><BR/>budgetterne skal ned</span><span><BR/>kan ik' betal for alt </span></p>
 
-  <p class = "build nej">Her er en ny finanslov<span><BR/>men hvad skal der i den?
+  <p class = "build">Her er en ny finanslov<span><BR/>men hvad skal der i den?
   </span><span><BR/>Ku' du sænke min skat?</span><span><BR/>Vi kan sænke din skat!! </span></p>
 
-  <p class = "build nej">Skal ha' penge et sted<span><BR/>til at sænke hans skat
+  <p class = "build">Skal ha' penge et sted<span><BR/>til at sænke hans skat
   </span><span><BR/>men hva' ka' jeg skære ned?</span><span><BR/>Hvad med din kandidat?! </span></p>
 
 
@@ -928,11 +940,11 @@
   </span></p>
 
 
-  <p class = "build">Slid og slæb.<span> Ingen tid til fælledskab </span></p>
+  <p class = "build">Slid og slæb.<span> Ingen tid til fællesskab </span></p>
 
-  <p class = "build">Under presset<span>knækker vi</span></p>
+  <p class = "build">Under presset <span>knækker vi</span></p>
 
-  <p class = "build">Udannelser<span>for de rig' </span></p>
+  <p class = "build">Udannelser <span>for de rig' </span></p>
 
   <p class = "build">Lad mig bløde blot jeg tar'<span><BR/>halvtid på min bachelor
   </span><span><BR/>Kør ungdommen rundt i ring</span></p>
@@ -941,7 +953,7 @@
 
   <div class="pagediv build lyr" dur="0">
   <p class = "left">Dovenskab, 5 år kan kun vær' et tab </p>
-  <p class = "right">Slid og slæb. Ingen tid til fælledskab</p>
+  <p class = "right">Slid og slæb. Ingen tid til fællesskab</p>
   <p class = "left">Skattetryk det letter vi</p>
   <p class = "right">Under presset knækker vi</p></div>
 
@@ -1041,27 +1053,27 @@
 </article>
 
 <article class="build lyr" id ="Bandsang3">
-  <p class="nej">Du er blevet tykker’ end sidst vi sås</p>
+  <p>Du er blevet tykker’ end sidst vi sås</p>
   <p>Det er slet ikke ondt ment</p>
   <p>Men du ku’ ha’ en meget mere lækker mås</p>
-  <p>Bare se på miiig!</p>
+  <p>Bare se på miiin!</p>
   <p>Jeg har trænet gluteus maximus</p>
   <p>Også mine abdominis</p>
   <p>Hvis du er blevet helt vildt jaloux</p>
   <p>Så har jeg noget til diiig!</p>
 
-  <p>i skal jazzercise, jazzercise</p>
-  <p class="nej">Kom med og jazzercise</p>
+  <p>I skal jazzercise, jazzercise</p>
+  <p>Kom med og jazzercise</p>
   <p>Jeg vil se dig jazzercise</p>
-  <p class="nej">Sig til hvis det bli’r for hårdt, det’ for hårdt</p>
+  <p>Sig til hvis det bli’r for hårdt,<span><br> det’ for hårdt</span></p>
   <p>Det kan ikke bli’ for hårdt!</p>
   <p>Vi skal jazzercise, jazzercise</p>
   <p>Kom med og jazzercise</p>
   <p>Jeg vil se dig jazzercise</p>
-  <p>Sig til hvis det bli’r for hårdt, det’ for hårdt</p>
+  <p>Sig til hvis det bli’r for hårdt,<span><br> det’ for hårdt</span></p>
   <p>Det kan ikke bli’ for hårdt!</p>
 
-  <p class="nej">ar det ikke bare befriende?</p>
+  <p>Er det ikke bare befriende?</p>
   <p>Du gjorde det så godt</p>
   <p>Vi er på vej til en smal talje</p>
   <p>Og den perfekte krooop</p>
@@ -1071,45 +1083,44 @@
   <p>Men vi må gør’ det igeeen!</p>
 
 
-  <p>i skal jazzercise, jazzercise</p>
+  <p>I skal jazzercise, jazzercise</p>
   <p>Kom med og jazzercise</p>
   <p>Jeg vil se dig jazzercise</p>
-  <p>Sig til hvis det bli’r for hårdt, det’ for hårdt</p>
+  <p>Sig til hvis det bli’r for hårdt,<span><br>det’ for hårdt</span></p>
   <p>Det kan ikke bli’ for hårdt!</p>
   <p>Vi skal jazzercise, jazzercise</p>
   <p>Kom med og jazzercise</p>
   <p>Jeg vil se dig jazzercise</p>
-  <p>Sig til hvis det bli’r for hårdt, det’ for hårdt</p>
+  <p>Sig til hvis det bli’r for hårdt,<span><br>det’ for hårdt</span></p>
   <p>Det kan ikke bli’ for hårdt!</p>
 
   <p>i skal jazzercise, jazzercise</p>
   <p>Kom med og jazzercise</p>
   <p>Jeg vil se dig jazzercise</p>
-  <p>Sig til hvis det bli’r for hårdt, det’ for hårdt</p>
+  <p>Sig til hvis det bli’r for hårdt,<span><br>det’ for hårdt</span></p>
   <p>Det kan ikke bli’ for hårdt!</p>
   <p>Vi skal jazzercise, jazzercise</p>
   <p>Kom med og jazzercise</p>
   <p>Jeg vil se dig jazzercise</p>
-  <p>Sig til hvis det bli’r for hårdt, det’ for hårdt</p>
+  <p>Sig til hvis det bli’r for hårdt,<span><br>det’ for hårdt</span></p>
   <p>Det kan ikke bli’ for hårdt!</p>
-  <p class="nej">(Surt show, du må blive ved)</p>
 
   <p>i skal jazzercise, jazzercise</p>
   <p>Kom med og jazzercise</p>
   <p>Jeg vil se dig jazzercise</p>
-  <p>Sig til hvis det bli’r for hårdt, det’ for hårdt</p>
+  <p>Sig til hvis det bli’r for hårdt,<span><br>det’ for hårdt</span></p>
   <p>Det kan ikke bli’ for hårdt!</p>
   <p>Vi skal jazzercise, jazzercise</p>
   <p>Kom med og jazzercise</p>
   <p>Jeg vil se dig jazzercise</p>
-  <p>Sig til hvis det bli’r for hårdt, det’ for hårdt</p>
-  <p class="nej">Det kan ikke bli’ for hårdt!</p>
-  <p>(Surt show, du må blive ved)</p>
+  <p>Sig til hvis det bli’r for hårdt,<span><br>det’ for hårdt</span></p>
+  <p>Det kan ikke bli’ for hårdt!</p>
 </article>
 
 
 
 <article class="build lyr" id ="KogteLinser">
+  <div class="pagediv"><img src="pics/KogteLinserPic.jpg" style="width:100%; margin-top : 70px " /></div>
   <p class = "build">Mm-noom-ba-deh <span><BR/>Doom-boom-ba-beh</span> <span><BR/>Doo-boo-boom-ba-beh-beh</span></p>
   <p>Linser</p>
   <p class = "build">Med tomater i <span><BR/>og lidt krydderi</span><span><BR/>Det er en </span><span>sovs!</span></p>
@@ -1143,7 +1154,7 @@
 
   <p class = "build">Jeg giver op, <span>den er skod,</span> <span>smager dårligt</span></p>
   <p class = "build">Tro det ej, <span>den er god,</span> <span>du er kræsen</span></p>
-  <p class = "build">Mad kan ikke laves uden kærlighed, som du ved</p>
+  <p class = "build">Mad kan ikke laves uden kærlighed,  <span><BR/>som du ved</span></p>
 
   <p class>Why - why - why </p>
   <p class>DAHL </p>
@@ -1168,7 +1179,7 @@
 
 <article class="build" id="koger">
   <video preload="none">
-    <source src="vids/Koger fisk.mp4" type="video/mp4" />
+    <source src="vids/KogerFisk - Undertekstet.mp4" type="video/mp4" />
   </video>
 </article>
 
@@ -1176,7 +1187,7 @@
 </article>
 
 <article class="build lyr" id ="Elektrontrilogi3">
-  <p class>I'm hen-falling!</p>
+  <p class = "build">I'm heeen<span>-faaaaaalling!</span></p>
 </article>
 
 <article class="build" id ="FysikerArb">
@@ -1244,6 +1255,7 @@
 <article class="build" id="Forskere">
   <video preload="none" >
     <source src="vids/TingForskereALDRIGVilleSige.mov"  >
+    <track kind="subtitles" src="vids/ForskerUndertekster.vtt" srclang="da-DK" default />
   </video>
 </article>
 
@@ -1255,34 +1267,31 @@
 <article class="build lyr" id ="Onlyfans">
   <p>Du du du du, du du du duuu du x4</p>
   <p>Jeg sidder her og er liderlig</p>
-  <p class = "build"> Håber på at finde noget, <span> <BR>som jeg kan onanere til</span></p>
-  <p>Du du du du, du du du duuu du</p>
+  <p class = "build"> Håber på at finde noget, <span> <BR>som jeg kan onanere til</span> <i><BR/>Du du du du, du du du duuu du</i></p>
   <p>Jeg tænder for, computer og min skærm</p>
-  <p class = "build">Og klikker på et inkognitovindue,<span> <BR>op til søgefelt</span> </p>
-  <p>Du du du du, du du du duuu du</p>
+  <p class = "build">Og klikker på et inkognitovindue,<span> <BR>op til søgefelt</span><i><BR/>Du du du du, du du du duuu du</i> </p>
   <p>Min ven han sagde jeg sku' søge på</p>
-  <p class="build"> Mia Khalifa nu er hun på OnlyFans&trade; <span><BR>og det er godt</span></p>
-  <p>Du du du du, du du du duuu du</p>
+  <p class="build"> Mia Khalifa nu er hun på OnlyFans&trade; <span><BR>og det er godt</span><i><BR/>Du du du du, du du du duuu du</i></p>
   <p>For nu har hun hel selv kontrol</p>
   <p>Over hendes indtægt og hends' krop</p>
   <p>Men hvorfor skulle jeg dog købe en OnlyFans&trade;?</p>
   <p>Så meget gratis porno kun $\frac{1}{3}$ er scams</p>
   <p>Jeg går jo bar' på XVIDEOES&trade; !</p>
-  <p>Kommer bar' til at tag' tid at finde noget, der' godt</p>
-  <p>Du du du du, du du du duuu du</p>
+  <p class = "build">Kommer bar' til at tag' tid at finde noget, der' godt<i><BR/>Du du du du, du du du duuu du</i></p>
+
   <p>Porno må da være godt for nog'n?</p>
-  <p>Det er blot endnu en arm for kapital udnyttelse</p>
-  <p>Du du du du, du du du duuu du</p>
+  <p class = "build">Det er blot endnu en arm for kapital udnyttelse<i><BR/>Du du du du, du du du duuu du</i></p>
+
   <p>Vi kan ik' ha revolution</p>
-  <p>Uden sexarbejder rettigheder og beskyttelse</p>
-  <p>Du du du du, du du du duuu du</p>
+  <p class = "build">Uden sexarbejder rettigheder og beskyttelse<i><BR/>Du du du du, du du du duuu du</i></p>
+
   <p>Det verdens ældste profession</p>
   <p>Proletariat i union!</p>
   <p>Vær kommunist; betal for OnlyFans&trade;</p>
   <p>Læg dig ej under for kapitalisme scams</p>
   <p>Jeg læser Marxistisk teori</p>
-  <p>En væbnet klassekamp er måden vi bli'r fri!</p>
-  <p>Du du du du, du du du duuu du</p>
+  <p class = "build">En væbnet klassekamp er måden vi bli'r fri! <i><BR/>Du du du du, du du du duuu du</i></p>
+
   <p>Kun samtykke kan lægge dig i bånd</p>
   <p>Åh partisaner, kom og bol med mig</p>
   <p>Tag min hånd og lad vor kroppe vise vej</p>
@@ -1343,7 +1352,7 @@
   <p class = "build">Vær’ i boksen, hæve Harboe, <span> <BR>Husk at sætte en streg!</span></p>
   <p class = "build">Og vi spiller ud på natten, <span> <BR>og vi skal ikke i seeeeeeng</span></p>
   <p class = "build">For nu har vi tændt bål, <span> <BR>hvor vi brænder vores eksamenssæt</span></p>
-  <p class = "build">Sylle <b style="font-size:120%" > er </b> i busken, og vi spiller <BR> tegn og gæt</p>
+  <p ">Sylle <b style="font-size:120%" > er </b> i busken, og vi spiller <BR> tegn og gæt</p>
 
   <p>Og vi sidder ude på græsset og ser solopgang kl. fem </p>
   <p>nu har vi virk’lig fri</p>
@@ -1369,7 +1378,7 @@
   <p class="nej">Selvfølig’ gør du det, og du er den du skal vær’</p>
   <p>Mellemugen den var god, men mest alt vil vi tilbage</p>
   <p>Tilbage til fysik!</p>
-  <p class="nej">Og selvom nogn' er ude og rejs’</p>
+  <p class="nej">Og selvom nogn' de er ude og rejs’</p>
   <p>Mødes vi i venneflokken og er sammen med dig</p>
   <p>Uanset dit behov vil vi gøre det, vil gøre det godt</p>
   <p>For du er ik alene</p>
