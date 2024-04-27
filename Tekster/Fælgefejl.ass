@@ -1,0 +1,62 @@
+[Script Info]
+; Genereret af Kristoffers AV system.
+Title: Overtekster2024-04-27T19:06:46.711Z
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Overtekst,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.08,0:00:06.09,Overtekst,,0,0,0,,Du kan jo bar’ kopier mig?
+Dialogue: 0,0:00:06.09,0:00:12.90,Overtekst,,0,0,0,,Din regnelærer\NHun må følge din fejl
+Dialogue: 0,0:00:12.90,0:00:12.90,Overtekst,,0,0,0,,Din regnelærer\NHun må følge din fejl
+Dialogue: 0,0:00:12.90,0:00:17.00,Overtekst,,0,0,0,,Hun må bare sætte \Nc ind, frem for ħ
+Dialogue: 0,0:00:17.00,0:00:17.00,Overtekst,,0,0,0,,Hun må bare sætte \Nc ind, frem for ħ
+Dialogue: 0,0:00:17.00,0:00:19.45,Overtekst,,0,0,0,,Det må da gi’ point\NFor metoden er klar
+Dialogue: 0,0:00:19.45,0:00:19.45,Overtekst,,0,0,0,,Det må da gi’ point\NFor metoden er klar
+Dialogue: 0,0:00:19.45,0:00:23.06,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive
+Dialogue: 0,0:00:23.06,0:00:23.06,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive
+Dialogue: 0,0:00:23.06,0:00:24.78,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive“Spin kvarte par”
+Dialogue: 0,0:00:24.78,0:00:24.78,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive“Spin kvarte par”
+Dialogue: 0,0:00:24.78,0:00:26.93,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive“Spin kvarte par”Uuuhhh, yeah
+Dialogue: 0,0:00:26.93,0:00:26.93,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive“Spin kvarte par”Uuuhhh, yeah
+Dialogue: 0,0:00:26.93,0:00:31.65,Overtekst,,0,0,0,,En ekstra faktor 2\NDer står kvadratrod 7
+Dialogue: 0,0:00:31.65,0:00:31.66,Overtekst,,0,0,0,,En ekstra faktor 2\NDer står kvadratrod 7
+Dialogue: 0,0:00:31.66,0:00:37.72,Overtekst,,0,0,0,,Åhåhåh\NDer var følgefejl
+Dialogue: 0,0:00:37.72,0:00:37.72,Overtekst,,0,0,0,,Åhåhåh\NDer var følgefejl
+Dialogue: 0,0:00:37.72,0:00:38.96,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N  
+Dialogue: 0,0:00:38.96,0:00:38.96,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N  
+Dialogue: 0,0:00:38.96,0:00:40.94,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N   Oh my god, det er ikke engang svært\N  
+Dialogue: 0,0:00:40.94,0:00:40.94,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N   Oh my god, det er ikke engang svært\N  
+Dialogue: 0,0:00:40.94,0:00:42.31,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N   Oh my god, det er ikke engang svært\N   Det er bare en følgefejl\N  
+Dialogue: 0,0:00:42.31,0:00:42.31,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N   Oh my god, det er ikke engang svært\N   Det er bare en følgefejl\N  
+Dialogue: 0,0:00:42.31,0:00:44.90,Overtekst,,0,0,0,, Følgefejl
+Dialogue: 0,0:00:44.90,0:00:44.91,Overtekst,,0,0,0,, Følgefejl
+Dialogue: 0,0:00:44.91,0:00:45.91,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N  
+Dialogue: 0,0:00:45.91,0:00:45.91,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N  
+Dialogue: 0,0:00:45.91,0:00:48.91,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N  
+Dialogue: 0,0:00:48.91,0:00:48.91,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N  
+Dialogue: 0,0:00:48.91,0:00:49.97,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  
+Dialogue: 0,0:00:49.97,0:00:49.97,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  
+Dialogue: 0,0:00:49.97,0:00:51.62,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  
+Dialogue: 0,0:00:51.62,0:00:51.63,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  
+Dialogue: 0,0:00:51.63,0:00:53.10,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  
+Dialogue: 0,0:00:53.10,0:00:53.11,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  
+Dialogue: 0,0:00:53.11,0:00:54.78,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  
+Dialogue: 0,0:00:54.78,0:00:54.78,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  
+Dialogue: 0,0:00:54.78,0:00:55.93,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  
+Dialogue: 0,0:00:55.93,0:00:55.93,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  
+Dialogue: 0,0:00:55.93,0:00:57.34,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  Jo der er\N  
+Dialogue: 0,0:00:57.34,0:00:57.34,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  Jo der er\N  
+Dialogue: 0,0:00:57.34,0:00:58.37,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  Jo der er\N  Der er også\N  
+Dialogue: 0,0:00:58.37,0:00:58.37,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  Jo der er\N  Der er også\N  
+Dialogue: 0,0:00:58.37,0:00:59.15,Overtekst,,0,0,0,,Fortegnsfejl
+Dialogue: 0,0:00:59.15,0:00:59.15,Overtekst,,0,0,0,,Fortegnsfejl
+Dialogue: 0,0:00:59.15,0:01:04.69,Overtekst,,0,0,0,,NEEEEEEEEJ!

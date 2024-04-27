@@ -1,0 +1,54 @@
+[Script Info]
+; Genereret af Kristoffers AV system.
+Title: Overtekster2024-04-27T17:40:16.685Z
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Overtekst,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:26:12.57,0:26:13.49,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:26:13.49,0:26:14.59,Overtekst,,0,0,0,,PELVIS!
+Dialogue: 0,0:26:14.59,0:26:19.67,Overtekst,,0,0,0,,Rotér din pelvis, pelvis (x 3)
+Dialogue: 0,0:26:19.67,0:26:20.49,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:26:20.49,0:26:22.22,Overtekst,,0,0,0,,PELVIS!
+Dialogue: 0,0:26:22.22,0:26:23.30,Overtekst,,0,0,0,,Smækkerlækker smuk (x 2)
+Dialogue: 0,0:26:36.05,0:26:37.80,Overtekst,,0,0,0,,Smækkerlækker smuk (x 2)
+Dialogue: 0,0:26:37.80,0:26:37.80,Overtekst,,0,0,0,,Smækkerlækker smuk (x 2)
+Dialogue: 0,0:26:37.80,0:26:39.49,Overtekst,,0,0,0,,Smækkerlækker smuk (x N)
+Dialogue: 0,0:26:39.49,0:26:39.49,Overtekst,,0,0,0,,Smækkerlækker smuk (x N)
+Dialogue: 0,0:26:39.49,0:26:41.43,Overtekst,,0,0,0,,Smækkerlækker smuk (x 2)
+Dialogue: 0,0:26:41.43,0:26:41.43,Overtekst,,0,0,0,,Smækkerlækker smuk (x 2)
+Dialogue: 0,0:26:41.43,0:26:43.46,Overtekst,,0,0,0,,Smækkerlækker smuk (x N)
+Dialogue: 0,0:26:43.46,0:26:43.46,Overtekst,,0,0,0,,Smækkerlækker smuk (x N)
+Dialogue: 0,0:26:43.46,0:26:48.83,Overtekst,,0,0,0,,Rotér din pelvis, pelvis (x 3)
+Dialogue: 0,0:26:48.83,0:26:48.83,Overtekst,,0,0,0,,Rotér din pelvis, pelvis (x 3)
+Dialogue: 0,0:26:48.83,0:26:49.86,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:26:49.86,0:26:49.86,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:26:49.86,0:26:52.29,Overtekst,,0,0,0,,PELVIS!
+Dialogue: 0,0:26:52.29,0:26:52.29,Overtekst,,0,0,0,,PELVIS!
+Dialogue: 0,0:26:52.29,0:26:58.60,Overtekst,,0,0,0,,Rotér din pelvis, pelvis (x 3)
+Dialogue: 0,0:26:58.60,0:26:58.60,Overtekst,,0,0,0,,Rotér din pelvis, pelvis (x 3)
+Dialogue: 0,0:26:58.60,0:26:58.93,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:26:58.93,0:26:58.93,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:26:58.93,0:27:00.89,Overtekst,,0,0,0,,PELVIS!
+Dialogue: 0,0:27:00.89,0:27:00.90,Overtekst,,0,0,0,,PELVIS!
+Dialogue: 0,0:27:00.90,0:27:03.82,Overtekst,,0,0,0,,Rotér din pelvis, pelvis (x 3)
+Dialogue: 0,0:27:03.82,0:27:03.82,Overtekst,,0,0,0,,Rotér din pelvis, pelvis (x 3)
+Dialogue: 0,0:27:03.82,0:27:04.58,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:27:04.58,0:27:04.58,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:27:04.58,0:27:07.44,Overtekst,,0,0,0,,PELVIS!
+Dialogue: 0,0:27:07.44,0:27:07.44,Overtekst,,0,0,0,,PELVIS!
+Dialogue: 0,0:27:07.44,0:27:10.96,Overtekst,,0,0,0,,Rotér din pelvis, pelvis (x 3)
+Dialogue: 0,0:27:10.96,0:27:10.96,Overtekst,,0,0,0,,Rotér din pelvis, pelvis (x 3)
+Dialogue: 0,0:27:10.96,0:27:12.00,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:27:12.00,0:27:12.00,Overtekst,,0,0,0,,Rotér hvad?
+Dialogue: 0,0:27:12.00,0:27:12.82,Overtekst,,0,0,0,,PELVIS!
+Dialogue: 0,0:27:30.09,0:28:45.27,Overtekst,,0,0,0,,PELVIS!

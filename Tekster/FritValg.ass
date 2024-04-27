@@ -1,0 +1,314 @@
+[Script Info]
+; Genereret af Kristoffers AV system.
+Title: Overtekster2024-04-27T19:38:59.475Z
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Overtekst,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.08,0:00:06.09,Overtekst,,0,0,0,,Du kan jo bar’ kopier mig?
+Dialogue: 0,0:00:06.09,0:00:12.90,Overtekst,,0,0,0,,Din regnelærer\NHun må følge din fejl
+Dialogue: 0,0:00:12.90,0:00:12.90,Overtekst,,0,0,0,,Din regnelærer\NHun må følge din fejl
+Dialogue: 0,0:00:12.90,0:00:17.00,Overtekst,,0,0,0,,Hun må bare sætte \Nc ind, frem for ħ
+Dialogue: 0,0:00:17.00,0:00:17.00,Overtekst,,0,0,0,,Hun må bare sætte \Nc ind, frem for ħ
+Dialogue: 0,0:00:17.00,0:00:19.45,Overtekst,,0,0,0,,Det må da gi’ point\NFor metoden er klar
+Dialogue: 0,0:00:19.45,0:00:19.45,Overtekst,,0,0,0,,Det må da gi’ point\NFor metoden er klar
+Dialogue: 0,0:00:19.45,0:00:23.06,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive
+Dialogue: 0,0:00:23.06,0:00:23.06,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive
+Dialogue: 0,0:00:23.06,0:00:24.78,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive“Spin kvarte par”
+Dialogue: 0,0:00:24.78,0:00:24.78,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive“Spin kvarte par”
+Dialogue: 0,0:00:24.78,0:00:26.93,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive“Spin kvarte par”Uuuhhh, yeah
+Dialogue: 0,0:00:26.93,0:00:26.93,Overtekst,,0,0,0,,[Jeg/du] er bar’ kommet til at skrive“Spin kvarte par”Uuuhhh, yeah
+Dialogue: 0,0:00:26.93,0:00:31.65,Overtekst,,0,0,0,,En ekstra faktor 2\NDer står kvadratrod 7
+Dialogue: 0,0:00:31.65,0:00:31.66,Overtekst,,0,0,0,,En ekstra faktor 2\NDer står kvadratrod 7
+Dialogue: 0,0:00:31.66,0:00:37.72,Overtekst,,0,0,0,,Åhåhåh\NDer var følgefejl
+Dialogue: 0,0:00:37.72,0:00:37.72,Overtekst,,0,0,0,,Åhåhåh\NDer var følgefejl
+Dialogue: 0,0:00:37.72,0:00:38.96,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N  
+Dialogue: 0,0:00:38.96,0:00:38.96,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N  
+Dialogue: 0,0:00:38.96,0:00:40.94,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N   Oh my god, det er ikke engang svært\N  
+Dialogue: 0,0:00:40.94,0:00:40.94,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N   Oh my god, det er ikke engang svært\N  
+Dialogue: 0,0:00:40.94,0:00:42.31,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N   Oh my god, det er ikke engang svært\N   Det er bare en følgefejl\N  
+Dialogue: 0,0:00:42.31,0:00:42.31,Overtekst,,0,0,0,,\N   Det' ikke engang svært det her\N   Oh my god, det er ikke engang svært\N   Det er bare en følgefejl\N  
+Dialogue: 0,0:00:42.31,0:00:44.90,Overtekst,,0,0,0,, Følgefejl
+Dialogue: 0,0:00:44.90,0:00:44.91,Overtekst,,0,0,0,, Følgefejl
+Dialogue: 0,0:00:44.91,0:00:45.91,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N  
+Dialogue: 0,0:00:45.91,0:00:45.91,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N  
+Dialogue: 0,0:00:45.91,0:00:48.91,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N  
+Dialogue: 0,0:00:48.91,0:00:48.91,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N  
+Dialogue: 0,0:00:48.91,0:00:49.97,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  
+Dialogue: 0,0:00:49.97,0:00:49.97,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  
+Dialogue: 0,0:00:49.97,0:00:51.62,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  
+Dialogue: 0,0:00:51.62,0:00:51.63,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  
+Dialogue: 0,0:00:51.63,0:00:53.10,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  
+Dialogue: 0,0:00:53.10,0:00:53.11,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  
+Dialogue: 0,0:00:53.11,0:00:54.78,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  
+Dialogue: 0,0:00:54.78,0:00:54.78,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  
+Dialogue: 0,0:00:54.78,0:00:55.93,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  
+Dialogue: 0,0:00:55.93,0:00:55.93,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  
+Dialogue: 0,0:00:55.93,0:00:57.34,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  Jo der er\N  
+Dialogue: 0,0:00:57.34,0:00:57.34,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  Jo der er\N  
+Dialogue: 0,0:00:57.34,0:00:58.37,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  Jo der er\N  Der er også\N  
+Dialogue: 0,0:00:58.37,0:00:58.37,Overtekst,,0,0,0,,\N   Du har også skrevet dit navn forkert\N   Har jeg også skrevet mit navn forkert?!\N   Nej jeg har ik’\N  Jo du har\N  Hold nu op med det der\N  Og der er jo\N  Nej der ik\N  Jo der er\N  Der er også\N  
+Dialogue: 0,0:00:58.37,0:00:59.15,Overtekst,,0,0,0,,Fortegnsfejl
+Dialogue: 0,0:00:59.15,0:00:59.15,Overtekst,,0,0,0,,Fortegnsfejl
+Dialogue: 0,0:00:59.15,0:01:16.96,Overtekst,,0,0,0,,NEEEEEEEEJ!
+Dialogue: 0,0:01:16.96,0:01:44.18,Overtekst,,0,0,0,,NEEEEEEEEJ!
+Dialogue: 0,0:01:56.89,0:02:10.86,Overtekst,,0,0,0,,♫ retro_phone.mp3
+Dialogue: 0,0:02:10.86,0:02:23.22,Overtekst,,0,0,0,,♫ Beep.m4a
+Dialogue: 0,0:02:23.22,0:02:32.49,Overtekst,,0,0,0,,♫ Beep.m4a
+Dialogue: 0,0:02:44.53,0:02:47.16,Overtekst,,0,0,0,,♫ jingle.mp3
+Dialogue: 0,0:03:26.30,0:03:51.25,Overtekst,,0,0,0,,♫ jingle.mp3
+Dialogue: 0,0:03:51.25,0:04:00.76,Overtekst,,0,0,0,,♫ Beep.m4a
+Dialogue: 0,0:04:00.76,0:04:19.40,Overtekst,,0,0,0,,♫ Beep.m4a
+Dialogue: 0,0:04:19.40,0:04:23.34,Overtekst,,0,0,0,,Jeg skal ku’ regne på kvanter\NFor at være fysiker
+Dialogue: 0,0:04:23.34,0:04:23.35,Overtekst,,0,0,0,,Jeg skal ku’ regne på kvanter\NFor at være fysiker
+Dialogue: 0,0:04:23.35,0:04:27.37,Overtekst,,0,0,0,,Løse systemer\NSom skal bruge en analytiker
+Dialogue: 0,0:04:27.37,0:04:27.37,Overtekst,,0,0,0,,Løse systemer\NSom skal bruge en analytiker
+Dialogue: 0,0:04:27.37,0:04:31.50,Overtekst,,0,0,0,,Dynamisk og termisk\NSkal løses kvasistatisk
+Dialogue: 0,0:04:31.50,0:04:31.50,Overtekst,,0,0,0,,Dynamisk og termisk\NSkal løses kvasistatisk
+Dialogue: 0,0:04:31.50,0:04:36.40,Overtekst,,0,0,0,,Approximer og så forkorte\NDet bli’r så flot
+Dialogue: 0,0:04:36.40,0:04:36.40,Overtekst,,0,0,0,,Approximer og så forkorte\NDet bli’r så flot
+Dialogue: 0,0:04:36.40,0:04:40.51,Overtekst,,0,0,0,,f(x) den er jo bedst\NHvis udtryk man kan test’
+Dialogue: 0,0:04:40.51,0:04:40.52,Overtekst,,0,0,0,,f(x) den er jo bedst\NHvis udtryk man kan test’
+Dialogue: 0,0:04:40.52,0:04:44.53,Overtekst,,0,0,0,,Med blyant på papir\NDet’ en regnetime
+Dialogue: 0,0:04:44.53,0:04:44.53,Overtekst,,0,0,0,,Med blyant på papir\NDet’ en regnetime
+Dialogue: 0,0:04:44.53,0:04:45.60,Overtekst,,0,0,0,,Analytisk 
+Dialogue: 0,0:04:45.60,0:04:45.60,Overtekst,,0,0,0,,Analytisk 
+Dialogue: 0,0:04:45.60,0:04:46.56,Overtekst,,0,0,0,,Analytisk Mekanik
+Dialogue: 0,0:04:46.56,0:04:46.56,Overtekst,,0,0,0,,Analytisk Mekanik
+Dialogue: 0,0:04:46.56,0:04:48.34,Overtekst,,0,0,0,,Analytisk MekanikLagrangen, løser kinetik
+Dialogue: 0,0:04:48.34,0:04:48.34,Overtekst,,0,0,0,,Analytisk MekanikLagrangen, løser kinetik
+Dialogue: 0,0:04:48.34,0:04:52.73,Overtekst,,0,0,0,,Hvor Newtons love ik’ var nemt\Nlidt slemt
+Dialogue: 0,0:04:52.73,0:04:52.73,Overtekst,,0,0,0,,Hvor Newtons love ik’ var nemt\Nlidt slemt
+Dialogue: 0,0:04:52.73,0:04:56.72,Overtekst,,0,0,0,,Værktøjskasse for dit fag\NEn teori som jeg vil ha’
+Dialogue: 0,0:04:56.72,0:04:56.72,Overtekst,,0,0,0,,Værktøjskasse for dit fag\NEn teori som jeg vil ha’
+Dialogue: 0,0:04:56.72,0:04:59.07,Overtekst,,0,0,0,,Det' en hjælp
+Dialogue: 0,0:04:59.07,0:04:59.07,Overtekst,,0,0,0,,Det' en hjælp
+Dialogue: 0,0:05:05.47,0:05:09.60,Overtekst,,0,0,0,,Jeg finder variabler\NJeg håber er kanoniske
+Dialogue: 0,0:05:09.60,0:05:09.60,Overtekst,,0,0,0,,Jeg finder variabler\NJeg håber er kanoniske
+Dialogue: 0,0:05:09.60,0:05:13.36,Overtekst,,0,0,0,,Transformationer\NTestes med Poisson brackets\N  
+Dialogue: 0,0:05:13.36,0:05:13.36,Overtekst,,0,0,0,,Transformationer\NTestes med Poisson brackets\N  
+Dialogue: 0,0:05:13.36,0:05:17.48,Overtekst,,0,0,0,,Kædereglen formår\NAt L den ikke forgår
+Dialogue: 0,0:05:17.48,0:05:17.48,Overtekst,,0,0,0,,Kædereglen formår\NAt L den ikke forgår
+Dialogue: 0,0:05:17.48,0:05:21.94,Overtekst,,0,0,0,,I differentiation til q˙\NSå Euleren er flot
+Dialogue: 0,0:05:21.94,0:05:21.94,Overtekst,,0,0,0,,I differentiation til q˙\NSå Euleren er flot
+Dialogue: 0,0:05:21.94,0:05:26.17,Overtekst,,0,0,0,,Et bedre udgangpunkt er givet\NVed vor Hamiltonian
+Dialogue: 0,0:05:26.17,0:05:26.17,Overtekst,,0,0,0,,Et bedre udgangpunkt er givet\NVed vor Hamiltonian
+Dialogue: 0,0:05:26.17,0:05:30.04,Overtekst,,0,0,0,,Udregner energi\NTil en regnetime
+Dialogue: 0,0:05:30.04,0:05:30.04,Overtekst,,0,0,0,,Udregner energi\NTil en regnetime
+Dialogue: 0,0:05:30.04,0:05:30.94,Overtekst,,0,0,0,,Analytisk 
+Dialogue: 0,0:05:30.94,0:05:30.94,Overtekst,,0,0,0,,Analytisk 
+Dialogue: 0,0:05:30.94,0:05:32.02,Overtekst,,0,0,0,,Analytisk Mekanik
+Dialogue: 0,0:05:32.02,0:05:32.02,Overtekst,,0,0,0,,Analytisk Mekanik
+Dialogue: 0,0:05:32.02,0:05:33.84,Overtekst,,0,0,0,,Analytisk MekanikVariation, med matematik
+Dialogue: 0,0:05:33.84,0:05:33.84,Overtekst,,0,0,0,,Analytisk MekanikVariation, med matematik
+Dialogue: 0,0:05:33.84,0:05:38.59,Overtekst,,0,0,0,,Legendre transformation\NDet’ kanon
+Dialogue: 0,0:05:38.59,0:05:38.59,Overtekst,,0,0,0,,Legendre transformation\NDet’ kanon
+Dialogue: 0,0:06:11.43,0:06:15.57,Overtekst,,0,0,0,,Leder os fra formulering af\NKlassisk mekanik i dag
+Dialogue: 0,0:06:15.57,0:06:15.57,Overtekst,,0,0,0,,Leder os fra formulering af\NKlassisk mekanik i dag
+Dialogue: 0,0:06:15.57,0:06:19.63,Overtekst,,0,0,0,,Til reformulering direkte til\NFormulering af dat og dit
+Dialogue: 0,0:06:19.63,0:06:19.63,Overtekst,,0,0,0,,Til reformulering direkte til\NFormulering af dat og dit
+Dialogue: 0,0:06:19.63,0:06:26.15,Overtekst,,0,0,0,,Til fluid og kvante mekanik, nik
+Dialogue: 0,0:06:26.15,0:06:26.15,Overtekst,,0,0,0,,Til fluid og kvante mekanik, nik
+Dialogue: 0,0:06:26.15,0:06:28.43,Overtekst,,0,0,0,,Til en regnetime
+Dialogue: 0,0:06:28.43,0:06:28.43,Overtekst,,0,0,0,,Til en regnetime
+Dialogue: 0,0:06:28.43,0:06:32.38,Overtekst,,0,0,0,,Analytisk Mekanik\NVi løser alt, der er fysik
+Dialogue: 0,0:06:32.38,0:06:32.38,Overtekst,,0,0,0,,Analytisk Mekanik\NVi løser alt, der er fysik
+Dialogue: 0,0:06:32.38,0:06:36.71,Overtekst,,0,0,0,,Garanti for brugbarhed\NNårsomhelst\N  
+Dialogue: 0,0:06:36.71,0:06:36.71,Overtekst,,0,0,0,,Garanti for brugbarhed\NNårsomhelst\N  
+Dialogue: 0,0:06:36.71,0:06:39.86,Overtekst,,0,0,0,,Anbefalet på år 3\NDet er bar’ det bedste fag
+Dialogue: 0,0:06:39.86,0:06:39.87,Overtekst,,0,0,0,,Anbefalet på år 3\NDet er bar’ det bedste fag
+Dialogue: 0,0:06:39.87,0:06:44.70,Overtekst,,0,0,0,,Du ska tag’
+Dialogue: 0,0:06:44.70,0:06:44.70,Overtekst,,0,0,0,,Du ska tag’
+Dialogue: 0,0:06:44.70,0:06:47.18,Overtekst,,0,0,0,,Du ska ha’
+Dialogue: 0,0:06:47.18,0:07:14.36,Overtekst,,0,0,0,,Du ska ha’
+Dialogue: 0,0:07:14.36,0:08:32.70,Overtekst,,0,0,0,,🎞 legestuen.mp4
+Dialogue: 0,0:08:32.70,0:09:31.85,Overtekst,,0,0,0,,🎞 legestuen.mp4
+Dialogue: 0,0:16:36.00,0:16:46.87,Overtekst,,0,0,0,,🎞 boersen.mp4
+Dialogue: 0,0:17:02.19,0:17:29.92,Overtekst,,0,0,0,,🎞 boersen.mp4
+Dialogue: 0,0:17:29.92,0:18:05.50,Overtekst,,0,0,0,,🎞 DanseNummer.mp4
+Dialogue: 0,0:18:05.50,0:21:47.36,Overtekst,,0,0,0,,🎞 DanseNummer.mp4
+Dialogue: 0,0:21:47.36,0:21:50.78,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:21:50.78,0:21:50.79,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:21:50.79,0:21:54.56,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:21:54.56,0:21:54.56,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:21:54.56,0:21:58.93,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:21:58.93,0:21:58.93,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:21:58.93,0:22:02.66,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:22:02.66,0:22:02.67,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:22:02.67,0:22:07.89,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:22:07.89,0:22:07.89,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:22:07.89,0:22:10.87,Overtekst,,0,0,0,,Du burde ta' og lytte til min sang
+Dialogue: 0,0:22:10.87,0:22:10.87,Overtekst,,0,0,0,,Du burde ta' og lytte til min sang
+Dialogue: 0,0:22:10.87,0:22:14.12,Overtekst,,0,0,0,,Hvis du syn’s dine summer er for lang'
+Dialogue: 0,0:22:14.12,0:22:14.12,Overtekst,,0,0,0,,Hvis du syn’s dine summer er for lang'
+Dialogue: 0,0:22:14.12,0:22:17.92,Overtekst,,0,0,0,,Store Σ, åh, det giver mig en trang
+Dialogue: 0,0:22:17.92,0:22:17.92,Overtekst,,0,0,0,,Store Σ, åh, det giver mig en trang
+Dialogue: 0,0:22:17.92,0:22:21.64,Overtekst,,0,0,0,,Til at skyde mig selv ud af en kanon
+Dialogue: 0,0:22:21.64,0:22:21.64,Overtekst,,0,0,0,,Til at skyde mig selv ud af en kanon
+Dialogue: 0,0:22:21.64,0:22:25.94,Overtekst,,0,0,0,,Der må da være en bedre notation
+Dialogue: 0,0:22:25.94,0:22:25.94,Overtekst,,0,0,0,,Der må da være en bedre notation
+Dialogue: 0,0:22:25.94,0:22:29.30,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:22:29.30,0:22:29.30,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:22:29.30,0:22:33.02,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:22:33.02,0:22:33.02,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:22:33.02,0:22:37.04,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:22:37.04,0:22:37.04,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:22:37.04,0:22:40.81,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:22:40.81,0:22:40.81,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:22:40.81,0:22:45.06,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:22:45.06,0:22:45.06,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:22:45.06,0:22:48.54,Overtekst,,0,0,0,,Fortæl mig om Einstein notation
+Dialogue: 0,0:22:48.54,0:22:48.54,Overtekst,,0,0,0,,Fortæl mig om Einstein notation
+Dialogue: 0,0:22:48.54,0:22:52.45,Overtekst,,0,0,0,,Fortæl om Christoffel og om summation
+Dialogue: 0,0:22:52.45,0:22:52.45,Overtekst,,0,0,0,,Fortæl om Christoffel og om summation
+Dialogue: 0,0:22:52.45,0:22:56.22,Overtekst,,0,0,0,,Giv mig frit fald\NOg giv mig en geodæt at følge
+Dialogue: 0,0:22:56.22,0:22:56.22,Overtekst,,0,0,0,,Giv mig frit fald\NOg giv mig en geodæt at følge
+Dialogue: 0,0:22:56.22,0:23:00.05,Overtekst,,0,0,0,,Giv mig en håndskrift der ikke er for let
+Dialogue: 0,0:23:00.05,0:23:00.05,Overtekst,,0,0,0,,Giv mig en håndskrift der ikke er for let
+Dialogue: 0,0:23:00.05,0:23:04.46,Overtekst,,0,0,0,,For μ, ν og i anden kan komme ud på ét
+Dialogue: 0,0:23:04.46,0:23:04.46,Overtekst,,0,0,0,,For μ, ν og i anden kan komme ud på ét
+Dialogue: 0,0:23:04.46,0:23:07.41,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:23:07.41,0:23:07.41,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:23:07.41,0:23:11.11,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:23:11.11,0:23:11.11,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:23:11.11,0:23:15.15,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:23:15.15,0:23:15.15,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:23:15.15,0:23:18.88,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:23:18.88,0:23:18.88,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:23:18.88,0:23:23.72,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:23:41.48,0:23:41.48,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:23:41.48,0:23:45.04,Overtekst,,0,0,0,,Ka’ du fortælle mig hvad χπ er lig?
+Dialogue: 0,0:23:45.04,0:23:45.04,Overtekst,,0,0,0,,Ka’ du fortælle mig hvad χπ er lig?
+Dialogue: 0,0:23:45.04,0:23:49.10,Overtekst,,0,0,0,,Det er Φπξ ganget med  ζξ 
+Dialogue: 0,0:23:49.10,0:23:49.10,Overtekst,,0,0,0,,Det er Φπξ ganget med  ζξ 
+Dialogue: 0,0:23:49.10,0:23:51.11,Overtekst,,0,0,0,,Jeg syn’s det’ svært! 
+Dialogue: 0,0:23:51.11,0:23:51.11,Overtekst,,0,0,0,,Jeg syn’s det’ svært! 
+Dialogue: 0,0:23:51.11,0:23:52.54,Overtekst,,0,0,0,,Det er da nemmer’ end end at sig’
+Dialogue: 0,0:23:52.54,0:23:52.54,Overtekst,,0,0,0,,Det er da nemmer’ end end at sig’
+Dialogue: 0,0:23:52.54,0:24:00.52,Overtekst,,0,0,0,,At χπ =  ∑ξ Φπξ ‧ ζξ
+Dialogue: 0,0:24:00.52,0:24:00.52,Overtekst,,0,0,0,,At χπ =  ∑ξ Φπξ ‧ ζξ
+Dialogue: 0,0:24:00.52,0:24:03.72,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:24:03.72,0:24:03.72,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:24:03.72,0:24:07.47,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:24:07.47,0:24:07.47,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:24:07.47,0:24:11.29,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:24:11.29,0:24:11.30,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:24:11.30,0:24:14.70,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:24:14.70,0:24:14.70,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:24:14.70,0:24:19.18,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:24:19.18,0:24:19.18,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:24:19.18,0:24:22.19,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:24:22.19,0:24:22.19,Overtekst,,0,0,0,,Kald det k og l
+Dialogue: 0,0:24:22.19,0:24:25.99,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:24:25.99,0:24:25.99,Overtekst,,0,0,0,,Kald det liiiiige hvad du vil
+Dialogue: 0,0:24:25.99,0:24:29.99,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:24:29.99,0:24:30.00,Overtekst,,0,0,0,,Æ, ø, ååååååå og m og j og i
+Dialogue: 0,0:24:30.00,0:24:33.21,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:24:33.21,0:24:33.21,Overtekst,,0,0,0,, μ og ν og måske π
+Dialogue: 0,0:24:33.21,0:24:38.56,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:24:53.76,0:29:58.07,Overtekst,,0,0,0,,Lov mig dog du ik’ bruger ξ
+Dialogue: 0,0:29:58.07,0:30:01.74,Overtekst,,0,0,0,,Vi hjalp hinanden meget,
+Dialogue: 0,0:30:01.74,0:30:01.74,Overtekst,,0,0,0,,Vi hjalp hinanden meget,
+Dialogue: 0,0:30:01.74,0:30:05.30,Overtekst,,0,0,0,,Vi hjalp hinanden meget,prøver, opgaver
+Dialogue: 0,0:30:05.30,0:30:05.30,Overtekst,,0,0,0,,Vi hjalp hinanden meget,prøver, opgaver
+Dialogue: 0,0:30:05.30,0:30:07.20,Overtekst,,0,0,0,,Studiet,  
+Dialogue: 0,0:30:07.20,0:30:07.20,Overtekst,,0,0,0,,Studiet,  
+Dialogue: 0,0:30:07.20,0:30:08.98,Overtekst,,0,0,0,,Studiet, studiet, 
+Dialogue: 0,0:30:08.98,0:30:08.99,Overtekst,,0,0,0,,Studiet, studiet, 
+Dialogue: 0,0:30:08.99,0:30:12.26,Overtekst,,0,0,0,,Studiet, studiet, bestå
+Dialogue: 0,0:30:12.26,0:30:12.26,Overtekst,,0,0,0,,Studiet, studiet, bestå
+Dialogue: 0,0:30:12.26,0:30:15.43,Overtekst,,0,0,0,,Vores kurser er ovre
+Dialogue: 0,0:30:15.43,0:30:15.43,Overtekst,,0,0,0,,Vores kurser er ovre
+Dialogue: 0,0:30:15.43,0:30:19.51,Overtekst,,0,0,0,,Vores kurser er ovreEksamerne er slut
+Dialogue: 0,0:30:19.51,0:30:19.51,Overtekst,,0,0,0,,Vores kurser er ovreEksamerne er slut
+Dialogue: 0,0:30:19.51,0:30:27.32,Overtekst,,0,0,0,,Men vi ses igen til næste år
+Dialogue: 0,0:30:27.32,0:30:27.32,Overtekst,,0,0,0,,Men vi ses igen til næste år
+Dialogue: 0,0:30:27.32,0:30:31.11,Overtekst,,0,0,0,,Nu er vi på tredje år
+Dialogue: 0,0:30:31.11,0:30:31.11,Overtekst,,0,0,0,,Nu er vi på tredje år
+Dialogue: 0,0:30:31.11,0:30:34.70,Overtekst,,0,0,0,,Nu er vi på tredje årOg hvad skal der mon ske
+Dialogue: 0,0:30:34.70,0:30:34.70,Overtekst,,0,0,0,,Nu er vi på tredje årOg hvad skal der mon ske
+Dialogue: 0,0:30:34.70,0:30:37.54,Overtekst,,0,0,0,,Vil vi se hinanden
+Dialogue: 0,0:30:37.54,0:30:37.54,Overtekst,,0,0,0,,Vil vi se hinanden
+Dialogue: 0,0:30:37.54,0:30:41.65,Overtekst,,0,0,0,,Vil vi se hinandenNår din’ kurser er valgfri
+Dialogue: 0,0:30:41.65,0:30:41.65,Overtekst,,0,0,0,,Vil vi se hinandenNår din’ kurser er valgfri
+Dialogue: 0,0:30:41.65,0:30:45.68,Overtekst,,0,0,0,,Vi har fulgtes indtil nu med alle
+Dialogue: 0,0:30:45.68,0:30:45.69,Overtekst,,0,0,0,,Vi har fulgtes indtil nu med alle
+Dialogue: 0,0:30:45.69,0:30:49.39,Overtekst,,0,0,0,,Vi har fulgtes indtil nu med alleOs fra mekanik
+Dialogue: 0,0:30:49.39,0:30:49.39,Overtekst,,0,0,0,,Vi har fulgtes indtil nu med alleOs fra mekanik
+Dialogue: 0,0:30:49.39,0:30:56.42,Overtekst,,0,0,0,,Frit valg, dit valg, vælg selv
+Dialogue: 0,0:30:56.42,0:30:56.42,Overtekst,,0,0,0,,Frit valg, dit valg, vælg selv
+Dialogue: 0,0:30:56.42,0:30:59.72,Overtekst,,0,0,0,,Studieåret startede 
+Dialogue: 0,0:30:59.72,0:30:59.72,Overtekst,,0,0,0,,Studieåret startede 
+Dialogue: 0,0:30:59.72,0:31:03.06,Overtekst,,0,0,0,,Studieåret startedeDa jeg trådt ind i aud A 
+Dialogue: 0,0:31:03.06,0:31:03.06,Overtekst,,0,0,0,,Studieåret startedeDa jeg trådt ind i aud A 
+Dialogue: 0,0:31:03.06,0:31:07.29,Overtekst,,0,0,0,,Studieåret startedeDa jeg trådt ind i aud A Ååh de nye ansigter 
+Dialogue: 0,0:31:07.29,0:31:07.30,Overtekst,,0,0,0,,Studieåret startedeDa jeg trådt ind i aud A Ååh de nye ansigter 
+Dialogue: 0,0:31:07.30,0:31:10.49,Overtekst,,0,0,0,,De ser på mig så fremmede 
+Dialogue: 0,0:31:10.49,0:31:10.49,Overtekst,,0,0,0,,De ser på mig så fremmede 
+Dialogue: 0,0:31:10.49,0:31:14.41,Overtekst,,0,0,0,,De ser på mig så fremmedeJeg ved slet ik hvor jeg skal sidde 
+Dialogue: 0,0:31:14.41,0:31:14.42,Overtekst,,0,0,0,,De ser på mig så fremmedeJeg ved slet ik hvor jeg skal sidde 
+Dialogue: 0,0:31:14.42,0:31:18.50,Overtekst,,0,0,0,,De ser på mig så fremmedeJeg ved slet ik hvor jeg skal sidde ville ønske du var her
+Dialogue: 0,0:31:18.50,0:31:18.50,Overtekst,,0,0,0,,De ser på mig så fremmedeJeg ved slet ik hvor jeg skal sidde ville ønske du var her
+Dialogue: 0,0:31:18.50,0:31:22.14,Overtekst,,0,0,0,,Vi har kastet os ud i det ny' 
+Dialogue: 0,0:31:22.14,0:31:22.14,Overtekst,,0,0,0,,Vi har kastet os ud i det ny' 
+Dialogue: 0,0:31:22.14,0:31:25.76,Overtekst,,0,0,0,,Vi har kastet os ud i det ny'Vi er gået hvert til sit. 
+Dialogue: 0,0:31:25.76,0:31:25.76,Overtekst,,0,0,0,,Vi har kastet os ud i det ny'Vi er gået hvert til sit. 
+Dialogue: 0,0:31:25.76,0:31:31.82,Overtekst,,0,0,0,,Vi har kastet os ud i det ny'Vi er gået hvert til sit. Frit valg, mit valg, nyt sted
+Dialogue: 0,0:31:33.61,0:31:33.61,Overtekst,,0,0,0,,Vi har kastet os ud i det ny'Vi er gået hvert til sit. Frit valg, mit valg, nyt sted
+Dialogue: 0,0:31:33.61,0:31:36.70,Overtekst,,0,0,0,,Dette bliver tiden, 
+Dialogue: 0,0:31:36.70,0:31:36.70,Overtekst,,0,0,0,,Dette bliver tiden, 
+Dialogue: 0,0:31:36.70,0:31:40.47,Overtekst,,0,0,0,,Dette bliver tiden, hvor jeg finder vejen frem
+Dialogue: 0,0:31:40.47,0:31:40.47,Overtekst,,0,0,0,,Dette bliver tiden, hvor jeg finder vejen frem
+Dialogue: 0,0:31:40.47,0:31:43.44,Overtekst,,0,0,0,,Et lille valg af kurser, 
+Dialogue: 0,0:31:43.44,0:31:43.44,Overtekst,,0,0,0,,Et lille valg af kurser, 
+Dialogue: 0,0:31:43.44,0:31:47.41,Overtekst,,0,0,0,,Et lille valg af kurser, med en kæmpe konsekvens
+Dialogue: 0,0:31:47.41,0:31:47.41,Overtekst,,0,0,0,,Et lille valg af kurser, med en kæmpe konsekvens
+Dialogue: 0,0:31:47.41,0:31:49.72,Overtekst,,0,0,0,,Og du skiller dig jo fra, 
+Dialogue: 0,0:31:49.72,0:31:49.72,Overtekst,,0,0,0,,Og du skiller dig jo fra, 
+Dialogue: 0,0:31:49.72,0:31:54.73,Overtekst,,0,0,0,,Og du skiller dig jo fra, flokken som vi har
+Dialogue: 0,0:31:54.73,0:31:54.73,Overtekst,,0,0,0,,Og du skiller dig jo fra, flokken som vi har
+Dialogue: 0,0:31:54.73,0:32:02.17,Overtekst,,0,0,0,,Finder din faglige identitet
+Dialogue: 0,0:32:03.21,0:32:03.22,Overtekst,,0,0,0,,Finder din faglige identitet
+Dialogue: 0,0:32:03.22,0:32:06.10,Overtekst,,0,0,0,,Ses vi mon igen?
+Dialogue: 0,0:32:06.10,0:32:06.10,Overtekst,,0,0,0,,Ses vi mon igen?
+Dialogue: 0,0:32:06.10,0:32:09.57,Overtekst,,0,0,0,,Ses vi mon igen?Måske du aldrig kommer hjem
+Dialogue: 0,0:32:09.57,0:32:09.57,Overtekst,,0,0,0,,Ses vi mon igen?Måske du aldrig kommer hjem
+Dialogue: 0,0:32:09.57,0:32:13.48,Overtekst,,0,0,0,,Du møder nok så mange mennesker
+Dialogue: 0,0:32:13.48,0:32:13.48,Overtekst,,0,0,0,,Du møder nok så mange mennesker
+Dialogue: 0,0:32:13.48,0:32:16.67,Overtekst,,0,0,0,,Du møder nok så mange menneskerpå udveksling
+Dialogue: 0,0:32:16.67,0:32:16.67,Overtekst,,0,0,0,,Du møder nok så mange menneskerpå udveksling
+Dialogue: 0,0:32:16.67,0:32:20.28,Overtekst,,0,0,0,,Vi havde det jo så godt,
+Dialogue: 0,0:32:20.28,0:32:20.28,Overtekst,,0,0,0,,Vi havde det jo så godt,
+Dialogue: 0,0:32:20.28,0:32:23.89,Overtekst,,0,0,0,,Vi havde det jo så godt,glem nu ikke mig
+Dialogue: 0,0:32:23.89,0:32:23.89,Overtekst,,0,0,0,,Vi havde det jo så godt,glem nu ikke mig
+Dialogue: 0,0:32:23.89,0:32:30.98,Overtekst,,0,0,0,,Nyt sprog, nyt land, langt væk
+Dialogue: 0,0:32:30.98,0:32:30.98,Overtekst,,0,0,0,,Nyt sprog, nyt land, langt væk
+Dialogue: 0,0:32:30.98,0:32:34.22,Overtekst,,0,0,0,,De første år er gået 
+Dialogue: 0,0:32:34.22,0:32:34.23,Overtekst,,0,0,0,,De første år er gået 
+Dialogue: 0,0:32:34.23,0:32:37.64,Overtekst,,0,0,0,,De første år er gåetMange timer fra HCØ 
+Dialogue: 0,0:32:37.64,0:32:37.64,Overtekst,,0,0,0,,De første år er gåetMange timer fra HCØ 
+Dialogue: 0,0:32:37.64,0:32:42.15,Overtekst,,0,0,0,,De første år er gåetMange timer fra HCØ Ååh hvor minderne gør ondt
+Dialogue: 0,0:32:42.15,0:32:42.15,Overtekst,,0,0,0,,De første år er gåetMange timer fra HCØ Ååh hvor minderne gør ondt
+Dialogue: 0,0:32:42.15,0:32:45.24,Overtekst,,0,0,0,,Savner fællesskaberne 
+Dialogue: 0,0:32:45.24,0:32:45.24,Overtekst,,0,0,0,,Savner fællesskaberne 
+Dialogue: 0,0:32:45.24,0:32:48.82,Overtekst,,0,0,0,,Savner fællesskaberneSes vi ved højbordene? 
+Dialogue: 0,0:32:48.82,0:32:48.82,Overtekst,,0,0,0,,Savner fællesskaberneSes vi ved højbordene? 
+Dialogue: 0,0:32:48.82,0:32:52.85,Overtekst,,0,0,0,,Savner fællesskaberneSes vi ved højbordene? Eller bachelor-oplæg?
+Dialogue: 0,0:32:52.85,0:32:52.85,Overtekst,,0,0,0,,Savner fællesskaberneSes vi ved højbordene? Eller bachelor-oplæg?
+Dialogue: 0,0:32:52.85,0:32:56.54,Overtekst,,0,0,0,,Vi er fælles om at frygte alt
+Dialogue: 0,0:32:56.54,0:32:56.54,Overtekst,,0,0,0,,Vi er fælles om at frygte alt
+Dialogue: 0,0:32:56.54,0:33:00.50,Overtekst,,0,0,0,,Vi er fælles om at frygte altSom kommer mod os nu
+Dialogue: 0,0:33:00.50,0:33:00.50,Overtekst,,0,0,0,,Vi er fælles om at frygte altSom kommer mod os nu
+Dialogue: 0,0:33:00.50,0:33:07.77,Overtekst,,0,0,0,,Dit valg, mit valg, det tid
+Dialogue: 0,0:33:07.77,0:33:07.77,Overtekst,,0,0,0,,Dit valg, mit valg, det tid
+Dialogue: 0,0:33:07.77,0:33:14.05,Overtekst,,0,0,0,,Vi skal, vi kan, fremtid
+Dialogue: 0,0:33:15.77,0:33:17.45,Overtekst,,0,0,0,,Vi skal, vi kan, fremtid

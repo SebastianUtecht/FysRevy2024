@@ -1,0 +1,659 @@
+[Script Info]
+; Genereret af Kristoffers AV system.
+Title: Overtekster2024-04-27T19:03:30.064Z
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Overtekst,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.33,0:00:09.67,Overtekst,,0,0,0,,Det er så godt som umuligt at tænke
+Dialogue: 0,0:00:09.67,0:00:09.67,Overtekst,,0,0,0,,Det er så godt som umuligt at tænke
+Dialogue: 0,0:00:09.67,0:00:12.92,Overtekst,,0,0,0,,Det er så godt som umuligt at tænke,Når ens forskning blir rost  og ens hjerne helt most
+Dialogue: 0,0:00:12.92,0:00:12.92,Overtekst,,0,0,0,,Det er så godt som umuligt at tænke,Når ens forskning blir rost  og ens hjerne helt most
+Dialogue: 0,0:00:12.92,0:00:15.22,Overtekst,,0,0,0,,Alle disse år, hvordan og hvornår,
+Dialogue: 0,0:00:15.22,0:00:15.22,Overtekst,,0,0,0,,Alle disse år, hvordan og hvornår,
+Dialogue: 0,0:00:15.22,0:00:16.93,Overtekst,,0,0,0,,Alle disse år, hvordan og hvornår,Sku' jeg ha' planlagt et kursusforløb?
+Dialogue: 0,0:00:16.93,0:00:16.94,Overtekst,,0,0,0,,Alle disse år, hvordan og hvornår,Sku' jeg ha' planlagt et kursusforløb?
+Dialogue: 0,0:00:16.94,0:00:19.86,Overtekst,,0,0,0,,EM (1)\NSå Termo (Shit)\NOg nu ogs' MATF (1)
+Dialogue: 0,0:00:19.86,0:00:19.86,Overtekst,,0,0,0,,EM (1)\NSå Termo (Shit)\NOg nu ogs' MATF (1)
+Dialogue: 0,0:00:19.86,0:00:22.65,Overtekst,,0,0,0,,Hvad for-ven-ter de, \N de bli'r ved
+Dialogue: 0,0:00:22.65,0:00:22.65,Overtekst,,0,0,0,,Hvad for-ven-ter de, \N de bli'r ved
+Dialogue: 0,0:00:22.65,0:00:23.81,Overtekst,,0,0,0,,Sætte minus-tegn,
+Dialogue: 0,0:00:23.81,0:00:23.82,Overtekst,,0,0,0,,Sætte minus-tegn,
+Dialogue: 0,0:00:23.82,0:00:25.14,Overtekst,,0,0,0,,Sætte minus-tegn,Det er det jeg kan find-ud af
+Dialogue: 0,0:00:25.14,0:00:25.14,Overtekst,,0,0,0,,Sætte minus-tegn,Det er det jeg kan find-ud af
+Dialogue: 0,0:00:25.14,0:00:26.81,Overtekst,,0,0,0,,Jeg behøver ik' forberede mig.
+Dialogue: 0,0:00:26.81,0:00:26.82,Overtekst,,0,0,0,,Jeg behøver ik' forberede mig.
+Dialogue: 0,0:00:38.00,0:00:38.94,Overtekst,,0,0,0,,Og det kan da godt være,
+Dialogue: 0,0:00:38.94,0:00:38.95,Overtekst,,0,0,0,,Og det kan da godt være,
+Dialogue: 0,0:00:38.95,0:00:40.30,Overtekst,,0,0,0,,Og det kan da godt være, at du vil lære noget her
+Dialogue: 0,0:00:40.30,0:00:40.30,Overtekst,,0,0,0,,Og det kan da godt være, at du vil lære noget her
+Dialogue: 0,0:00:40.30,0:00:41.19,Overtekst,,0,0,0,,Eller skal du bar' ha' 
+Dialogue: 0,0:00:41.19,0:00:41.19,Overtekst,,0,0,0,,Eller skal du bar' ha' 
+Dialogue: 0,0:00:41.19,0:00:41.96,Overtekst,,0,0,0,,Eller skal du bar' ha'  en god karakter
+Dialogue: 0,0:00:41.96,0:00:41.96,Overtekst,,0,0,0,,Eller skal du bar' ha'  en god karakter
+Dialogue: 0,0:00:41.96,0:00:43.06,Overtekst,,0,0,0,,Glemmer at fokusere   
+Dialogue: 0,0:00:43.06,0:00:43.06,Overtekst,,0,0,0,,Glemmer at fokusere   
+Dialogue: 0,0:00:43.06,0:00:43.96,Overtekst,,0,0,0,,Glemmer at fokusere  Kan ik' mer',  
+Dialogue: 0,0:00:43.96,0:00:43.96,Overtekst,,0,0,0,,Glemmer at fokusere  Kan ik' mer',  
+Dialogue: 0,0:00:43.96,0:00:44.81,Overtekst,,0,0,0,,Glemmer at fokusere  Kan ik' mer',  Giv mig nu frikvarter 
+Dialogue: 0,0:00:44.81,0:00:44.81,Overtekst,,0,0,0,,Glemmer at fokusere  Kan ik' mer',  Giv mig nu frikvarter 
+Dialogue: 0,0:00:44.81,0:00:48.14,Overtekst,,0,0,0,,Jeg ser du be'r
+Dialogue: 0,0:00:48.14,0:00:48.14,Overtekst,,0,0,0,,Jeg ser du be'r
+Dialogue: 0,0:00:48.14,0:00:50.46,Overtekst,,0,0,0,,Jeg ved du prøver,\Nser du koger,\Ntøver,\Nbehøver
+Dialogue: 0,0:00:50.46,0:00:50.46,Overtekst,,0,0,0,,Jeg ved du prøver,\Nser du koger,\Ntøver,\Nbehøver
+Dialogue: 0,0:00:50.46,0:00:53.09,Overtekst,,0,0,0,,At integrer' brøker,\Nøver,\Nafprøver.
+Dialogue: 0,0:00:53.09,0:00:53.09,Overtekst,,0,0,0,,At integrer' brøker,\Nøver,\Nafprøver.
+Dialogue: 0,0:00:53.09,0:00:55.15,Overtekst,,0,0,0,,Bar' I ikke tror jeg vil hjælp' jer, 
+Dialogue: 0,0:00:55.15,0:00:55.16,Overtekst,,0,0,0,,Bar' I ikke tror jeg vil hjælp' jer, 
+Dialogue: 0,0:00:55.16,0:00:56.02,Overtekst,,0,0,0,,Bar' I ikke tror jeg vil hjælp' jer, det ville ik' være fair
+Dialogue: 0,0:00:56.02,0:00:56.02,Overtekst,,0,0,0,,Bar' I ikke tror jeg vil hjælp' jer, det ville ik' være fair
+Dialogue: 0,0:00:56.02,0:00:58.23,Overtekst,,0,0,0,,Selvom jeg har flair
+Dialogue: 0,0:00:58.23,0:00:58.24,Overtekst,,0,0,0,,Selvom jeg har flair
+Dialogue: 0,0:00:58.24,0:01:00.20,Overtekst,,0,0,0,,Jeg er slet ikke doven 
+Dialogue: 0,0:01:00.20,0:01:00.20,Overtekst,,0,0,0,,Jeg er slet ikke doven 
+Dialogue: 0,0:01:00.20,0:01:02.47,Overtekst,,0,0,0,,Jeg er slet ikke doven Eller grum
+Dialogue: 0,0:01:02.47,0:01:02.47,Overtekst,,0,0,0,,Jeg er slet ikke doven Eller grum
+Dialogue: 0,0:01:02.47,0:01:04.83,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst   
+Dialogue: 0,0:01:04.83,0:01:04.84,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst   
+Dialogue: 0,0:01:04.84,0:01:05.83,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle  
+Dialogue: 0,0:01:05.83,0:01:05.83,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle  
+Dialogue: 0,0:01:05.83,0:01:06.11,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dum 
+Dialogue: 0,0:01:06.11,0:01:06.11,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dum 
+Dialogue: 0,0:01:06.11,0:01:06.39,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper 
+Dialogue: 0,0:01:06.39,0:01:06.39,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper 
+Dialogue: 0,0:01:06.39,0:01:06.71,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pen
+Dialogue: 0,0:01:06.71,0:01:06.71,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pen
+Dialogue: 0,0:01:06.71,0:01:07.34,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pensum
+Dialogue: 0,0:01:07.34,0:01:07.34,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pensum
+Dialogue: 0,0:01:07.34,0:01:09.92,Overtekst,,0,0,0,,Eksamen bli'r ond.
+Dialogue: 0,0:01:09.92,0:01:09.93,Overtekst,,0,0,0,,Eksamen bli'r ond.
+Dialogue: 0,0:01:09.93,0:01:13.89,Overtekst,,0,0,0,,Konferenc'
+Dialogue: 0,0:01:13.89,0:01:13.89,Overtekst,,0,0,0,,Konferenc'
+Dialogue: 0,0:01:13.89,0:01:15.54,Overtekst,,0,0,0,,Ssshhh, hvad' den af? 
+Dialogue: 0,0:01:15.54,0:01:15.54,Overtekst,,0,0,0,,Ssshhh, hvad' den af? 
+Dialogue: 0,0:01:15.54,0:01:16.81,Overtekst,,0,0,0,,Ssshhh, hvad' den af?  Er det mon -3?
+Dialogue: 0,0:01:16.81,0:01:16.81,Overtekst,,0,0,0,,Ssshhh, hvad' den af?  Er det mon -3?
+Dialogue: 0,0:01:16.81,0:01:18.60,Overtekst,,0,0,0,,Det ved jeg ik',\Njeg retter ik' idag
+Dialogue: 0,0:01:18.60,0:01:18.60,Overtekst,,0,0,0,,Det ved jeg ik',\Njeg retter ik' idag
+Dialogue: 0,0:01:18.60,0:01:20.29,Overtekst,,0,0,0,,Bare fordi jeg ku, \N løste en sudoku,
+Dialogue: 0,0:01:20.29,0:01:20.29,Overtekst,,0,0,0,,Bare fordi jeg ku, \N løste en sudoku,
+Dialogue: 0,0:01:20.29,0:01:23.71,Overtekst,,0,0,0,,Tog hjem til min hustru, \N Hvordan kan I ikke forstå at regne her?
+Dialogue: 0,0:01:23.71,0:01:23.71,Overtekst,,0,0,0,,Tog hjem til min hustru, \N Hvordan kan I ikke forstå at regne her?
+Dialogue: 0,0:01:23.71,0:01:26.94,Overtekst,,0,0,0,,I differentier og integrer,\Nmen lær' ik' mer' 
+Dialogue: 0,0:01:26.94,0:01:26.94,Overtekst,,0,0,0,,I differentier og integrer,\Nmen lær' ik' mer' 
+Dialogue: 0,0:01:26.94,0:01:30.35,Overtekst,,0,0,0,,Hey JP, nu er det dig, der bliver bleg,\Nfor du overgav kurset til mig 
+Dialogue: 0,0:01:30.35,0:01:30.35,Overtekst,,0,0,0,,Hey JP, nu er det dig, der bliver bleg,\Nfor du overgav kurset til mig 
+Dialogue: 0,0:01:30.35,0:01:34.54,Overtekst,,0,0,0,,Jeg trøster, når I ryster,\N skal ikke pas dig,\N nej
+Dialogue: 0,0:01:34.54,0:01:34.54,Overtekst,,0,0,0,,Jeg trøster, når I ryster,\N skal ikke pas dig,\N nej
+Dialogue: 0,0:01:34.54,0:01:36.52,Overtekst,,0,0,0,,At gør' mig umag' kan jeg ik' lov'
+Dialogue: 0,0:01:36.52,0:01:36.52,Overtekst,,0,0,0,,At gør' mig umag' kan jeg ik' lov'
+Dialogue: 0,0:01:36.52,0:01:38.80,Overtekst,,0,0,0,,Læs nu bar' din bog,\N I kommer ikke op' at kog'
+Dialogue: 0,0:01:38.80,0:01:38.80,Overtekst,,0,0,0,,Læs nu bar' din bog,\N I kommer ikke op' at kog'
+Dialogue: 0,0:01:38.80,0:01:41.03,Overtekst,,0,0,0,,Snart begynder et helt nyt kursus
+Dialogue: 0,0:01:41.03,0:01:41.03,Overtekst,,0,0,0,,Snart begynder et helt nyt kursus
+Dialogue: 0,0:01:41.03,0:01:44.38,Overtekst,,0,0,0,,Velkommen her til mit hus
+Dialogue: 0,0:01:44.38,0:01:44.38,Overtekst,,0,0,0,,Velkommen her til mit hus
+Dialogue: 0,0:01:44.38,0:01:46.94,Overtekst,,0,0,0,,Jeg er slet ikke doven 
+Dialogue: 0,0:01:46.94,0:01:46.94,Overtekst,,0,0,0,,Jeg er slet ikke doven 
+Dialogue: 0,0:01:46.94,0:01:49.02,Overtekst,,0,0,0,,Jeg er slet ikke doven Eller grum
+Dialogue: 0,0:01:49.02,0:01:49.02,Overtekst,,0,0,0,,Jeg er slet ikke doven Eller grum
+Dialogue: 0,0:01:49.02,0:01:51.30,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst   
+Dialogue: 0,0:01:51.30,0:01:51.31,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst   
+Dialogue: 0,0:01:51.31,0:01:52.46,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle  
+Dialogue: 0,0:01:52.46,0:01:52.46,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle  
+Dialogue: 0,0:01:52.46,0:01:52.79,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dum 
+Dialogue: 0,0:01:52.79,0:01:52.79,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dum 
+Dialogue: 0,0:01:52.79,0:01:53.08,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper 
+Dialogue: 0,0:01:53.08,0:01:53.08,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper 
+Dialogue: 0,0:01:53.08,0:01:53.40,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pen
+Dialogue: 0,0:01:53.40,0:01:53.40,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pen
+Dialogue: 0,0:01:53.40,0:01:54.16,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pensum
+Dialogue: 0,0:01:54.16,0:01:54.16,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pensum
+Dialogue: 0,0:01:54.16,0:01:58.15,Overtekst,,0,0,0,,I er fuckin' DUM
+Dialogue: 0,0:02:24.66,0:02:24.66,Overtekst,,0,0,0,,I er fuckin' DUM
+Dialogue: 0,0:02:24.66,0:02:28.26,Overtekst,,0,0,0,,Måske hvis jeg nu læste op på pensum før RØ
+Dialogue: 0,0:02:28.26,0:02:28.26,Overtekst,,0,0,0,,Måske hvis jeg nu læste op på pensum før RØ
+Dialogue: 0,0:02:28.26,0:02:33.12,Overtekst,,0,0,0,,Kunne I måske lær' at få sne til at optø
+Dialogue: 0,0:02:33.12,0:02:33.12,Overtekst,,0,0,0,,Kunne I måske lær' at få sne til at optø
+Dialogue: 0,0:02:33.12,0:02:34.96,Overtekst,,0,0,0,,Nyt forsøg
+Dialogue: 0,0:02:34.96,0:02:34.96,Overtekst,,0,0,0,,Nyt forsøg
+Dialogue: 0,0:02:34.96,0:02:36.33,Overtekst,,0,0,0,,Men det hårdt
+Dialogue: 0,0:02:36.33,0:02:36.33,Overtekst,,0,0,0,,Men det hårdt
+Dialogue: 0,0:02:36.33,0:02:38.40,Overtekst,,0,0,0,,Ik' en sport
+Dialogue: 0,0:02:38.40,0:02:38.40,Overtekst,,0,0,0,,Ik' en sport
+Dialogue: 0,0:02:38.40,0:02:39.65,Overtekst,,0,0,0,,KU-kort
+Dialogue: 0,0:02:39.65,0:02:39.66,Overtekst,,0,0,0,,KU-kort
+Dialogue: 0,0:02:39.66,0:02:40.97,Overtekst,,0,0,0,,Slår rekord
+Dialogue: 0,0:02:40.97,0:02:40.98,Overtekst,,0,0,0,,Slår rekord
+Dialogue: 0,0:02:40.98,0:02:43.10,Overtekst,,0,0,0,,Bygger fort
+Dialogue: 0,0:02:43.10,0:02:43.10,Overtekst,,0,0,0,,Bygger fort
+Dialogue: 0,0:02:43.10,0:02:44.78,Overtekst,,0,0,0,,Bliver lord
+Dialogue: 0,0:02:54.70,0:02:54.70,Overtekst,,0,0,0,,Bliver lord
+Dialogue: 0,0:02:54.70,0:02:56.22,Overtekst,,0,0,0,,Jeg er slet ikke doven 
+Dialogue: 0,0:02:56.22,0:02:56.22,Overtekst,,0,0,0,,Jeg er slet ikke doven 
+Dialogue: 0,0:02:56.22,0:02:58.13,Overtekst,,0,0,0,,Jeg er slet ikke doven Eller dum
+Dialogue: 0,0:02:58.13,0:02:58.13,Overtekst,,0,0,0,,Jeg er slet ikke doven Eller dum
+Dialogue: 0,0:02:58.13,0:03:00.39,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst   
+Dialogue: 0,0:03:00.39,0:03:00.39,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst   
+Dialogue: 0,0:03:00.39,0:03:01.42,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle  
+Dialogue: 0,0:03:01.42,0:03:01.42,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle  
+Dialogue: 0,0:03:01.42,0:03:01.73,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dum 
+Dialogue: 0,0:03:01.73,0:03:01.73,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dum 
+Dialogue: 0,0:03:01.73,0:03:02.03,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper 
+Dialogue: 0,0:03:02.03,0:03:02.03,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper 
+Dialogue: 0,0:03:02.03,0:03:02.34,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pen
+Dialogue: 0,0:03:02.34,0:03:02.35,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pen
+Dialogue: 0,0:03:02.35,0:03:03.29,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pensum
+Dialogue: 0,0:03:03.29,0:03:03.29,Overtekst,,0,0,0,,Jeg har bar' en ufattelig lyst Til at alle dumper pensum
+Dialogue: 0,0:03:03.29,0:03:07.88,Overtekst,,0,0,0,,Måske hvis du nu læste op på pensum før RØ
+Dialogue: 0,0:03:07.88,0:03:07.88,Overtekst,,0,0,0,,Måske hvis du nu læste op på pensum før RØ
+Dialogue: 0,0:03:07.88,0:03:12.46,Overtekst,,0,0,0,,Kunne I måske lær' at få sne til at optø
+Dialogue: 0,0:03:12.46,0:03:12.46,Overtekst,,0,0,0,,Kunne I måske lær' at få sne til at optø
+Dialogue: 0,0:03:12.46,0:03:14.25,Overtekst,,0,0,0,,Dit forsøg
+Dialogue: 0,0:03:14.25,0:03:14.25,Overtekst,,0,0,0,,Dit forsøg
+Dialogue: 0,0:03:14.25,0:03:18.50,Overtekst,,0,0,0,,Det er så godt som umuligt at tænke
+Dialogue: 0,0:03:18.50,0:03:18.50,Overtekst,,0,0,0,,Det er så godt som umuligt at tænke
+Dialogue: 0,0:03:18.50,0:03:22.88,Overtekst,,0,0,0,,Det er så godt som umuligt at tænke,Når ens forskning blir rost  og ens hjerne helt most
+Dialogue: 0,0:03:37.34,0:06:30.18,Overtekst,,0,0,0,,Det er så godt som umuligt at tænke,Når ens forskning blir rost  og ens hjerne helt most
+Dialogue: 0,0:06:30.18,0:07:10.57,Overtekst,,0,0,0,,♫ KvantDyr.wav
+Dialogue: 0,0:07:16.47,0:10:12.20,Overtekst,,0,0,0,, I want to break free!
+Dialogue: 0,0:10:12.20,0:10:16.25,Overtekst,,0,0,0,,♫ Thunder%20%20%20Sound%20effect.mp3
+Dialogue: 0,0:10:46.75,0:11:32.10,Overtekst,,0,0,0,,♫ Cat%20clicker%20%20%20Sound%20Effect.mp3
+Dialogue: 0,0:11:32.10,0:11:48.11,Overtekst,,0,0,0,,♫ Thunder%20%20%20Sound%20effect.mp3
+Dialogue: 0,0:11:48.11,0:11:50.09,Overtekst,,0,0,0,,♫ Thunder%20%20%20Sound%20effect.mp3
+Dialogue: 0,0:11:51.74,0:12:41.81,Overtekst,,0,0,0,,♫ creepy%20hjertebanken.mp3
+Dialogue: 0,0:12:41.81,0:13:18.11,Overtekst,,0,0,0,,♫ Thunder%20%20%20Sound%20effect.mp3
+Dialogue: 0,0:13:18.11,0:15:42.05,Overtekst,,0,0,0,,♫ Thunder%20%20%20Sound%20effect.mp3
+Dialogue: 0,0:15:42.05,0:16:24.69,Overtekst,,0,0,0,,🎞 MissionImpossible.mov
+Dialogue: 0,0:16:24.69,0:16:24.69,Overtekst,,0,0,0,,En student skal vær' normer't, 
+Dialogue: 0,0:16:24.69,0:16:26.73,Overtekst,,0,0,0,,En student skal vær' normer't, Aldrig lave nog't forkert
+Dialogue: 0,0:16:26.73,0:16:26.73,Overtekst,,0,0,0,,En student skal vær' normer't, Aldrig lave nog't forkert
+Dialogue: 0,0:16:26.73,0:16:29.16,Overtekst,,0,0,0,,Skønt jeg selv fik 11 år, 
+Dialogue: 0,0:16:29.16,0:16:29.16,Overtekst,,0,0,0,,Skønt jeg selv fik 11 år, 
+Dialogue: 0,0:16:29.16,0:16:32.28,Overtekst,,0,0,0,,Skønt jeg selv fik 11 år, Er kun 5 hvad de nu får...
+Dialogue: 0,0:16:32.28,0:16:32.28,Overtekst,,0,0,0,,Skønt jeg selv fik 11 år, Er kun 5 hvad de nu får...
+Dialogue: 0,0:16:32.28,0:16:35.20,Overtekst,,0,0,0,,Skønt jeg selv fik 11 år, Er kun 5 hvad de nu får......Ahr, jeg tror 4 er nok.
+Dialogue: 0,0:16:35.20,0:16:35.20,Overtekst,,0,0,0,,Skønt jeg selv fik 11 år, Er kun 5 hvad de nu får......Ahr, jeg tror 4 er nok.
+Dialogue: 0,0:16:35.20,0:16:37.08,Overtekst,,0,0,0,,Reeksamen den skal dø, 
+Dialogue: 0,0:16:37.08,0:16:37.08,Overtekst,,0,0,0,,Reeksamen den skal dø, 
+Dialogue: 0,0:16:37.08,0:16:39.33,Overtekst,,0,0,0,,Reeksamen den skal dø, Nu får de kun ét forsøg
+Dialogue: 0,0:16:39.33,0:16:39.34,Overtekst,,0,0,0,,Reeksamen den skal dø, Nu får de kun ét forsøg
+Dialogue: 0,0:16:39.34,0:16:41.26,Overtekst,,0,0,0,,Og vi fjerner mellemug'
+Dialogue: 0,0:16:41.26,0:16:41.26,Overtekst,,0,0,0,,Og vi fjerner mellemug'
+Dialogue: 0,0:16:41.26,0:16:44.47,Overtekst,,0,0,0,,Giv et ekstra år SU? 
+Dialogue: 0,0:16:44.47,0:16:44.47,Overtekst,,0,0,0,,Giv et ekstra år SU? 
+Dialogue: 0,0:16:44.47,0:16:47.93,Overtekst,,0,0,0,,Giv et ekstra år SU? NEJ!
+Dialogue: 0,0:16:53.14,0:16:53.14,Overtekst,,0,0,0,,Giv et ekstra år SU? NEJ!
+Dialogue: 0,0:16:53.14,0:16:54.86,Overtekst,,0,0,0,,SU'n den skal slås ihjel,
+Dialogue: 0,0:16:54.86,0:16:54.86,Overtekst,,0,0,0,,SU'n den skal slås ihjel,
+Dialogue: 0,0:16:54.86,0:16:57.08,Overtekst,,0,0,0,,SU'n den skal slås ihjel,De må sgu betale selv
+Dialogue: 0,0:16:57.08,0:16:57.08,Overtekst,,0,0,0,,SU'n den skal slås ihjel,De må sgu betale selv
+Dialogue: 0,0:16:57.08,0:16:59.37,Overtekst,,0,0,0,,Disciplin skal bygges op:
+Dialogue: 0,0:16:59.37,0:16:59.37,Overtekst,,0,0,0,,Disciplin skal bygges op:
+Dialogue: 0,0:16:59.37,0:17:03.47,Overtekst,,0,0,0,,tving dem til et studiejob...
+Dialogue: 0,0:17:03.47,0:17:03.47,Overtekst,,0,0,0,,tving dem til et studiejob...
+Dialogue: 0,0:17:03.47,0:17:04.95,Overtekst,,0,0,0,,tving dem til et studiejob......Ahr, jeg tror de skal ha' tre!
+Dialogue: 0,0:17:04.95,0:17:04.95,Overtekst,,0,0,0,,tving dem til et studiejob......Ahr, jeg tror de skal ha' tre!
+Dialogue: 0,0:17:04.95,0:17:06.77,Overtekst,,0,0,0,,Døgnet har jo timer nok,
+Dialogue: 0,0:17:06.77,0:17:06.77,Overtekst,,0,0,0,,Døgnet har jo timer nok,
+Dialogue: 0,0:17:06.77,0:17:09.04,Overtekst,,0,0,0,,Døgnet har jo timer nok,Læs fra morg'n til de står op
+Dialogue: 0,0:17:09.04,0:17:09.04,Overtekst,,0,0,0,,Døgnet har jo timer nok,Læs fra morg'n til de står op
+Dialogue: 0,0:17:09.04,0:17:11.37,Overtekst,,0,0,0,,Klar' den kun hvis man er klog
+Dialogue: 0,0:17:11.37,0:17:11.37,Overtekst,,0,0,0,,Klar' den kun hvis man er klog
+Dialogue: 0,0:17:11.37,0:17:14.83,Overtekst,,0,0,0,,Sænk så pris på læsebog? 
+Dialogue: 0,0:17:14.83,0:17:14.84,Overtekst,,0,0,0,,Sænk så pris på læsebog? 
+Dialogue: 0,0:17:14.84,0:17:17.45,Overtekst,,0,0,0,,Sænk så pris på læsebog? Neeej Jakob!
+Dialogue: 0,0:17:44.48,0:17:46.57,Overtekst,,0,0,0,,Sænk så pris på læsebog? Neeej Jakob!
+Dialogue: 0,0:17:46.57,0:17:46.57,Overtekst,,0,0,0,,Stud-i-e introduktion, 
+Dialogue: 0,0:17:46.57,0:17:48.81,Overtekst,,0,0,0,,Stud-i-e introduktion, Den er ikke go' for nog'n
+Dialogue: 0,0:17:48.81,0:17:48.81,Overtekst,,0,0,0,,Stud-i-e introduktion, Den er ikke go' for nog'n
+Dialogue: 0,0:17:48.81,0:17:51.18,Overtekst,,0,0,0,,Russerne skal spises af,
+Dialogue: 0,0:17:51.18,0:17:51.18,Overtekst,,0,0,0,,Russerne skal spises af,
+Dialogue: 0,0:17:51.18,0:17:54.25,Overtekst,,0,0,0,,Med tre usle campusdag'...,
+Dialogue: 0,0:17:54.25,0:17:54.26,Overtekst,,0,0,0,,Med tre usle campusdag'...,
+Dialogue: 0,0:17:54.26,0:17:57.20,Overtekst,,0,0,0,,Med tre usle campusdag'...,...Ahr, jeg tror én er nok.
+Dialogue: 0,0:17:57.20,0:17:57.20,Overtekst,,0,0,0,,Med tre usle campusdag'...,...Ahr, jeg tror én er nok.
+Dialogue: 0,0:17:57.20,0:17:58.98,Overtekst,,0,0,0,,Og til slut FysikRevy™'n,
+Dialogue: 0,0:17:58.98,0:17:58.98,Overtekst,,0,0,0,,Og til slut FysikRevy™'n,
+Dialogue: 0,0:17:58.98,0:18:01.18,Overtekst,,0,0,0,,Og til slut FysikRevy™'n,Sikke da et hæsligt syn
+Dialogue: 0,0:18:01.18,0:18:01.18,Overtekst,,0,0,0,,Og til slut FysikRevy™'n,Sikke da et hæsligt syn
+Dialogue: 0,0:18:01.18,0:18:03.50,Overtekst,,0,0,0,,Ud med den for den er dum,
+Dialogue: 0,0:18:03.50,0:18:03.51,Overtekst,,0,0,0,,Ud med den for den er dum,
+Dialogue: 0,0:18:03.51,0:18:06.07,Overtekst,,0,0,0,,Skal vi også lukke RUM?  
+Dialogue: 0,0:18:06.07,0:18:06.07,Overtekst,,0,0,0,,Skal vi også lukke RUM?  
+Dialogue: 0,0:18:06.07,0:18:07.01,Overtekst,,0,0,0,,Skal vi også lukke RUM? NEEEEEJJJ 
+Dialogue: 0,0:18:07.01,0:18:07.01,Overtekst,,0,0,0,,Skal vi også lukke RUM? NEEEEEJJJ 
+Dialogue: 0,0:18:07.01,0:18:10.73,Overtekst,,0,0,0,,Skal vi også lukke RUM? NEEEEEJJJJOOOOOO! Troels!!! 
+Dialogue: 0,0:18:31.35,0:18:31.35,Overtekst,,0,0,0,,Skal vi også lukke RUM? NEEEEEJJJJOOOOOO! Troels!!! 
+Dialogue: 0,0:18:31.35,0:18:33.60,Overtekst,,0,0,0,,Og når de har angst og stress,
+Dialogue: 0,0:18:33.60,0:18:33.60,Overtekst,,0,0,0,,Og når de har angst og stress,
+Dialogue: 0,0:18:33.60,0:18:35.76,Overtekst,,0,0,0,,Og når de har angst og stress,Så gør konsekvenser nas
+Dialogue: 0,0:18:35.76,0:18:35.76,Overtekst,,0,0,0,,Og når de har angst og stress,Så gør konsekvenser nas
+Dialogue: 0,0:18:35.76,0:18:41.08,Overtekst,,0,0,0,,Når dispensation får NÆH,Jubler vi når dette fæ...
+Dialogue: 0,0:18:41.08,0:18:41.08,Overtekst,,0,0,0,,Når dispensation får NÆH,Jubler vi når dette fæ...
+Dialogue: 0,0:18:41.08,0:18:41.56,Overtekst,,0,0,0,, UUUUUUUUD
+Dialogue: 0,0:18:41.56,0:18:41.57,Overtekst,,0,0,0,, UUUUUUUUD
+Dialogue: 0,0:18:41.57,0:18:42.84,Overtekst,,0,0,0,,SMI UUUUUUUUD
+Dialogue: 0,0:18:42.84,0:18:42.85,Overtekst,,0,0,0,,SMI UUUUUUUUD
+Dialogue: 0,0:18:42.85,0:18:43.99,Overtekst,,0,0,0,,SMI-DES UUUUUUUUD
+Dialogue: 0,0:18:43.99,0:18:43.99,Overtekst,,0,0,0,,SMI-DES UUUUUUUUD
+Dialogue: 0,0:18:43.99,0:18:48.33,Overtekst,,0,0,0,,SMI-DES UUUUUUUUUD
+Dialogue: 0,0:19:14.39,0:24:18.77,Overtekst,,0,0,0,,SMI-DES UUUUUUUUUD
+Dialogue: 0,0:24:20.12,0:25:21.87,Overtekst,,0,0,0,,🎞 EnØl.mov
+Dialogue: 0,0:25:21.87,0:25:21.87,Overtekst,,0,0,0,,Det er ikke let, det er faktisk svært
+Dialogue: 0,0:25:21.87,0:25:26.71,Overtekst,,0,0,0,,Når jeg prøver at løse opgaven
+Dialogue: 0,0:25:26.71,0:25:26.71,Overtekst,,0,0,0,,Når jeg prøver at løse opgaven
+Dialogue: 0,0:25:26.71,0:25:34.77,Overtekst,,0,0,0,,Selvom jeg er TA, og det er uge 1
+Dialogue: 0,0:25:34.77,0:25:34.77,Overtekst,,0,0,0,,Selvom jeg er TA, og det er uge 1
+Dialogue: 0,0:25:34.77,0:25:44.92,Overtekst,,0,0,0,,Du vil ik' hjælpe:\N"det er hvad du har ansat mig til"
+Dialogue: 0,0:25:44.92,0:25:44.92,Overtekst,,0,0,0,,Du vil ik' hjælpe:\N"det er hvad du har ansat mig til"
+Dialogue: 0,0:25:44.92,0:25:50.65,Overtekst,,0,0,0,,At løse de fucking opgaver 
+Dialogue: 0,0:25:50.65,0:25:50.65,Overtekst,,0,0,0,,At løse de fucking opgaver 
+Dialogue: 0,0:25:50.65,0:25:57.82,Overtekst,,0,0,0,,At løse de fucking opgaver Som du sikkert ikke kan selv
+Dialogue: 0,0:25:57.82,0:25:57.82,Overtekst,,0,0,0,,At løse de fucking opgaver Som du sikkert ikke kan selv
+Dialogue: 0,0:25:57.82,0:26:04.72,Overtekst,,0,0,0,,Jeg prøved' at integrer, og pertuber'
+Dialogue: 0,0:26:04.72,0:26:04.72,Overtekst,,0,0,0,,Jeg prøved' at integrer, og pertuber'
+Dialogue: 0,0:26:04.72,0:26:09.42,Overtekst,,0,0,0,,Jeg prøved' at integrer, og pertuber'prøved' at bruge Euklid
+Dialogue: 0,0:26:09.42,0:26:09.43,Overtekst,,0,0,0,,Jeg prøved' at integrer, og pertuber'prøved' at bruge Euklid
+Dialogue: 0,0:26:09.43,0:26:16.71,Overtekst,,0,0,0,,Tegnede kraftdiagram,\N approksimerede c
+Dialogue: 0,0:26:16.71,0:26:16.71,Overtekst,,0,0,0,,Tegnede kraftdiagram,\N approksimerede c
+Dialogue: 0,0:26:16.71,0:26:23.15,Overtekst,,0,0,0,,Så jeg googled',
+Dialogue: 0,0:26:23.15,0:26:23.15,Overtekst,,0,0,0,,Så jeg googled',
+Dialogue: 0,0:26:23.15,0:26:28.25,Overtekst,,0,0,0,,Så jeg googled',men selv hestenettet vidste det ik'
+Dialogue: 0,0:26:28.25,0:26:28.25,Overtekst,,0,0,0,,Så jeg googled',men selv hestenettet vidste det ik'
+Dialogue: 0,0:26:28.25,0:26:33.23,Overtekst,,0,0,0,,Hvad vil du ha' jeg skal gør' 
+Dialogue: 0,0:26:33.23,0:26:33.24,Overtekst,,0,0,0,,Hvad vil du ha' jeg skal gør' 
+Dialogue: 0,0:26:33.24,0:26:37.88,Overtekst,,0,0,0,,Hvad vil du ha' jeg skal gør' Jeg underviser jo i morg'n
+Dialogue: 0,0:26:37.88,0:26:37.89,Overtekst,,0,0,0,,Hvad vil du ha' jeg skal gør' Jeg underviser jo i morg'n
+Dialogue: 0,0:26:37.89,0:26:39.73,Overtekst,,0,0,0,,Hjælp mig for fa'n 
+Dialogue: 0,0:26:39.73,0:26:39.73,Overtekst,,0,0,0,,Hjælp mig for fa'n 
+Dialogue: 0,0:26:39.73,0:26:42.85,Overtekst,,0,0,0,,Hjælp mig for fa'n Marianne!
+Dialogue: 0,0:26:42.85,0:26:42.85,Overtekst,,0,0,0,,Hjælp mig for fa'n Marianne!
+Dialogue: 0,0:26:42.85,0:26:48.01,Overtekst,,0,0,0,,Giv mig et løsningsforslag
+Dialogue: 0,0:26:48.01,0:26:48.01,Overtekst,,0,0,0,,Giv mig et løsningsforslag
+Dialogue: 0,0:26:48.01,0:26:53.16,Overtekst,,0,0,0,,På andet år som, MekRel instruktor
+Dialogue: 0,0:26:53.16,0:26:53.16,Overtekst,,0,0,0,,På andet år som, MekRel instruktor
+Dialogue: 0,0:26:53.16,0:26:55.60,Overtekst,,0,0,0,,Jeg stadig intet 
+Dialogue: 0,0:26:55.60,0:26:55.61,Overtekst,,0,0,0,,Jeg stadig intet 
+Dialogue: 0,0:26:55.61,0:27:02.21,Overtekst,,0,0,0,,Jeg stadig intet Af det her fatter!
+Dialogue: 0,0:27:09.11,0:27:09.11,Overtekst,,0,0,0,,Jeg stadig intet Af det her fatter!
+Dialogue: 0,0:27:09.11,0:27:14.93,Overtekst,,0,0,0,,Aben vil have, dens bananer
+Dialogue: 0,0:27:14.93,0:27:14.94,Overtekst,,0,0,0,,Aben vil have, dens bananer
+Dialogue: 0,0:27:14.94,0:27:19.42,Overtekst,,0,0,0,,Og så er der jo en snor,
+Dialogue: 0,0:27:19.42,0:27:19.42,Overtekst,,0,0,0,,Og så er der jo en snor,
+Dialogue: 0,0:27:19.42,0:27:26.35,Overtekst,,0,0,0,,Og så er der jo en snor,Den er inertiløs, holdt af en elefant.
+Dialogue: 0,0:27:26.35,0:27:26.35,Overtekst,,0,0,0,,Og så er der jo en snor,Den er inertiløs, holdt af en elefant.
+Dialogue: 0,0:27:26.35,0:27:35.33,Overtekst,,0,0,0,,Måske er svaret, ℏ · θπ
+Dialogue: 0,0:27:35.33,0:27:35.33,Overtekst,,0,0,0,,Måske er svaret, ℏ · θπ
+Dialogue: 0,0:27:35.33,0:27:40.51,Overtekst,,0,0,0,,Hvis bare jeg dog fik et svar 
+Dialogue: 0,0:27:40.51,0:27:40.51,Overtekst,,0,0,0,,Hvis bare jeg dog fik et svar 
+Dialogue: 0,0:27:40.51,0:27:45.79,Overtekst,,0,0,0,,Hvis bare jeg dog fik et svar Så kunne jeg gætte en løsning
+Dialogue: 0,0:27:45.79,0:27:45.79,Overtekst,,0,0,0,,Hvis bare jeg dog fik et svar Så kunne jeg gætte en løsning
+Dialogue: 0,0:27:45.79,0:27:47.85,Overtekst,,0,0,0,,Hjælp mig for fa'n 
+Dialogue: 0,0:27:47.85,0:27:47.86,Overtekst,,0,0,0,,Hjælp mig for fa'n 
+Dialogue: 0,0:27:47.86,0:27:51.51,Overtekst,,0,0,0,,Hjælp mig for fa'n Marianne!
+Dialogue: 0,0:28:09.72,0:28:09.72,Overtekst,,0,0,0,,Hjælp mig for fa'n Marianne!
+Dialogue: 0,0:28:09.72,0:28:11.47,Overtekst,,0,0,0,,Hjælp mig for fa'n 
+Dialogue: 0,0:28:11.47,0:28:11.47,Overtekst,,0,0,0,,Hjælp mig for fa'n 
+Dialogue: 0,0:28:11.47,0:28:14.78,Overtekst,,0,0,0,,Hjælp mig for fa'n Marianne!
+Dialogue: 0,0:28:14.78,0:28:14.78,Overtekst,,0,0,0,,Hjælp mig for fa'n Marianne!
+Dialogue: 0,0:28:14.78,0:28:18.98,Overtekst,,0,0,0,,Giv mig et løsningsforslag
+Dialogue: 0,0:28:18.98,0:28:18.98,Overtekst,,0,0,0,,Giv mig et løsningsforslag
+Dialogue: 0,0:28:18.98,0:28:24.01,Overtekst,,0,0,0,,På femte år som, MekRel instruktor
+Dialogue: 0,0:28:24.01,0:28:24.01,Overtekst,,0,0,0,,På femte år som, MekRel instruktor
+Dialogue: 0,0:28:24.01,0:28:26.51,Overtekst,,0,0,0,,Jeg stadig intet 
+Dialogue: 0,0:28:26.51,0:28:26.51,Overtekst,,0,0,0,,Jeg stadig intet 
+Dialogue: 0,0:28:26.51,0:28:30.79,Overtekst,,0,0,0,,Jeg stadig intet Af det her fatter!
+Dialogue: 0,0:28:33.55,0:28:33.55,Overtekst,,0,0,0,,Jeg stadig intet Af det her fatter!
+Dialogue: 0,0:28:33.55,0:28:36.00,Overtekst,,0,0,0,,Hvad skal jeg gøre?
+Dialogue: 0,0:28:36.00,0:28:36.00,Overtekst,,0,0,0,,Hvad skal jeg gøre?
+Dialogue: 0,0:28:36.00,0:28:43.63,Overtekst,,0,0,0,,Nu skal jeg undervise russer i det shit
+Dialogue: 0,0:28:43.63,0:28:43.63,Overtekst,,0,0,0,,Nu skal jeg undervise russer i det shit
+Dialogue: 0,0:28:43.63,0:28:47.39,Overtekst,,0,0,0,,Tro mig,\N hvis jeg kendte løsningen ville jeg
+Dialogue: 0,0:28:47.39,0:28:47.40,Overtekst,,0,0,0,,Tro mig,\N hvis jeg kendte løsningen ville jeg
+Dialogue: 0,0:28:47.40,0:28:53.40,Overtekst,,0,0,0,,Give dig et forslag!
+Dialogue: 0,0:30:26.31,0:39:09.75,Overtekst,,0,0,0,,Give dig et forslag!
+Dialogue: 0,0:39:09.75,0:39:09.75,Overtekst,,0,0,0,,Oh yeah, kom så!
+Dialogue: 0,0:39:09.75,0:39:12.88,Overtekst,,0,0,0,,Du bli'r forkælet så godt
+Dialogue: 0,0:39:12.88,0:39:12.88,Overtekst,,0,0,0,,Du bli'r forkælet så godt
+Dialogue: 0,0:39:12.88,0:39:16.87,Overtekst,,0,0,0,,HCØ, NBB, de var dyre
+Dialogue: 0,0:39:16.87,0:39:16.87,Overtekst,,0,0,0,,HCØ, NBB, de var dyre
+Dialogue: 0,0:39:16.87,0:39:20.51,Overtekst,,0,0,0,,Ja, vi forstår slet ikke al jeres brok
+Dialogue: 0,0:39:20.51,0:39:20.51,Overtekst,,0,0,0,,Ja, vi forstår slet ikke al jeres brok
+Dialogue: 0,0:39:20.51,0:39:25.00,Overtekst,,0,0,0,,Så nyd lokalerne,\N vi elsker at styre
+Dialogue: 0,0:39:25.00,0:39:25.00,Overtekst,,0,0,0,,Så nyd lokalerne,\N vi elsker at styre
+Dialogue: 0,0:39:25.00,0:39:28.99,Overtekst,,0,0,0,,Du sy's det slemt,\N fordi her er lidt koldt 
+Dialogue: 0,0:39:28.99,0:39:28.99,Overtekst,,0,0,0,,Du sy's det slemt,\N fordi her er lidt koldt 
+Dialogue: 0,0:39:28.99,0:39:29.94,Overtekst,,0,0,0,,Tag dig sammen din 
+Dialogue: 0,0:39:29.94,0:39:29.94,Overtekst,,0,0,0,,Tag dig sammen din 
+Dialogue: 0,0:39:29.94,0:39:31.61,Overtekst,,0,0,0,,Tag dig sammen din naaaaar
+Dialogue: 0,0:39:31.61,0:39:31.61,Overtekst,,0,0,0,,Tag dig sammen din naaaaar
+Dialogue: 0,0:39:31.61,0:39:35.40,Overtekst,,0,0,0,,Du får asbest i lungerne!
+Dialogue: 0,0:39:35.40,0:39:35.41,Overtekst,,0,0,0,,Du får asbest i lungerne!
+Dialogue: 0,0:39:35.41,0:39:37.06,Overtekst,,0,0,0,,I må ik' ha det sjov' 
+Dialogue: 0,0:39:37.06,0:39:37.06,Overtekst,,0,0,0,,I må ik' ha det sjov' 
+Dialogue: 0,0:39:37.06,0:39:38.88,Overtekst,,0,0,0,,I må ik' ha det sjov' før I har fået lov
+Dialogue: 0,0:39:38.88,0:39:38.88,Overtekst,,0,0,0,,I må ik' ha det sjov' før I har fået lov
+Dialogue: 0,0:39:38.88,0:39:43.03,Overtekst,,0,0,0,,I får asbest i lungerne!
+Dialogue: 0,0:39:43.03,0:39:43.03,Overtekst,,0,0,0,,I får asbest i lungerne!
+Dialogue: 0,0:39:43.03,0:39:49.84,Overtekst,,0,0,0,,send os bar' en klage,\Ntag en kiks\Nfordi vi ejer jer's show
+Dialogue: 0,0:39:49.84,0:39:49.84,Overtekst,,0,0,0,,send os bar' en klage,\Ntag en kiks\Nfordi vi ejer jer's show
+Dialogue: 0,0:39:49.84,0:39:53.93,Overtekst,,0,0,0,,Vi ejer jeres show!
+Dialogue: 0,0:39:53.93,0:39:53.93,Overtekst,,0,0,0,,Vi ejer jeres show!
+Dialogue: 0,0:39:53.93,0:39:57.59,Overtekst,,0,0,0,,Okay så fik I en "pris"
+Dialogue: 0,0:39:57.59,0:39:57.59,Overtekst,,0,0,0,,Okay så fik I en "pris"
+Dialogue: 0,0:39:57.59,0:40:01.02,Overtekst,,0,0,0,,Ej hvor flot,ej hvor fint,vi gi'r kage!
+Dialogue: 0,0:40:01.02,0:40:01.02,Overtekst,,0,0,0,,Ej hvor flot,ej hvor fint,vi gi'r kage!
+Dialogue: 0,0:40:01.02,0:40:04.98,Overtekst,,0,0,0,,Men tro nu ikke det er her I skal spis'
+Dialogue: 0,0:40:04.98,0:40:04.98,Overtekst,,0,0,0,,Men tro nu ikke det er her I skal spis'
+Dialogue: 0,0:40:04.98,0:40:09.25,Overtekst,,0,0,0,,Max én øl eller vand må I smage!
+Dialogue: 0,0:40:09.25,0:40:09.25,Overtekst,,0,0,0,,Max én øl eller vand må I smage!
+Dialogue: 0,0:40:09.25,0:40:12.98,Overtekst,,0,0,0,,Du sy's det slemt fordi du hoster liiidt
+Dialogue: 0,0:40:12.98,0:40:12.99,Overtekst,,0,0,0,,Du sy's det slemt fordi du hoster liiidt
+Dialogue: 0,0:40:12.99,0:40:15.83,Overtekst,,0,0,0,,Tag en kiks og tag dig sammen din naaaaar
+Dialogue: 0,0:40:15.83,0:40:15.83,Overtekst,,0,0,0,,Tag en kiks og tag dig sammen din naaaaar
+Dialogue: 0,0:40:15.83,0:40:19.82,Overtekst,,0,0,0,,Du får asbest i lungerne!
+Dialogue: 0,0:40:19.82,0:40:19.82,Overtekst,,0,0,0,,Du får asbest i lungerne!
+Dialogue: 0,0:40:19.82,0:40:21.42,Overtekst,,0,0,0,,I må ik' ha det sjov' 
+Dialogue: 0,0:40:21.42,0:40:21.42,Overtekst,,0,0,0,,I må ik' ha det sjov' 
+Dialogue: 0,0:40:21.42,0:40:23.07,Overtekst,,0,0,0,,I må ik' ha det sjov' før I har fået lov
+Dialogue: 0,0:40:23.07,0:40:23.07,Overtekst,,0,0,0,,I må ik' ha det sjov' før I har fået lov
+Dialogue: 0,0:40:23.07,0:40:27.41,Overtekst,,0,0,0,,I får asbest i lungerne!
+Dialogue: 0,0:40:27.41,0:40:27.41,Overtekst,,0,0,0,,I får asbest i lungerne!
+Dialogue: 0,0:40:27.41,0:40:32.42,Overtekst,,0,0,0,,spis nu jeres kage,\Nsend en klage\Nfordi vi ejer jer's show
+Dialogue: 0,0:40:32.42,0:40:32.42,Overtekst,,0,0,0,,spis nu jeres kage,\Nsend en klage\Nfordi vi ejer jer's show
+Dialogue: 0,0:40:32.42,0:40:34.65,Overtekst,,0,0,0,,Vi ejer jeres show!
+Dialogue: 0,0:40:35.98,0:40:35.98,Overtekst,,0,0,0,,Vi ejer jeres show!
+Dialogue: 0,0:40:35.98,0:40:38.38,Overtekst,,0,0,0,,Vi sender dig en mail
+Dialogue: 0,0:40:38.38,0:40:38.38,Overtekst,,0,0,0,,Vi sender dig en mail
+Dialogue: 0,0:40:38.38,0:40:41.76,Overtekst,,0,0,0,,for dit sociale liv ska' fucking dø
+Dialogue: 0,0:40:41.76,0:40:41.76,Overtekst,,0,0,0,,for dit sociale liv ska' fucking dø
+Dialogue: 0,0:40:41.76,0:40:44.80,Overtekst,,0,0,0,,vi vil ha' tomme lokaler
+Dialogue: 0,0:40:44.80,0:40:44.81,Overtekst,,0,0,0,,vi vil ha' tomme lokaler
+Dialogue: 0,0:40:44.81,0:40:48.38,Overtekst,,0,0,0,,og helst ikke noget studiemiljø
+Dialogue: 0,0:40:48.38,0:40:48.38,Overtekst,,0,0,0,,og helst ikke noget studiemiljø
+Dialogue: 0,0:40:48.38,0:40:49.31,Overtekst,,0,0,0,,A 
+Dialogue: 0,0:40:49.31,0:40:49.31,Overtekst,,0,0,0,,A 
+Dialogue: 0,0:40:49.31,0:40:50.12,Overtekst,,0,0,0,,Asbest! 
+Dialogue: 0,0:40:50.12,0:40:50.13,Overtekst,,0,0,0,,Asbest! 
+Dialogue: 0,0:40:50.13,0:40:51.56,Overtekst,,0,0,0,,Asbest! Yeah, I skal ha' asbest!
+Dialogue: 0,0:40:51.56,0:40:51.56,Overtekst,,0,0,0,,Asbest! Yeah, I skal ha' asbest!
+Dialogue: 0,0:40:51.56,0:40:52.45,Overtekst,,0,0,0,,A 
+Dialogue: 0,0:40:52.45,0:40:52.45,Overtekst,,0,0,0,,A 
+Dialogue: 0,0:40:52.45,0:40:53.49,Overtekst,,0,0,0,,Asbest! 
+Dialogue: 0,0:40:53.49,0:40:53.49,Overtekst,,0,0,0,,Asbest! 
+Dialogue: 0,0:40:53.49,0:40:55.68,Overtekst,,0,0,0,,Asbest! Yeah, we are the best
+Dialogue: 0,0:40:55.68,0:40:55.68,Overtekst,,0,0,0,,Asbest! Yeah, we are the best
+Dialogue: 0,0:40:55.68,0:40:56.56,Overtekst,,0,0,0,,A 
+Dialogue: 0,0:40:56.56,0:40:56.57,Overtekst,,0,0,0,,A 
+Dialogue: 0,0:40:56.57,0:40:57.26,Overtekst,,0,0,0,,Asbest! 
+Dialogue: 0,0:40:57.26,0:40:57.26,Overtekst,,0,0,0,,Asbest! 
+Dialogue: 0,0:40:57.26,0:40:59.57,Overtekst,,0,0,0,,Asbest!  Kom nu, vi har en fest???
+Dialogue: 0,0:40:59.95,0:40:59.95,Overtekst,,0,0,0,,Asbest!  Kom nu, vi har en fest???
+Dialogue: 0,0:40:59.95,0:41:02.25,Overtekst,,0,0,0,,Du sy's det er slemt fordi du kan få kræft
+Dialogue: 0,0:41:02.25,0:41:02.25,Overtekst,,0,0,0,,Du sy's det er slemt fordi du kan få kræft
+Dialogue: 0,0:41:02.25,0:41:07.40,Overtekst,,0,0,0,,En død studer'ne klager iiiiik'
+Dialogue: 0,0:41:07.40,0:41:07.40,Overtekst,,0,0,0,,En død studer'ne klager iiiiik'
+Dialogue: 0,0:41:07.40,0:41:12.18,Overtekst,,0,0,0,,Du får asbest i lungerne!
+Dialogue: 0,0:41:12.18,0:41:12.18,Overtekst,,0,0,0,,Du får asbest i lungerne!
+Dialogue: 0,0:41:12.18,0:41:13.88,Overtekst,,0,0,0,,I må ik' ha det sjov' 
+Dialogue: 0,0:41:13.88,0:41:13.88,Overtekst,,0,0,0,,I må ik' ha det sjov' 
+Dialogue: 0,0:41:13.88,0:41:15.62,Overtekst,,0,0,0,,I må ik' ha det sjov' før I har fået lov
+Dialogue: 0,0:41:15.62,0:41:15.62,Overtekst,,0,0,0,,I må ik' ha det sjov' før I har fået lov
+Dialogue: 0,0:41:15.62,0:41:19.98,Overtekst,,0,0,0,,I får asbest i lungerne!
+Dialogue: 0,0:41:19.98,0:41:19.98,Overtekst,,0,0,0,,I får asbest i lungerne!
+Dialogue: 0,0:41:19.98,0:41:23.29,Overtekst,,0,0,0,,spis nu jeres kage,\Nsend en klage\Nfordi vi ejer jer's
+Dialogue: 0,0:41:23.29,0:41:23.29,Overtekst,,0,0,0,,spis nu jeres kage,\Nsend en klage\Nfordi vi ejer jer's
+Dialogue: 0,0:41:23.29,0:41:26.80,Overtekst,,0,0,0,,Asbest i lungerne!
+Dialogue: 0,0:41:26.80,0:41:26.80,Overtekst,,0,0,0,,Asbest i lungerne!
+Dialogue: 0,0:41:26.80,0:41:28.46,Overtekst,,0,0,0,,Jeres studiemiljø 
+Dialogue: 0,0:41:28.46,0:41:28.47,Overtekst,,0,0,0,,Jeres studiemiljø 
+Dialogue: 0,0:41:28.47,0:41:30.35,Overtekst,,0,0,0,,Jeres studiemiljø Det ka' bar' fucking dø!
+Dialogue: 0,0:41:30.35,0:41:30.35,Overtekst,,0,0,0,,Jeres studiemiljø Det ka' bar' fucking dø!
+Dialogue: 0,0:41:30.35,0:41:34.70,Overtekst,,0,0,0,,Vi gi'r asbest til ungerne!
+Dialogue: 0,0:41:34.70,0:41:34.70,Overtekst,,0,0,0,,Vi gi'r asbest til ungerne!
+Dialogue: 0,0:41:34.70,0:41:38.40,Overtekst,,0,0,0,,Kan vores mail udenad
+Dialogue: 0,0:41:38.40,0:41:38.40,Overtekst,,0,0,0,,Kan vores mail udenad
+Dialogue: 0,0:41:38.40,0:41:39.67,Overtekst,,0,0,0,,Kan vores mail udenadVi' SÅ ligeglad'
+Dialogue: 0,0:41:39.67,0:41:39.67,Overtekst,,0,0,0,,Kan vores mail udenadVi' SÅ ligeglad'
+Dialogue: 0,0:41:39.67,0:41:43.71,Overtekst,,0,0,0,,Fordi vi ved I ved vi ejer jer's liv!
+Dialogue: 0,0:41:48.43,0:42:17.43,Overtekst,,0,0,0,,Fordi vi ved I ved vi ejer jer's liv!
+Dialogue: 0,0:42:17.43,0:59:57.98,Overtekst,,0,0,0,,\N    PAUSE\N    Revyen™ fortsætter\N    om 20 minutter\N  
+Dialogue: 0,0:59:57.98,1:01:06.47,Overtekst,,0,0,0,,🎞 pause_1.MP4
+Dialogue: 0,1:01:06.47,1:01:11.38,Overtekst,,0,0,0,,Kvalme, har fået nok \N 
+Dialogue: 0,1:01:11.38,1:01:11.39,Overtekst,,0,0,0,,Kvalme, har fået nok \N 
+Dialogue: 0,1:01:11.39,1:01:13.64,Overtekst,,0,0,0,,Kvalme, har fået nok \N Nej, jeg kan ik’ stå op
+Dialogue: 0,1:01:13.64,1:01:13.64,Overtekst,,0,0,0,,Kvalme, har fået nok \N Nej, jeg kan ik’ stå op
+Dialogue: 0,1:01:13.64,1:01:15.66,Overtekst,,0,0,0,,Skal ikke tømme den kop,\N Nu går jeg snart amok 
+Dialogue: 0,1:01:15.66,1:01:15.66,Overtekst,,0,0,0,,Skal ikke tømme den kop,\N Nu går jeg snart amok 
+Dialogue: 0,1:01:15.66,1:01:16.42,Overtekst,,0,0,0,,Wc-køen si’r stop, ser mig lidt omkring
+Dialogue: 0,1:01:16.42,1:01:18.09,Overtekst,,0,0,0,,Wc-køen si’r stop, ser mig lidt omkring
+Dialogue: 0,1:01:18.09,1:01:18.09,Overtekst,,0,0,0,,Skal ikke tømme den kop,\N Nu går jeg snart amok 
+Dialogue: 0,1:01:18.09,1:01:23.18,Overtekst,,0,0,0,,Wc-køen si’r stop, ser mig lidt omkring
+Dialogue: 0,1:01:23.18,1:01:23.19,Overtekst,,0,0,0,,Wc-køen si’r stop, ser mig lidt omkring
+Dialogue: 0,1:01:23.19,1:01:28.44,Overtekst,,0,0,0,,Jeeeeeg løber gennem HCØ \N 
+Dialogue: 0,1:01:28.44,1:01:28.44,Overtekst,,0,0,0,,Jeeeeeg løber gennem HCØ \N 
+Dialogue: 0,1:01:28.44,1:01:31.19,Overtekst,,0,0,0,,Jeeeeeg løber gennem HCØ \N Falder igen (x2)
+Dialogue: 0,1:01:31.19,1:01:31.19,Overtekst,,0,0,0,,Jeeeeeg løber gennem HCØ \N Falder igen (x2)
+Dialogue: 0,1:01:31.19,1:01:37.74,Overtekst,,0,0,0,,Jeeeeeg finder intet uden kø
+Dialogue: 0,1:01:37.74,1:01:37.74,Overtekst,,0,0,0,,Jeeeeeg finder intet uden kø
+Dialogue: 0,1:01:37.74,1:01:39.73,Overtekst,,0,0,0,,Men op' ad trappen står den der så
+Dialogue: 0,1:01:39.73,1:01:39.73,Overtekst,,0,0,0,,Men op' ad trappen står den der så
+Dialogue: 0,1:01:39.73,1:01:42.28,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i  \N  
+Dialogue: 0,1:01:42.28,1:01:42.28,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i  \N  
+Dialogue: 0,1:01:42.28,1:01:43.93,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N  
+Dialogue: 0,1:01:43.93,1:01:43.93,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N  
+Dialogue: 0,1:01:43.93,1:01:48.00,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N Fuck den koster $$$millioner$$$ 
+Dialogue: 0,1:01:48.00,1:01:48.01,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N Fuck den koster $$$millioner$$$ 
+Dialogue: 0,1:01:48.01,1:01:51.85,Overtekst,,0,0,0,,Kan man bare rense, spraye, tørre, lukke igen? \N 
+Dialogue: 0,1:01:51.85,1:01:51.85,Overtekst,,0,0,0,,Kan man bare rense, spraye, tørre, lukke igen? \N 
+Dialogue: 0,1:01:51.85,1:01:56.14,Overtekst,,0,0,0,,Kan man bare rense, spraye, tørre, lukke igen? \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:01:56.14,1:01:56.14,Overtekst,,0,0,0,,Kan man bare rense, spraye, tørre, lukke igen? \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:01:56.14,1:02:02.40,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:02:02.40,1:02:02.40,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:02:02.40,1:02:04.70,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:02:04.70,1:02:04.70,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:02:04.70,1:02:10.29,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:02:10.29,1:02:10.29,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:02:10.29,1:02:12.96,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:02:12.96,1:02:12.96,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:02:12.96,1:02:15.81,Overtekst,,0,0,0,,Rolig, \act{prøver at være rolig} \N 
+Dialogue: 0,1:02:15.81,1:02:15.81,Overtekst,,0,0,0,,Rolig, \act{prøver at være rolig} \N 
+Dialogue: 0,1:02:15.81,1:02:17.04,Overtekst,,0,0,0,,Rolig, \act{prøver at være rolig} \N utroligt \act{frustreret}
+Dialogue: 0,1:02:17.04,1:02:17.04,Overtekst,,0,0,0,,Rolig, \act{prøver at være rolig} \N utroligt \act{frustreret}
+Dialogue: 0,1:02:17.04,1:02:20.35,Overtekst,,0,0,0,,Forsøgene er umulige
+Dialogue: 0,1:02:20.35,1:02:20.35,Overtekst,,0,0,0,,Forsøgene er umulige
+Dialogue: 0,1:02:20.35,1:02:22.07,Overtekst,,0,0,0,,Data er der rod i \N  
+Dialogue: 0,1:02:22.07,1:02:22.07,Overtekst,,0,0,0,,Data er der rod i \N  
+Dialogue: 0,1:02:22.07,1:02:24.10,Overtekst,,0,0,0,,Data er der rod i \N Som om nog’n har tømt hovedet i \N  
+Dialogue: 0,1:02:24.10,1:02:24.10,Overtekst,,0,0,0,,Data er der rod i \N Som om nog’n har tømt hovedet i \N  
+Dialogue: 0,1:02:24.10,1:02:26.27,Overtekst,,0,0,0,,Data er der rod i \N Som om nog’n har tømt hovedet i \N Har ikke noget at kode i 
+Dialogue: 0,1:02:26.27,1:02:26.27,Overtekst,,0,0,0,,Data er der rod i \N Som om nog’n har tømt hovedet i \N Har ikke noget at kode i 
+Dialogue: 0,1:02:26.27,1:02:29.26,Overtekst,,0,0,0,,Og jeg er sulten
+Dialogue: 0,1:02:29.26,1:02:29.27,Overtekst,,0,0,0,,Og jeg er sulten
+Dialogue: 0,1:02:29.27,1:02:35.31,Overtekst,,0,0,0,,Jeeeeeg går igennem HCØ \N 
+Dialogue: 0,1:02:35.31,1:02:35.31,Overtekst,,0,0,0,,Jeeeeeg går igennem HCØ \N 
+Dialogue: 0,1:02:35.31,1:02:37.71,Overtekst,,0,0,0,,Jeeeeeg går igennem HCØ \N Til kantinen (x2)
+Dialogue: 0,1:02:37.71,1:02:37.71,Overtekst,,0,0,0,,Jeeeeeg går igennem HCØ \N Til kantinen (x2)
+Dialogue: 0,1:02:37.71,1:02:43.59,Overtekst,,0,0,0,,Jeeeeeg kom igennem den lange kø \N 
+Dialogue: 0,1:02:43.59,1:02:43.59,Overtekst,,0,0,0,,Jeeeeeg kom igennem den lange kø \N 
+Dialogue: 0,1:02:43.59,1:02:46.03,Overtekst,,0,0,0,,Jeeeeeg kom igennem den lange kø \N Men sandwichen var muggen så
+Dialogue: 0,1:02:46.03,1:02:46.03,Overtekst,,0,0,0,,Jeeeeeg kom igennem den lange kø \N Men sandwichen var muggen så
+Dialogue: 0,1:02:46.03,1:02:48.46,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i  \N  
+Dialogue: 0,1:02:48.46,1:02:48.46,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i  \N  
+Dialogue: 0,1:02:48.46,1:02:50.15,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N  
+Dialogue: 0,1:02:50.15,1:02:50.15,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N  
+Dialogue: 0,1:02:50.15,1:02:54.20,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N Fuck den koster $$$millioner$$$ 
+Dialogue: 0,1:02:54.20,1:02:54.20,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N Fuck den koster $$$millioner$$$ 
+Dialogue: 0,1:02:54.20,1:02:58.32,Overtekst,,0,0,0,,Kan man bare rense, spraye, tørre, lukke igen? \N 
+Dialogue: 0,1:02:58.32,1:02:58.32,Overtekst,,0,0,0,,Kan man bare rense, spraye, tørre, lukke igen? \N 
+Dialogue: 0,1:02:58.32,1:03:02.47,Overtekst,,0,0,0,,Kan man bare rense, spraye, tørre, lukke igen? \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:03:02.47,1:03:02.48,Overtekst,,0,0,0,,Kan man bare rense, spraye, tørre, lukke igen? \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:03:02.48,1:03:08.41,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:03:08.41,1:03:08.41,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:03:08.41,1:03:10.51,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:03:10.51,1:03:10.51,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:03:10.51,1:03:16.89,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:03:16.89,1:03:16.89,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:03:16.89,1:03:19.02,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:03:19.02,1:03:19.02,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Fuck den koster $$$millioner$$$
+Dialogue: 0,1:03:19.02,1:03:21.96,Overtekst,,0,0,0,,Quantum computer \N 
+Dialogue: 0,1:03:21.96,1:03:21.96,Overtekst,,0,0,0,,Quantum computer \N 
+Dialogue: 0,1:03:21.96,1:03:26.32,Overtekst,,0,0,0,,Quantum computer \N Den bliver lavet nu her
+Dialogue: 0,1:03:26.32,1:03:26.32,Overtekst,,0,0,0,,Quantum computer \N Den bliver lavet nu her
+Dialogue: 0,1:03:26.32,1:03:28.53,Overtekst,,0,0,0,,Gi’r mang’ gang’ jeres SU, yeah
+Dialogue: 0,1:03:28.53,1:03:28.53,Overtekst,,0,0,0,,Gi’r mang’ gang’ jeres SU, yeah
+Dialogue: 0,1:03:28.53,1:03:30.42,Overtekst,,0,0,0,,Tænk hvad qubits ku’ mere \N 
+Dialogue: 0,1:03:30.42,1:03:30.42,Overtekst,,0,0,0,,Tænk hvad qubits ku’ mere \N 
+Dialogue: 0,1:03:30.42,1:03:32.53,Overtekst,,0,0,0,,Tænk hvad qubits ku’ mere \N Og Microsoft gik? Who cares? \N 
+Dialogue: 0,1:03:32.53,1:03:32.53,Overtekst,,0,0,0,,Tænk hvad qubits ku’ mere \N Og Microsoft gik? Who cares? \N 
+Dialogue: 0,1:03:32.53,1:03:35.63,Overtekst,,0,0,0,,Tænk hvad qubits ku’ mere \N Og Microsoft gik? Who cares? \N Vi klarer os anyway
+Dialogue: 0,1:03:35.63,1:03:35.63,Overtekst,,0,0,0,,Tænk hvad qubits ku’ mere \N Og Microsoft gik? Who cares? \N Vi klarer os anyway
+Dialogue: 0,1:03:35.63,1:03:41.81,Overtekst,,0,0,0,,Jeeeeeeeeeg udgiver lige en paper mere \N 
+Dialogue: 0,1:03:41.81,1:03:41.81,Overtekst,,0,0,0,,Jeeeeeeeeeg udgiver lige en paper mere \N 
+Dialogue: 0,1:03:41.81,1:03:43.90,Overtekst,,0,0,0,,Jeeeeeeeeeg udgiver lige en paper mere \N Gi’r til Nature (x2)
+Dialogue: 0,1:03:43.90,1:03:43.91,Overtekst,,0,0,0,,Jeeeeeeeeeg udgiver lige en paper mere \N Gi’r til Nature (x2)
+Dialogue: 0,1:03:43.91,1:03:49.50,Overtekst,,0,0,0,,Jeeeeeeeeeg ved hvordan champagne smag’r \N 
+Dialogue: 0,1:03:49.50,1:03:49.51,Overtekst,,0,0,0,,Jeeeeeeeeeg ved hvordan champagne smag’r \N 
+Dialogue: 0,1:03:49.51,1:03:52.25,Overtekst,,0,0,0,,Jeeeeeeeeeg ved hvordan champagne smag’r \N Så celebrater mig med flasker!
+Dialogue: 0,1:03:52.25,1:03:52.25,Overtekst,,0,0,0,,Jeeeeeeeeeg ved hvordan champagne smag’r \N Så celebrater mig med flasker!
+Dialogue: 0,1:03:52.25,1:03:54.92,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i  \N  
+Dialogue: 0,1:03:54.92,1:03:54.92,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i  \N  
+Dialogue: 0,1:03:54.92,1:03:56.43,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N  
+Dialogue: 0,1:03:56.43,1:03:56.43,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N  
+Dialogue: 0,1:03:56.43,1:04:00.42,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N Pyt, det’ bare $$$millioner$$$ 
+Dialogue: 0,1:04:00.42,1:04:00.42,Overtekst,,0,0,0,,Jeg gik op i lab og brækked’ mig i kryostaten \N Pyt, det’ bare $$$millioner$$$ 
+Dialogue: 0,1:04:00.42,1:04:04.61,Overtekst,,0,0,0,,Man kan bare rense, spraye, tørre, lukke igen \N 
+Dialogue: 0,1:04:04.61,1:04:04.61,Overtekst,,0,0,0,,Man kan bare rense, spraye, tørre, lukke igen \N 
+Dialogue: 0,1:04:04.61,1:04:08.60,Overtekst,,0,0,0,,Man kan bare rense, spraye, tørre, lukke igen \N Pyt, det’ bare $$$millioner$$$
+Dialogue: 0,1:04:08.60,1:04:08.60,Overtekst,,0,0,0,,Man kan bare rense, spraye, tørre, lukke igen \N Pyt, det’ bare $$$millioner$$$
+Dialogue: 0,1:04:08.60,1:04:15.03,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:04:15.03,1:04:15.03,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:04:15.03,1:04:17.15,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Pyt, det’ bare $$$millioner$$$
+Dialogue: 0,1:04:17.15,1:04:17.15,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Pyt, det’ bare $$$millioner$$$
+Dialogue: 0,1:04:17.15,1:04:23.31,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:04:23.31,1:04:23.31,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N 
+Dialogue: 0,1:04:23.31,1:04:26.13,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Pyt, det’ bare $$$millioner$$$
+Dialogue: 0,1:04:28.45,1:05:42.18,Overtekst,,0,0,0,,Uh-uh-ah, uh-uh-ah, uh-uh \N Pyt, det’ bare $$$millioner$$$
+Dialogue: 0,1:05:42.18,1:05:44.41,Overtekst,,0,0,0,,Vil du
+Dialogue: 0,1:05:44.41,1:05:44.41,Overtekst,,0,0,0,,Vil du
+Dialogue: 0,1:05:44.41,1:05:48.68,Overtekst,,0,0,0,,Vil du ha’ en lille talje
+Dialogue: 0,1:05:48.68,1:05:48.68,Overtekst,,0,0,0,,Vil du ha’ en lille talje
+Dialogue: 0,1:05:48.68,1:05:52.31,Overtekst,,0,0,0,,og også gerne ha’ en god røv
+Dialogue: 0,1:05:52.31,1:05:52.31,Overtekst,,0,0,0,,og også gerne ha’ en god røv
+Dialogue: 0,1:05:52.31,1:05:57.76,Overtekst,,0,0,0,,så lyt med for det er det her du skal brug’
+Dialogue: 0,1:05:57.76,1:05:57.76,Overtekst,,0,0,0,,så lyt med for det er det her du skal brug’
+Dialogue: 0,1:05:57.76,1:06:00.16,Overtekst,,0,0,0,,Squat dybt, 
+Dialogue: 0,1:06:00.16,1:06:00.16,Overtekst,,0,0,0,,Squat dybt, 
+Dialogue: 0,1:06:00.16,1:06:03.94,Overtekst,,0,0,0,,Squat dybt og mærk det i quadriceps
+Dialogue: 0,1:06:03.94,1:06:03.95,Overtekst,,0,0,0,,Squat dybt og mærk det i quadriceps
+Dialogue: 0,1:06:03.95,1:06:08.02,Overtekst,,0,0,0,,strækket i muskler føles intenst
+Dialogue: 0,1:06:08.02,1:06:08.02,Overtekst,,0,0,0,,strækket i muskler føles intenst
+Dialogue: 0,1:06:08.02,1:06:11.18,Overtekst,,0,0,0,,Ja, det er nemlig sådan at din røv blir god’
+Dialogue: 0,1:06:11.18,1:06:11.18,Overtekst,,0,0,0,,Ja, det er nemlig sådan at din røv blir god’
+Dialogue: 0,1:06:11.18,1:06:19.42,Overtekst,,0,0,0,,lyder det som noget’ der for dig
+Dialogue: 0,1:06:19.42,1:06:19.42,Overtekst,,0,0,0,,lyder det som noget’ der for dig
+Dialogue: 0,1:06:19.42,1:06:20.99,Overtekst,,0,0,0,,følg nu med og
+Dialogue: 0,1:06:20.99,1:06:20.99,Overtekst,,0,0,0,,følg nu med og
+Dialogue: 0,1:06:20.99,1:06:24.51,Overtekst,,0,0,0,,Se på os hvordan vi gør, smid den skjorte hvis du tør
+Dialogue: 0,1:06:24.51,1:06:24.52,Overtekst,,0,0,0,,Se på os hvordan vi gør, smid den skjorte hvis du tør
+Dialogue: 0,1:06:24.52,1:06:28.71,Overtekst,,0,0,0,,Neon spandex om de lår, svedbånd holder pandehår
+Dialogue: 0,1:06:28.71,1:06:28.72,Overtekst,,0,0,0,,Neon spandex om de lår, svedbånd holder pandehår
+Dialogue: 0,1:06:28.72,1:06:32.00,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:06:32.00,1:06:32.00,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:06:32.00,1:06:38.64,Overtekst,,0,0,0,,og gør det det så endnu en gang, du er nemlig kun halvvejs
+Dialogue: 0,1:06:38.64,1:06:38.65,Overtekst,,0,0,0,,og gør det det så endnu en gang, du er nemlig kun halvvejs
+Dialogue: 0,1:06:38.65,1:06:42.40,Overtekst,,0,0,0,,Synes du ikke og’s det er vildt sjov  
+Dialogue: 0,1:06:42.40,1:06:42.40,Overtekst,,0,0,0,,Synes du ikke og’s det er vildt sjov  
+Dialogue: 0,1:06:42.40,1:06:49.95,Overtekst,,0,0,0,,det må du gerne tænk du har lov
+Dialogue: 0,1:06:49.95,1:06:49.95,Overtekst,,0,0,0,,det må du gerne tænk du har lov
+Dialogue: 0,1:06:49.95,1:06:50.31,Overtekst,,0,0,0,,der ingen årsag til at vær flov
+Dialogue: 0,1:06:50.31,1:06:50.31,Overtekst,,0,0,0,,der ingen årsag til at vær flov
+Dialogue: 0,1:06:50.31,1:06:52.63,Overtekst,,0,0,0,,for jazzercise er vildt fedt
+Dialogue: 0,1:06:52.63,1:06:52.63,Overtekst,,0,0,0,,for jazzercise er vildt fedt
+Dialogue: 0,1:06:52.63,1:07:00.56,Overtekst,,0,0,0,,vildt fedt x n
+Dialogue: 0,1:07:00.56,1:07:00.56,Overtekst,,0,0,0,,vildt fedt x n
+Dialogue: 0,1:07:00.56,1:07:05.38,Overtekst,,0,0,0,,Et skridt ud - en hånd på hoften, anden arm frem
+Dialogue: 0,1:07:05.38,1:07:05.38,Overtekst,,0,0,0,,Et skridt ud - en hånd på hoften, anden arm frem
+Dialogue: 0,1:07:05.38,1:07:09.13,Overtekst,,0,0,0,,Roterer kroppen, så et knæløft
+Dialogue: 0,1:07:09.13,1:07:09.13,Overtekst,,0,0,0,,Roterer kroppen, så et knæløft
+Dialogue: 0,1:07:09.13,1:07:14.26,Overtekst,,0,0,0,,Vi skruer tempo op til 180 bpm
+Dialogue: 0,1:07:14.26,1:07:14.27,Overtekst,,0,0,0,,Vi skruer tempo op til 180 bpm
+Dialogue: 0,1:07:14.27,1:07:17.33,Overtekst,,0,0,0,,Ku måske danse det?
+Dialogue: 0,1:07:17.33,1:07:17.33,Overtekst,,0,0,0,,Ku måske danse det?
+Dialogue: 0,1:07:17.33,1:07:20.01,Overtekst,,0,0,0,,Det er (et fællesskab) ud’n mage
+Dialogue: 0,1:07:20.01,1:07:20.01,Overtekst,,0,0,0,,Det er (et fællesskab) ud’n mage
+Dialogue: 0,1:07:20.01,1:07:23.70,Overtekst,,0,0,0,,(Bevæger os så) synkront
+Dialogue: 0,1:07:23.70,1:07:23.70,Overtekst,,0,0,0,,(Bevæger os så) synkront
+Dialogue: 0,1:07:23.70,1:07:27.82,Overtekst,,0,0,0,,(kan glemme virkelig)heden 
+Dialogue: 0,1:07:27.82,1:07:27.82,Overtekst,,0,0,0,,(kan glemme virkelig)heden 
+Dialogue: 0,1:07:27.82,1:07:30.15,Overtekst,,0,0,0,,og hverdagen
+Dialogue: 0,1:07:30.15,1:07:30.15,Overtekst,,0,0,0,,og hverdagen
+Dialogue: 0,1:07:30.15,1:07:33.47,Overtekst,,0,0,0,,Så, se på os hvordan vi gør, smid den skjorte hvis du tør
+Dialogue: 0,1:07:33.47,1:07:33.47,Overtekst,,0,0,0,,Så, se på os hvordan vi gør, smid den skjorte hvis du tør
+Dialogue: 0,1:07:33.47,1:07:36.25,Overtekst,,0,0,0,,Neon spandex om de lår, svedbånd holder pandehår
+Dialogue: 0,1:07:36.25,1:07:36.25,Overtekst,,0,0,0,,Neon spandex om de lår, svedbånd holder pandehår
+Dialogue: 0,1:07:36.25,1:07:41.38,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:07:41.38,1:07:41.38,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:07:41.38,1:07:47.56,Overtekst,,0,0,0,,og gør det det så endnu en gang, du er nemlig kun halvvejs
+Dialogue: 0,1:07:47.56,1:07:47.57,Overtekst,,0,0,0,,og gør det det så endnu en gang, du er nemlig kun halvvejs
+Dialogue: 0,1:07:47.57,1:07:51.24,Overtekst,,0,0,0,,Synes du ikke og’s det er vildt sjov  
+Dialogue: 0,1:07:51.24,1:07:51.24,Overtekst,,0,0,0,,Synes du ikke og’s det er vildt sjov  
+Dialogue: 0,1:07:51.24,1:07:55.16,Overtekst,,0,0,0,,det må du gerne tænk du har lov
+Dialogue: 0,1:07:55.16,1:07:55.16,Overtekst,,0,0,0,,det må du gerne tænk du har lov
+Dialogue: 0,1:07:55.16,1:07:58.20,Overtekst,,0,0,0,,der ingen årsag til at vær flov
+Dialogue: 0,1:07:58.20,1:07:58.21,Overtekst,,0,0,0,,der ingen årsag til at vær flov
+Dialogue: 0,1:07:58.21,1:08:02.39,Overtekst,,0,0,0,,for jazzercise er vildt fedt
+Dialogue: 0,1:08:02.39,1:08:02.39,Overtekst,,0,0,0,,for jazzercise er vildt fedt
+Dialogue: 0,1:08:02.39,1:08:03.74,Overtekst,,0,0,0,,Vi stopper ik
+Dialogue: 0,1:08:03.74,1:08:03.74,Overtekst,,0,0,0,,Vi stopper ik
+Dialogue: 0,1:08:03.74,1:08:05.49,Overtekst,,0,0,0,,Vi træner lår
+Dialogue: 0,1:08:05.49,1:08:05.49,Overtekst,,0,0,0,,Vi træner lår
+Dialogue: 0,1:08:05.49,1:08:09.06,Overtekst,,0,0,0,,Mælkesyre i al dit blod
+Dialogue: 0,1:08:09.06,1:08:09.06,Overtekst,,0,0,0,,Mælkesyre i al dit blod
+Dialogue: 0,1:08:09.06,1:08:11.34,Overtekst,,0,0,0,,Hovedet let
+Dialogue: 0,1:08:11.34,1:08:11.34,Overtekst,,0,0,0,,Hovedet let
+Dialogue: 0,1:08:11.34,1:08:17.01,Overtekst,,0,0,0,,Besvimer på floor - ring 112 og løft hans hoved
+Dialogue: 0,1:08:17.01,1:08:17.01,Overtekst,,0,0,0,,Besvimer på floor - ring 112 og løft hans hoved
+Dialogue: 0,1:08:17.01,1:08:22.09,Overtekst,,0,0,0,,Ahhhhhhhh 
+Dialogue: 0,1:08:22.09,1:08:22.09,Overtekst,,0,0,0,,Ahhhhhhhh 
+Dialogue: 0,1:08:22.09,1:08:27.60,Overtekst,,0,0,0,,Kan du mon klare det x2
+Dialogue: 0,1:08:27.60,1:08:27.60,Overtekst,,0,0,0,,Kan du mon klare det x2
+Dialogue: 0,1:08:27.60,1:08:31.06,Overtekst,,0,0,0,,Se på os hvordan vi gør, smid den skjorte hvis du tør
+Dialogue: 0,1:08:31.06,1:08:31.07,Overtekst,,0,0,0,,Se på os hvordan vi gør, smid den skjorte hvis du tør
+Dialogue: 0,1:08:31.07,1:08:33.50,Overtekst,,0,0,0,,Neon spandex om de lår, svedbånd holder pandehår
+Dialogue: 0,1:08:33.50,1:08:33.51,Overtekst,,0,0,0,,Neon spandex om de lår, svedbånd holder pandehår
+Dialogue: 0,1:08:33.51,1:08:34.11,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:08:34.11,1:08:35.46,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:08:35.46,1:08:35.46,Overtekst,,0,0,0,,Neon spandex om de lår, svedbånd holder pandehår
+Dialogue: 0,1:08:35.46,1:08:38.94,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:08:38.94,1:08:38.94,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:08:38.94,1:08:42.89,Overtekst,,0,0,0,,og gør det det så endnu en gang, du er nemlig kun-
+Dialogue: 0,1:08:42.89,1:08:42.89,Overtekst,,0,0,0,,og gør det det så endnu en gang, du er nemlig kun-
+Dialogue: 0,1:08:42.89,1:08:46.52,Overtekst,,0,0,0,,Se på os hvordan vi gør, smid den skjorte hvis du tør
+Dialogue: 0,1:08:46.52,1:08:46.52,Overtekst,,0,0,0,,Se på os hvordan vi gør, smid den skjorte hvis du tør
+Dialogue: 0,1:08:46.52,1:08:50.62,Overtekst,,0,0,0,,Neon spandex om de lår, svedbånd holder pandehår
+Dialogue: 0,1:08:50.62,1:08:50.62,Overtekst,,0,0,0,,Neon spandex om de lår, svedbånd holder pandehår
+Dialogue: 0,1:08:50.62,1:08:54.09,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:08:54.09,1:08:54.09,Overtekst,,0,0,0,,Smid din hofte rundt, lige indtil det gør ondt
+Dialogue: 0,1:08:54.09,1:09:00.37,Overtekst,,0,0,0,,og gør det det så endnu en gang, du er nemlig kun halvvejs
+Dialogue: 0,1:09:00.37,1:09:00.37,Overtekst,,0,0,0,,og gør det det så endnu en gang, du er nemlig kun halvvejs
+Dialogue: 0,1:09:00.37,1:09:04.21,Overtekst,,0,0,0,,Synes du ikke og’s det er vildt sjov  
+Dialogue: 0,1:09:04.21,1:09:04.21,Overtekst,,0,0,0,,Synes du ikke og’s det er vildt sjov  
+Dialogue: 0,1:09:04.21,1:09:07.97,Overtekst,,0,0,0,,det må du gerne tænk du har lov
+Dialogue: 0,1:09:07.97,1:09:07.97,Overtekst,,0,0,0,,det må du gerne tænk du har lov
+Dialogue: 0,1:09:07.97,1:09:11.77,Overtekst,,0,0,0,,der ingen årsag til at vær flov
+Dialogue: 0,1:09:11.77,1:09:11.77,Overtekst,,0,0,0,,der ingen årsag til at vær flov
+Dialogue: 0,1:09:11.77,1:09:16.91,Overtekst,,0,0,0,,for jazzercise er vildt fedt
+Dialogue: 0,1:09:16.91,1:09:16.91,Overtekst,,0,0,0,,for jazzercise er vildt fedt
+Dialogue: 0,1:09:16.91,1:09:29.97,Overtekst,,0,0,0,,Jazzercise er vildt fedt (x N)
+Dialogue: 0,1:09:29.97,1:09:32.38,Overtekst,,0,0,0,,Jazzercise er vildt fedt (x N)
